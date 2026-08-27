@@ -6,18 +6,18 @@ permalink: /
 # DM-GY 6063 | Creative Coding<br>Fall 2026
 
 - Instructor: [Melody Loveless](https://melodyloveless.com)
-- email: [scott.fitzgerald@nyu.edu](mailto:melodyloveless@nyu.edu)
+- email: [melodyloveless@nyu.edu](mailto:melodyloveless@nyu.edu)
 - Website: [TBA](TBA)
-- Class meeting: Wednesdays 11am - 1:50pm 370 Jay Street, Room 308
-- Office Hours: Via Zoom ([by appointment](https://calendar.app.google/6yKjDgyeGzxupfGT6))
-- - If you want to
+- Class meeting: Wednesdays 6 - 8:50pm 370 Jay Street
+- Office Hours: Via Zoom ([by appointment](https://calendar.app.google/SPedrxtkC9Rrss7g6))
+- - If you want to meet IRL, ask to talk to me after class or send me an email.
 
 ## Important Dates (for this course)
 
 - 09/02: First day of class
 - 10/14: No class (NYU meets on a Monday schedule)
 - 12/9: Last class neeting
-- 12/16-12/23: Our classes' Final presentation will be assigned sometime during this period. Details TBA.
+- 12/16-12/23: Our classes' final presentation will be assigned sometime during this period. Details TBA.
 
 ---
 
