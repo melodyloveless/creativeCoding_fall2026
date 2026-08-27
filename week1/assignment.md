@@ -1,3 +1,4 @@
+# Part One: House Keeping
 ## Getting set up with VSCode, GitHub and GitHub Pages
 
 ### Github
@@ -5,7 +6,7 @@ GitHub provides the infrastructure for this course. It is how I will share assig
 
 - Sign up for a [new GitHub account](https://github.com/). If you already have one, you can either use your existing account or sign up for a new, course-specific account. ([video](https://www.youtube.com/watch?v=ZVRuPO8nCLA)).
 - Download and install [GitHub Desktop](https://desktop.github.com/). ([video](https://www.youtube.com/watch?v=dN5A0kDdCwk)).
-- Log into your new GitHub account from GitHub desktop.
+- Log into your new GitHub account from GitHub Desktop.
 
 ### VSCode
 VSCode is the code editor we will be using in this class. It is essentially a fancy text editor that is streamlined for editing code. While you can technically edit code in any basic text editor, VSCode is nice because it can auto-format your code, it color-codes different elements of your code, and you can preview what you're working on in the editor.
@@ -44,5 +45,7 @@ Everything you do in this course will be contained in one folder. A GitHub Repo
 - To commit, make a note in the "Summary" field below the listed changes. This typically is a short description of what you've changed in your repo.
 - Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
 
-### Testing the setup
+### Testing the setup and sharing a link
 Submit a link to your edited readme file to demonstrate that you've successfully pushed your changes to Github.
+
+# Part Two: Coding Is...
