@@ -6,9 +6,10 @@
 - Setting up dev environment
 
 ### Notes/Materials
+#### IDM Notes
 - [Programming Computers](https://idmp5.github.io/intro/programming/)
 - [The browser and javascript](https://idmp5.github.io/intro/javascript/)
-- [setting up an IDE](https://idmp5.github.io/intro/ide/)
+- [Setting up an IDE](https://idmp5.github.io/intro/ide/)
 - [Git and GitHub](https://idmp5.github.io/intro/git/)
 
 ### This week's LLM
@@ -19,6 +20,6 @@
 - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?" (distribued via Brightspace)
 
 ### Assignments
-  - [Part One: setting up dev environment, creating a repo](assignment.html)
+All assignments are due by the beginning of next class unless stated otherwise
+  - [Part One: House Keeping](assignment.html)
   - [Part Two: Creative Coding is…](coding_is.html)
-  - [Part Three: Reading + Response]
