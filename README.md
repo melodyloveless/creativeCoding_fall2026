@@ -10,7 +10,7 @@ permalink: /
 - Website: [TBA](TBA)
 - Class meeting: Wednesdays 6 - 8:50pm 370 Jay Street
 - Office Hours: Via Zoom ([by appointment](https://calendar.app.google/SPedrxtkC9Rrss7g6))
-- - If you want to meet IRL, ask to talk to me after class or send me an email.
+ - If you want to meet IRL, ask to talk to me after class or send me an email.
 
 ## Important Dates (for this course)
 
