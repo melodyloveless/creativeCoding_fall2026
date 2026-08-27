@@ -47,4 +47,4 @@ Everything you do in this course will be contained in one folder. A GitHub Repo
 
 ### Testing the setup and sharing a link
 Submit a link to your edited readme file to demonstrate that you've successfully pushed your changes to Github.
-[Share your link here](DO THIS HERE)
+[Share your link here](https://docs.google.com/spreadsheets/d/1amdorMekYWZXApo1Bj7gJ73fFFjbhm9UI-Wzh4GBOFw/edit?usp=sharing)
