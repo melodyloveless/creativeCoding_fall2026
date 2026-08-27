@@ -1,5 +1,5 @@
 ## Week 1
-### Topics
+### Agenda
 - Introductions
 - Review Syllabus
 - Creative coding tools and philosophies
