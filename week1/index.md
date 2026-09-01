@@ -9,7 +9,7 @@
 #### By Melody
 - Slides (TBA)
 - [Introduction to Drawing with p5.js](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing)
-- [Introduction to Interactivity, Variables, Booleans, Conditions, and Operators](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing)
+- [Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing)
 
 #### By IDM
 - [Programming Computers](https://idmp5.github.io/intro/programming/)
