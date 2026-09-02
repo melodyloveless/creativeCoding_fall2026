@@ -31,6 +31,7 @@ Eloquent Javascript by Marijn Haverbeke
 ### Coursework
 Before the end of the day on (Th) 9/3:
   - Share your weekly reflection via Brightspace.
+
 Before the beginning of next class, complete and submit:
   - [Getting set up with VSCode, GitHub, and GitHub Pages](assignment.html)
   - ["Creative coding is..."](coding_is.html)
