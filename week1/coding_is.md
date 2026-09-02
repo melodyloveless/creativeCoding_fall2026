@@ -1,7 +1,7 @@
 ## "Creative coding is..."
 
 - Research different definitions for the term “creative coding”, keeping track of their sources. Make a list of these definition + source pairs in a document.
-- Using the template you downloaded while setting up your GitHub repo, create a github.io site that randomly generates definitions of creative coding replacing the quotes and sources with the items you found online.
+- Using the [template you downloaded](https://github.com/melodyloveless/creativeCodingFall2026_template/) while setting up your GitHub repo, create a github.io site that randomly generates definitions of creative coding replacing the quotes and sources with the items you found online.
   - To do this, open the GM-GY-6063-template repo you created on your computer in VSCode. 
   - Navigate to and open the week1 folder.
   - Open the sketch.js file
