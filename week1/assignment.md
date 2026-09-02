@@ -1,11 +1,11 @@
-# Getting set up with VSCode, GitHub and GitHub Pages
+## Getting set up with VSCode, GitHub and GitHub Pages
 
 ### Github
 GitHub provides the infrastructure for this course. It is how I will share assignments and examples with you, and it is how you will submit your own notes and assignments. It also allows you to publish your content to the web easily through something called GitHub Pages.
 
 - Sign up for a [new GitHub account](https://github.com/). If you already have one, you can either use your existing account or sign up for a new, course-specific account. ([video](https://www.youtube.com/watch?v=ZVRuPO8nCLA)).
 - Download and install [GitHub Desktop](https://desktop.github.com/). ([video](https://www.youtube.com/watch?v=dN5A0kDdCwk)).
-- Log into your new GitHub account from GitHub Desktop.
+- Log into your new GitHub account from GitHub desktop.
 
 ### VSCode
 VSCode is the code editor we will be using in this class. It is essentially a fancy text editor that is streamlined for editing code. While you can technically edit code in any basic text editor, VSCode is nice because it can auto-format your code, it color-codes different elements of your code, and you can preview what you're working on in the editor.
@@ -14,12 +14,12 @@ VSCode is the code editor we will be using in this class. It is essentially a fa
 - Install VSCode
 - Open VSCode and install the [p5v2.0 project generator](https://marketplace.visualstudio.com/items?itemName=Irti.p5js-project-generator) which will also include the LiveServer extension and [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-The easiest way to install extensions is to click on the extension icon in the code editor, and to search for the extensions by name, after which you can click the "install" button. ([video](https://www.youtube.com/watch?v=epQgFt4NTPI))
+The easiest way to install extensions is to click on the extension icon in the code editor, and to search for the extensions by name, after which you can click the "install" button. ([video](https://stream.nyu.edu/media/Install+and+set+up+VS+Code/1_0cpl8krk))
 
 ### Creating a course repo
-Everything you do in this course will be contained in one folder. A GitHub Repository or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
+Everything you do in this course will be contained in one folder on your computer. A GitHub Repository or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
 
-- Go to this link: https://github.com/DM-GY-6063-A/CC-template/
+- Go to this link: [https://github.com/shfitz/DM-GY-6063-template](https://github.com/shfitz/DM-GY-6063-template)
 - Click the "Use this template" button and select "create a new repository":
 ![Screenshot of the github interface](media/template.png)
 - Give your repository a name like this: "CC-[your NetID]". Make sure the repository is set to Public, as this will allow you to publish a website.
@@ -44,6 +44,5 @@ Everything you do in this course will be contained in one folder. A GitHub Repo
 - To commit, make a note in the "Summary" field below the listed changes. This typically is a short description of what you've changed in your repo.
 - Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
 
-### Testing the setup and sharing a link
-Submit a link to your edited readme file to demonstrate that you've successfully pushed your changes to Github.
-[Share your link here](https://docs.google.com/spreadsheets/d/1amdorMekYWZXApo1Bj7gJ73fFFjbhm9UI-Wzh4GBOFw/edit?usp=sharing)
+### Testing the setup
+[Submit a link to your github repo with the changes on this spreadsheet](https://docs.google.com/spreadsheets/d/1amdorMekYWZXApo1Bj7gJ73fFFjbhm9UI-Wzh4GBOFw/edit?usp=sharing) to demonstrate that you've successfully pushed your changes to Github.

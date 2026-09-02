@@ -25,8 +25,8 @@
 - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?" [Download Here](https://drive.google.com/file/d/1cQmJk6pv5ngPejgqfLWSZlXz_v9uJsYZ/view?usp=drive_link)
 
 #### Supplementary/Optional
-Marijn Haverbeke, Eloquent Javascript
-  - [“Intro”](https://eloquentjavascript.net/3rd_edition/00_intro.html) (skip “Overview of This Book” and read the next/last section) 
+Eloquent Javascript by Marijn Haverbeke
+  - [“Intro”](https://eloquentjavascript.net/3rd_edition/00_intro.html) (start at the beginning, skip “Overview of This Book,” and move on to the next and final section.) 
   - [“Values, Types, and Operators”](https://eloquentjavascript.net/3rd_edition/01_values.html)
   - [“Program Structure”](https://eloquentjavascript.net/3rd_edition/02_program_structure.html)
 
