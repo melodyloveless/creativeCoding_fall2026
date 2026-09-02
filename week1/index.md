@@ -3,10 +3,7 @@
 - Introductions/Ice Breakers
   - [Complete the Ice Breaker Activity using this sheet](https://docs.google.com/document/d/1f_Rut1j9yq7qEsFD8M4VwGrROOBpZJ4OAVDJSdI-3eA/edit?usp=sharing)
 - Review the [syllabus](https://docs.google.com/document/d/1ikmPHfJHZ6sjjwIk0wDpehyRG9uS6FDG9Qy6gVTK8BY/edit?usp=sharing)
-- Lecture: Introduction to Creative Coding
-  - Slides
-  - In-Class Reading
-    - Picture 1
+- [Lecture/Slides: Introduction to Creative Coding](https://docs.google.com/presentation/d/1jxwiuuezK1ifUdhGhvzbU75NhxSdvuvyRDxlNSQWvxs/edit?usp=drive_link)
 - Setting up dev environment
 - Getting started with p5.js
 
