@@ -11,9 +11,10 @@
 ## Instructions:
 
 - See our [class website](TBA) for coursework, coding examples, instructions, notes, and more.
-- (Review the syllabus for course policies, important dates, and more.)[TBA] 
+- [Review the syllabus for course policies, a course outline, and more.](TBA) 
 - [See our course folder for course materials.](TBA)
 - Your coding assignments should be submitted via your personal GitHub account.
+- Your writing assignments should be submitted via Brightspace.
 
 ---
 
