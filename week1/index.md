@@ -37,7 +37,7 @@ Before the beginning of next class:
 And submit:
   - [Getting set up with VSCode, GitHub, and GitHub Pages](assignment.html)
   - ["Creative coding is..."](coding_is.html)
-  - Your response to our weekly reading. See more details and share your work on Brightspace.
+  - Your response to our weekly reading. See more instructions on Brightspace.
 
 ### Next class
 We will begin our class with a Share Out. (Looking for at least 3 volunteers to share their work with the class.)
