@@ -6,11 +6,11 @@
 - Creative coding tools and philosophies
 - Setting up dev environment
 - Scripting and The DOM
-- **Assignments**: 
+- **Coursework**: 
+  - Weekly Reflection
   - Setting up dev environment, creating a repo
-  - Creative Coding is…
-- **Reading**:  
-  - Matthew Fuller, "Software Studies: A Lexicon" (_Intro_ & chapter on _Code_)
+  - "Creative Coding is…"
+  - Reading: Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?"
 
 <!--
 ### [Week 02 (2026/9/9)](week2/)
