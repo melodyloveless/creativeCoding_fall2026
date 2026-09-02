@@ -1,4 +1,4 @@
-## Course Schedule (subject to change)
+## Weekly Agenda
 
 ### [Week 01 (2026/09/02)](week1/)
 - Introductions
