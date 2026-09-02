@@ -9,6 +9,7 @@
 
 ## Instructions
 
+- Announcements and time-sensitive news will be shared via Brightspace.
 - [See our course website](https://melodyloveless.github.io/creativeCoding_fall2026/) for coursework, coding examples, instructions, and additional course matierals.
 - [Review the syllabus](TBA) for course policies, our classroom assignment, a course outline, and more. 
 - [See our course folder](TBA) for course materials like slides, notes, and reading materials.
