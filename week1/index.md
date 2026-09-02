@@ -1,13 +1,13 @@
 ## Week 1
 ### Agenda
-- Introductions
-- Review Syllabus
+- Introductions/Ice Breakers
+- Review the syllabus
 - Creative coding tools and philosophies
 - Setting up dev environment
+- Getting started with p5.js
 
 ### Notes
 #### By Melody
-- Slides (TBA)
 - [Introduction to Drawing with p5.js](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing)
 - [Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing)
 
@@ -25,14 +25,18 @@
 - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?" [Download Here](https://drive.google.com/file/d/1cQmJk6pv5ngPejgqfLWSZlXz_v9uJsYZ/view?usp=drive_link)
 
 #### Supplementary/Optional
-- Matthew Fuller, "[Software Studies: A Lexicon](https://search.library.nyu.edu/permalink/01NYU_INST/1n0hp3f/alma990034747600107871)" ([Intro](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/reader.action?docID=3338867&ppg=16&c=UERG) & chapter on "[Code](https://search.library.nyu.edu/permalink/01NYU_INST/1e86n5m/cdi_proquest_ebookcentralchapters_3338867_10_55)").
+Marijn Haverbeke, Eloquent Javascript
+  - [“Intro”](https://eloquentjavascript.net/3rd_edition/00_intro.html) (skip “Overview of This Book” and read the next/last section) 
+  - [“Values, Types, and Operators”](https://eloquentjavascript.net/3rd_edition/01_values.html)
+  - [“Program Structure”](https://eloquentjavascript.net/3rd_edition/02_program_structure.html)
 
-### Assignments
-All assignments are due by the beginning of next class unless stated otherwise
-  - [Part One: House Keeping](assignment.html)
-  - Part Two: Read "What Is Code?" (Optional: Read other text.) Take notes as necessary. (Bonus Goal: Try to connect your findings to Part Three.)
-  - [Part Three: Creative Coding is…](coding_is.html)
-
+### Coursework
+Before the end of the day on (Th) 9/3:
+  - Share your weekly reflection via Brightspace.
+Before the beginning of next class, complete and submit:
+  - [Getting set up with VSCode, GitHub, and GitHub Pages](assignment.html)
+  - ["Creative coding is..."](coding_is.html)
+  - Your response to our weekly reading. See more details and share your work on Brightspace.
 
 ### Next class
 We will begin our class with a Share Out. (Looking for at least 3 volunteers to share their work with the class.)

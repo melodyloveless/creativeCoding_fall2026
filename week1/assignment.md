@@ -1,5 +1,4 @@
-# Part One: House Keeping
-## Getting set up with VSCode, GitHub and GitHub Pages
+# Getting set up with VSCode, GitHub and GitHub Pages
 
 ### Github
 GitHub provides the infrastructure for this course. It is how I will share assignments and examples with you, and it is how you will submit your own notes and assignments. It also allows you to publish your content to the web easily through something called GitHub Pages.
