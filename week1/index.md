@@ -1,8 +1,12 @@
 ## Week 1
 ### Agenda
 - Introductions/Ice Breakers
-- Review the syllabus
-- Creative coding tools and philosophies
+  - [Complete the Ice Breaker Activity using this sheet](https://docs.google.com/document/d/1f_Rut1j9yq7qEsFD8M4VwGrROOBpZJ4OAVDJSdI-3eA/edit?usp=sharing)
+- Review the [syllabus](https://docs.google.com/document/d/1ikmPHfJHZ6sjjwIk0wDpehyRG9uS6FDG9Qy6gVTK8BY/edit?usp=sharing)
+- Lecture: Introduction to Creative Coding
+  - Slides
+  - In-Class Reading
+    - Picture 1
 - Setting up dev environment
 - Getting started with p5.js
 
