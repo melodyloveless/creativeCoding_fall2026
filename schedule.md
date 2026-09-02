@@ -12,6 +12,7 @@
 - **Reading**:  
   - Matthew Fuller, "Software Studies: A Lexicon" (_Intro_ & chapter on _Code_)
 
+<!--
 ### [Week 02 (2026/9/9)](week2/)
 - review HTML & DOM, homework questions
 - p5.js basics
@@ -100,3 +101,5 @@
 - Final Project Presentations
 
 ---
+
+-->
