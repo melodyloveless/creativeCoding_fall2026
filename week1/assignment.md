@@ -19,7 +19,7 @@ The easiest way to install extensions is to click on the extension icon in the c
 ### Creating a course repo
 Everything you do in this course will be contained in one folder on your computer. A GitHub Repository or "repo" is a folder that you can synchronize to a server. This serves as a version control mechanism, a storage/backup solution, and a method to share and publish your work. I've shared a template repository that has everything you need in it to get started writing code in p5.js. You can create a new repository from the template using the following steps:
 
-- Go to this link: [https://github.com/shfitz/DM-GY-6063-template](https://github.com/shfitz/DM-GY-6063-template)
+- Go to this link: [https://github.com/melodyloveless/creativeCodingFall2026_template/](https://github.com/melodyloveless/creativeCodingFall2026_template/) 
 - Click the "Use this template" button and select "create a new repository":
 ![Screenshot of the github interface](media/template.png)
 - Give your repository a name like this: "CC-[your NetID]". Make sure the repository is set to Public, as this will allow you to publish a website.
