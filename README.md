@@ -18,9 +18,10 @@
 
 ---
 
-## Important Dates (for this course)
+## Important Dates
 
-- 09/02: First day of class
+- 09/2: First day of class
 - 10/14: No class (NYU meets on a Monday schedule)
 - 12/9: Last class neeting
 - 12/16-12/23: Our classes' final presentation will be assigned sometime during this period. Details TBA.
+[Review NYU’s Fall 2026 calendar for additional information.](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/academic-calendar.html?semester=Fall%202026)
