@@ -41,7 +41,7 @@ And submit:
   - Your response to our weekly reading. See more instructions on Brightspace.
 
 #### Note 
-I want to acknowledge that our demo portion ran short this week! Please don't hesistate to book an office hour with me if you want additional help getting set up. 
+I want to acknowledge that our demo portion ran short this week! Please don't hesistate to [book an office hour with me](https://calendar.app.google/2DJfrvtXgpKDvnKA8) if you want additional help getting set up. 
 
 At a minimum, before next class:
 - Set up a GitHub repository for submitting work to this class
