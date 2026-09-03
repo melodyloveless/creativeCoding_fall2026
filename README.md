@@ -24,7 +24,7 @@
 
 - 09/2: First day of class
 - 10/14: No class (NYU meets on a Monday schedule)
-- 12/9: Last class neeting
+- 12/9: Last class meeting
 - 12/16-12/23: Our classes' final presentation will be assigned sometime during this period. Details TBA.
 
 
