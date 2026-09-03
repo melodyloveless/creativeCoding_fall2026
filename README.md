@@ -16,7 +16,7 @@
 - [See our course folder](https://drive.google.com/drive/folders/10cq8veXYD6fe2KAWvTfcEm7txt75ndPe?usp=drive_link){:target="_blank"} for course materials like slides, notes, and reading materials.
 - Your coding assignments should be submitted via your personal GitHub account.
 - Your writing assignments should be submitted via Brightspace.
-- Sign up for an office hour if you want additional help or to talk about your grade. If you want to meet IRL, ask to talk to me after class or send me an email.
+- [Sign up for a remote office hour]((https://calendar.app.google/SPedrxtkC9Rrss7g6){:target="_blank"}) if you want additional help or to talk about your grade. If you want to meet in-person, ask to talk to me after class or send me an email.
 
 ---
 
