@@ -44,10 +44,12 @@ And submit:
 I want to acknowledge that our demo portion ran short this week! Please don't hesistate to [book an office hour with me](https://calendar.app.google/2DJfrvtXgpKDvnKA8) if you want additional help getting set up. 
 
 At a minimum, before next class:
-- Set up a GitHub repository for submitting work to this class
+- Complete the weekly reflection.
+- Complete the weekly reading.
+- Set up a GitHub repository for submitting work to this class.
 - Share your link to your repository on the [dedicated Google Sheet.](https://docs.google.com/spreadsheets/d/1amdorMekYWZXApo1Bj7gJ73fFFjbhm9UI-Wzh4GBOFw/edit?usp=sharing)
-- Clone your repository to your computer using GitHub Pages
-- [Download and install the software described here](assignment.html)
+- Clone your repository to your computer using GitHub Pages.
+- [Download and install the software described here.](assignment.html)
 - Do your best completing ["Creative coding is..."](coding_is.html) At a minimum, prepare a short description and at least eight quotes and sources.
 
 ### Next class
