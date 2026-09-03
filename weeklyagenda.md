@@ -1,4 +1,4 @@
-## Weekly Agenda
+## Weekly Agendas
 
 ### [Week 01 (2026/09/02)](week1/)
 - Introductions
@@ -19,10 +19,10 @@
   - coordinate system
   - transformations
   - drawing primitives
-- **Assignment**: Process Drawing
-- **Reading**: 
-  - Sol LeWitt, "Paragraphs on Conceptual Art" (1967)
-  - _optional_ LeWitt, "Sentences on Conceptual Art" (1969)
+- **Coursework**: 
+  - Weekly Reflection
+  - Process Drawing
+  - Reading: Sol LeWitt, "Paragraphs on Conceptual Art" (1967)
 
 ### [Week 03 (2026/09/16)](week3/)
 - Iteration, polar coordinates
