@@ -14,7 +14,7 @@
 
 ### Week 02 (2026/9/9)<!--[Week 02 (2026/9/9)](week2/)-->
 - Review homework
-- p5.js Basics
+- p5.js Basics / Introduction to Drawing w/p5.js
 - **Coursework**: 
   - Weekly Reflection
   - Process Drawing
