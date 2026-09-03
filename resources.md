@@ -14,7 +14,7 @@
 - Google Color Picker (Search "Google Color Picker")
 - [Coolors](https://coolors.co/){:target="_blank"}
 - [Internet Archive](https://archive.org/){:target="_blank"}
-- [WikiMedia](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
+- [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"}
 - [Spriter's Resource](https://www.spriters-resource.com/){:target="_blank"}
 - [Freesound.org](https://freesound.org/){:target="_blank"}
 - [uppbeat.io](https://uppbeat.io/){:target="_blank"}
