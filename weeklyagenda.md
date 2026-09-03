@@ -1,29 +1,26 @@
 ## Weekly Agendas
 
 ### [Week 01 (2026/09/02)](week1/)
-- Introductions
+- Introductions/Icebreaker Activity
 - Review Syllabus
-- Creative coding tools and philosophies
+- Introduction to Creative Coding
 - Setting up dev environment
-- Scripting and The DOM
 - **Coursework**: 
   - Weekly Reflection
   - Setting up dev environment, creating a repo
   - "Creative Coding is…"
   - Reading: Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?"
 
-<!--
-### [Week 02 (2026/9/9)](week2/)
-- review HTML & DOM, homework questions
-- p5.js basics
-  - coordinate system
-  - transformations
-  - drawing primitives
+
+### [Week 02 (2026/9/9)]<!--(week2/)-->
+- Review homework
+- p5.js Basics
 - **Coursework**: 
   - Weekly Reflection
   - Process Drawing
   - Reading: Sol LeWitt, "Paragraphs on Conceptual Art" (1967)
 
+<!--
 ### [Week 03 (2026/09/16)](week3/)
 - Iteration, polar coordinates
 - **Assignment**: Iteration
