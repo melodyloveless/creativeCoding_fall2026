@@ -10,9 +10,10 @@
 ## Instructions
 
 - Announcements and time-sensitive news will be shared via Brightspace.
-- [See our course website](https://melodyloveless.github.io/creativeCoding_fall2026/) for coursework, coding examples, instructions, and additional course matierals.
-- [Review the syllabus](TBA) for course policies, our classroom assignment, a course outline, and more. 
-- [See our course folder](TBA) for course materials like slides, notes, and reading materials.
+- [Review our course website](https://melodyloveless.github.io/creativeCoding_fall2026/) for coursework, coding examples, instructions, and additional course materials.
+    - The [weekly agenda](https://melodyloveless.github.io/creativeCoding_fall2026/weeklyagenda.html) will contain an overview of daily schedules, assignments, notes, and more.
+- [Review the syllabus](https://docs.google.com/document/d/1ikmPHfJHZ6sjjwIk0wDpehyRG9uS6FDG9Qy6gVTK8BY/edit?usp=sharing) for course policies, our classroom assignment, a course outline, and more. 
+- [See our course folder](https://drive.google.com/drive/folders/10cq8veXYD6fe2KAWvTfcEm7txt75ndPe?usp=drive_link) for course materials like slides, notes, and reading materials.
 - Your coding assignments should be submitted via your personal GitHub account.
 - Your writing assignments should be submitted via Brightspace.
 - Sign up for an office hour if you want additional help or to talk about your grade. If you want to meet IRL, ask to talk to me after class or send me an email.
