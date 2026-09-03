@@ -40,3 +40,4 @@
 - [Flux Factory](https://www.fluxfactory.org/){:target="_blank"}
 - [Telepathy](https://newtelepathy.com/){:target="_blank"}
 - [Wavefield](https://wavefield.media/){:target="_blank"}
+- [Synth Library NYC](https://synthlibrarynyc.org/){:target="_blank"}
