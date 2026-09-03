@@ -3,7 +3,7 @@
 - Instructor: [Melody Loveless](https://melodyloveless.com)
 - Email: [melodyloveless@nyu.edu](mailto:melodyloveless@nyu.edu)
 - Course Website: [https://melodyloveless.github.io/creativeCoding_fall2026/](https://melodyloveless.github.io/creativeCoding_fall2026/)
-- Syllabus: [Sign into your NYU email to view](TBA)
+- Syllabus: [Sign into your NYU email to view](https://docs.google.com/document/d/1ikmPHfJHZ6sjjwIk0wDpehyRG9uS6FDG9Qy6gVTK8BY/edit?usp=sharing)
 - Date and Time: Wednesdays 6 - 8:50pm
 - Office Hours: [Via Zoom by appointment](https://calendar.app.google/SPedrxtkC9Rrss7g6)
 
