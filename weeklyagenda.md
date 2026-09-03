@@ -12,7 +12,7 @@
   - Reading: Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 1 "What is Code?"
 
 
-### [Week 02 (2026/9/9)]<!--(week2/)-->
+### Week 02 (2026/9/9)<!--[Week 02 (2026/9/9)](week2/)-->
 - Review homework
 - p5.js Basics
 - **Coursework**: 
