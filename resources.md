@@ -3,8 +3,8 @@
     - See the reference for a list of all functions. Browse the website for examples, external libraries, and more.
 - [Melody's Notes](https://drive.google.com/drive/folders/1UL8i8KOH4fqQzYgykI7L6Fjjdb0qDumZ?usp=drive_link){:target="_blank"}
 - [IDM's Notes](https://idmp5.github.io/){:target="_blank"}
-- [W3Schools](https://www.w3schools.com/)
-- [Nature of Code](https://natureofcode.com/){:target="_blank"}
+- [Nature of Code](https://natureofcode.com/){:target="_blank"} - simulating nature with JS
+- [W3Schools](https://www.w3schools.com/) - HTML, CSS, JS, and more
 - [Happy Coding: p5.js Tutorials](https://happycoding.io/){:target="_blank"}
 - [Video Series: Coding Train with Dan Shiffman](https://www.youtube.com/@TheCodingTrain){:target="_blank"}
 - [Video Series: Scott Fitzgerald from IDM](https://www.youtube.com/channel/UCW9VfZo4J9MpQ05TaINk4QA/playlists?view=50&sort=dd&shelf_id=1){:target="_blank"}
@@ -39,8 +39,8 @@
 - [New Inc](https://www.newmuseum.org/new-inc/){:target="_blank"}
 - [Eyebeam](https://eyebeam.org/){:target="_blank"}
 - [Harvestworks](https://www.harvestworks.org/){:target="_blank"}
-- [LiveCode.NYC](https://livecode.nyc){:target="_blank"}
 - [Flux Factory](https://www.fluxfactory.org/){:target="_blank"}
+- [LiveCode.NYC](https://livecode.nyc){:target="_blank"}
 - [Telepathy](https://newtelepathy.com/){:target="_blank"}
 - [Wavefield](https://wavefield.media/){:target="_blank"}
 - [Synth Library NYC](https://synthlibrarynyc.org/){:target="_blank"}
