@@ -40,8 +40,11 @@ And submit:
   - ["Creative coding is..."](coding_is.html)
   - Your response to our weekly reading. See more instructions on Brightspace.
 
-#### Note 
-I want to acknowledge that our demo portion ran short this week! Please don't hesistate to [book an office hour with me](https://calendar.app.google/2DJfrvtXgpKDvnKA8) if you want additional help getting set up. 
+#### Note (Updated: 9/7)
+**TLDR: [You should be able to find and click the 'Use this as a template' button on this tutorial(assignment.html)]**
+I want to acknowledge that our demo portion ran short this week and some of the notes and screenshots weren't matching up during class! As of now, the notes and GitHub account are updated. You all should be able to follow the instructions provided.
+
+Please don't hesistate to [book an office hour with me](https://calendar.app.google/2DJfrvtXgpKDvnKA8) if you want additional help getting set up . 
 
 At a minimum, before next class:
 - Complete the weekly reflection.
