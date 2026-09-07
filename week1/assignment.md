@@ -28,8 +28,10 @@ Everything you do in this course will be contained in one folder on your compute
 - After a few minutes, your GitHub pages site will be up (and will display the template content, for now) – you can click on the URL in the About section of your code page to check. This will be the URL for your course portfolio.
 
 ### Cloning your repo to your computer
-- Once you've logged into your GitHub account on GitHub desktop, "clone" your new repository onto your computer by clicking on the Repository tab in the top left corner, and selecting "Clone Repository" from the "Add" dropdown menu. (video)
+- Once you've logged into your GitHub account on GitHub desktop, "clone" your new repository onto your computer by clicking on the Repository tab in the top left corner, and selecting "Clone Repository" from the "Add" dropdown menu.
+![Selecting "clone repository"](media/clone.png)
 - You will be prompted to select a location on your computer to store the repository. This is where the repo will live on your computer. Once you set this location, don't move the folder manually, as it will sever GitHub Desktop's ability to track changes and synchronize. Select a location that you know will remain persistent on your computer.
+![Selecting "clone repository"](media/chooselocation.png)
 - When you click "Clone", a folder will be created on your computer with all the files in the repository. Click "Show in Finder" to navigate to the files themselves.
 
 ### Opening your folder in VSCode
