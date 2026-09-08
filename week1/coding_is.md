@@ -12,8 +12,8 @@ Instructions:
   - Open the sketch.js file
   - Edit the elements in the array at top. Fill at least as many entries as there are now.  
   - Share a short description (a couple of sentences is fine) and your list of references in your project’s readme.html file.
-    - Add your description within the paragraph tags (```<p></p>```).
-    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description in between the opening and closing tags (```<a>Name of reference here.</a>```).
+    - Add your description within the paragraph tags (```<p></p>```...```<p>Your description here</p>```).
+    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description in between the opening and closing tags (```<a>Name of reference here</a>```).
 - Bonus Goals: Explore color, change the font, add additional quotes to the array, etc. Try making it your own. (*How would you add more?*)
 
 Tips: 
