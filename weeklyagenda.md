@@ -18,7 +18,7 @@
 - **Coursework**: 
   - Weekly Reflection
   - Process Drawing
-  - Reading: Sol LeWitt, "Paragraphs on Conceptual Art" (1967)
+  - Reading/Exploration: Generative Artists and Conceptual Art
 
 <!--
 ### [Week 03 (2026/09/16)](week3/)
