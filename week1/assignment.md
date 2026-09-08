@@ -46,5 +46,5 @@ Everything you do in this course will be contained in one folder on your compute
 - To commit, make a note in the "Summary" field below the listed changes. This typically is a short description of what you've changed in your repo.
 - Committing saves the "version" you have just created; after committing, you still need to "push" the new version to the server. You do this with the "Push Origin" button in the top right corner. Once you've done that, your changes will be synchronized with the GitHub remote server, and after a few minutes you can preview them on your GitHub Pages site.
 
-### Testing the setup
+### Testing the setup and sharing a link to your work
 [Submit a link to your github repo with the changes on this spreadsheet](https://docs.google.com/spreadsheets/d/1amdorMekYWZXApo1Bj7gJ73fFFjbhm9UI-Wzh4GBOFw/edit?usp=sharing) to demonstrate that you've successfully pushed your changes to Github.
