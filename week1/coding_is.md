@@ -24,4 +24,3 @@ Tips:
   - ```textFont()``` - changes the font
   - ```textSize()``` - changes the size of the text
   - See [my notes](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing) for details.
-- Some of the advice the LLM gives might not completley align with this week's template. I recommend reviewing [my notes](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing) if you feel like the LLM's advice doesn't make sense for you!
