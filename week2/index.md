@@ -20,8 +20,7 @@
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
 
 ### Notes
-**Drawing**
-<details>
+**Drawing**<details>
 <summary>Melody's Notes</summary>
 <ul>
 <li><a href="https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing" target="_blank">Introduction to Drawing with p5.js</a></li>
