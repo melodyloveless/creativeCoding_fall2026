@@ -67,12 +67,12 @@ Response length: 7-10+ sentences
 Connect ideas from class/course materials to the materials assigned above. See Brightspace for additional talking points.
 
 ### Coursework
-Before the end of the day on (Th) 9/10...
+Before the end of the day on (Th) 9/10:
   - Share your weekly reflection via Brightspace.
 
-Before the beginning of next class... 
+Before the beginning of next class:
 - Review notes/materials as needed.
-- And complete:
+- And complete...
   - [Process Drawing](assignment.html)
   - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
   - [Week 1's Assignment ("Creative Coding is...")](https://melodyloveless.github.io/creativeCoding_fall2026/week1/coding_is.html) as needed.
