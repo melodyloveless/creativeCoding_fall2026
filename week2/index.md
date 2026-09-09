@@ -40,7 +40,6 @@
 <li><a href="https://idmp5.github.io/coding/random/" target="_blank">Randomness</a></li>
 <li><a href="https://idmp5.github.io/creative-coding/interactions/" target="_blank">Interactions</a></li>
 </ul>
-
 </details>
 
 **Artist Examples**
