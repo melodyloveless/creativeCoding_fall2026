@@ -4,9 +4,10 @@
   - Discuss last week's reading ("What Is Code?")
   - Review "Creative Coding is..."
     - Looking for 2-3 volunteers. Sign up to share work here.
-    - Discuss HTML & DOM
 - [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing){:target="_blank"}
 - [Watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"}
+- Go over template for today's class
+  - Discuss HTML & DOM
 - p5.js Basics
   - Coordinate System
   - Drawing shapes and text
@@ -41,6 +42,7 @@
 </ul>
 
 </details>
+
 **Artist Examples**
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
 **Set-up**
