@@ -17,10 +17,9 @@
   - Interactivity using mousePressed()
 - Discuss homework
 
-### Code/Examples
+### Code/Example
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
-  - when mouse is pressed, randomnly select a color palette from an array
-- [Interactive face](https://editor.p5js.org/melodyloveless/sketches/h2U07WtK7){:target="_blank"}s
+  - when mouse is pressed, randomnly select a color palette from a list of options
 
 ### Notes
 **Drawing**
