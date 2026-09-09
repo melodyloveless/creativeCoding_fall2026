@@ -7,7 +7,7 @@
 - [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing){:target="_blank"}
 - If time: [watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"} 
   - else, watch during this week's reading/exploration on your own
-- Go over template for today's class
+- Go over template for this week's coding assignment
   - Discuss HTML & DOM
 - p5.js Basics
   - Coordinate System
@@ -15,7 +15,7 @@
   - Transformations
   - Randomnization
   - Interactivity using mousePressed()
-- Discuss this week's homework
+- Discuss this week's coursework
 
 ### Code/Example
 - [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
