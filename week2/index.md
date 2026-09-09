@@ -5,7 +5,8 @@
   - Review "Creative Coding is..."
     - Looking for 2-3 volunteers. Sign up to share work here.
 - [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing){:target="_blank"}
-- [Watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"}
+- If time: [watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"} 
+  - else, watch during this week's reading/exploration on your own
 - Go over template for today's class
   - Discuss HTML & DOM
 - p5.js Basics
@@ -18,9 +19,12 @@
 
 ### Code/Examples
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
+  - when mouse is pressed, randomnly select a color palette from an array
+- [Interactive face](https://editor.p5js.org/melodyloveless/sketches/h2U07WtK7){:target="_blank"}s
 
 ### Notes
-**Drawing**<details>
+**Drawing**
+<details>
 <summary>Melody's Notes</summary>
 <ul>
 <li><a href="https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing" target="_blank">Introduction to Drawing with p5.js</a></li>
