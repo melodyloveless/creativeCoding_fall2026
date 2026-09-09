@@ -45,6 +45,7 @@
 
 **Artist Examples**
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
+
 **Set-up**
 - [IDM: Setting up p5](https://idmp5.github.io/p5/p5-setup/){:target="_blank"}
 - [IDM: The browser and javascript](https://idmp5.github.io/intro/javascript/){:target="_blank"}
@@ -56,8 +57,7 @@
 - [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31){:target="_blank"}
 
 ### Reading/Exploration
-#### Required
-**Read**:
+**Read**
   - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm){:target="_blank"} (1967)
   - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
     - **Explore/review** the hyperlinks highlighted in bright yellow
@@ -67,10 +67,10 @@ Response length: 7-10+ sentences
 Connect ideas from class/course materials to the materials assigned above. See Brightspace for additional talking points.
 
 ### Coursework
-Before the end of the day on (Th) 9/10:
+Before the end of the day on (Th) 9/10...
   - Share your weekly reflection via Brightspace.
 
-Before the beginning of next class: 
+Before the beginning of next class... 
 - Review notes as needed.
 - And complete:
   - [Process Drawing](assignment.html)
