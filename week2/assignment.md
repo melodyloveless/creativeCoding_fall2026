@@ -6,9 +6,10 @@
 - Edit your sketch using VSCode. Use the LiveServer to preview your work as you go.
 - Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. 
 - If you’re struggling with the logic of your plan and rending through your different iterations, try using the random() function to generate different versions of your sketch.
-- Add the reference image(s) to your repo in a directory named week2/media. 
+- Add the reference image(s) to your repo in your directory named 'week2/media'. 
 - Use the readme.html file to describe what you intended to do with each iteration. How did these differ from what you would up with? 
 - Bonus Goals: Edit the CSS/style within your main index.html page and/or your description ('/week2/readme.html'). 
+- Update your course website, uploading your work to the web.
 
 ### Updating Your Course Website
 - Go to the folder containing the clone of your repository for this course.
