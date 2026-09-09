@@ -70,7 +70,7 @@ Before the end of the day on (Th) 9/10...
   - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class... 
-- Review notes as needed.
+- Review notes/materials as needed.
 - And complete:
   - [Process Drawing](assignment.html)
   - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
