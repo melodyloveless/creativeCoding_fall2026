@@ -45,6 +45,7 @@
 **Artist Examples**
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
 
+
 **Set-up**
 - [IDM: Setting up p5](https://idmp5.github.io/p5/p5-setup/){:target="_blank"}
 - [IDM: The browser and javascript](https://idmp5.github.io/intro/javascript/){:target="_blank"}
