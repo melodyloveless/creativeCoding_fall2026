@@ -4,7 +4,7 @@
 - Take a clear photograph or scan of your illustrations.
 - [Download this template.](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link) Add it to your cloned repository in a folder titled 'week2.' 
 - Edit your sketch using VSCode. Use the LiveServer to preview your work as you go.
-- Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. Save this in your directory named 'week2' and add it to your online repo.
+- Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. 
 - If you’re struggling with the logic of your plan and rending through your different iterations, try using the random() function to generate different versions of your sketch.
 - Add the reference image(s) to your repo in a directory named week2/media. 
 - Use the readme.html file to describe what you intended to do with each iteration. How did these differ from what you would up with? 
