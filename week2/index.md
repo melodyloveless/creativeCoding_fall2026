@@ -49,12 +49,14 @@
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
 
 
-**Set-up**
+**Set-up and HTML/CSS**
 - [IDM: Setting up p5](https://idmp5.github.io/p5/p5-setup/){:target="_blank"}
 - [IDM: The browser and javascript](https://idmp5.github.io/intro/javascript/){:target="_blank"}
 - [IDM: Setting up an IDE](https://idmp5.github.io/intro/ide/){:target="_blank"}
 - [IDM: Git and GitHub](https://idmp5.github.io/intro/git/){:target="_blank"}
 - [W3Schools: HTML Filepaths](https://www.w3schools.com/html/html_filepaths.asp){:target="_blank"}
+- [W3Schools: HTML Elements](https://www.w3schools.com/html/html_elements.asp){:target="_blank"}
+- [W3Schools: Intro to CSS](https://www.w3schools.com/css/css_intro.asp){:target="_blank"}
 
 ### This week's LLM
 - [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31){:target="_blank"}
