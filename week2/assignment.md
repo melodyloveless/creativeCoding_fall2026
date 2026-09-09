@@ -17,7 +17,7 @@
 - Go to the folder containing the clone of your repository for this course.
 - How to update your list of sketches and description within the main index.html file:
     - In your main index.html, replace the code for with your list (```<ul></ul>```) with the following:
-    ![Updating the list of linked websites](media/updatedListForIndexHTML)
+    ![Updating the list of linked websites](media/updatedListForIndexHTML.png)
         - See [this page](https://github.com/melodyloveless/creativeCodingFall2026_template/blob/main/index.html) for more info.
 - How to update your description for this week's coding assignment:
     - Go to the folder 'week2'. Edit 'readme.html'.
