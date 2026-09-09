@@ -18,6 +18,7 @@
 - Discuss this week's homework
 
 ### Code/Example
+- [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
   - when mouse is pressed, randomnly select a color palette from a list of options
   - incorporates a custom function
