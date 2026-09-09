@@ -21,34 +21,22 @@
 **Drawing**
 <details>
 <summary>Melody's Notes</summary>
-- [Introduction to Drawing with p5.js](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing)
-- [Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing)
-- [Transformations and Custom Functions](https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?usp=sharing)
 <ul>
 <li><a href="https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing" target="_blank">Introduction to Drawing with p5.js</a></li>
 <li><a href="https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing" target="_blank">Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness</a></li>
 <li><a href="https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?usp=sharing" target="_blank">Transformations and Custom Functions</a></li>
 </ul>
-
-
 </details>
+
 <details>
 <summary>IDM's Notes</summary>
-- [IDM: Intro to p5](https://idmp5.github.io/p5/p5-intro/)
-- [IDM: Drawing on the canvas](https://idmp5.github.io/p5/drawing/)
-- [IDM: Variables](https://idmp5.github.io/coding/variables/)
-- [IDM: Translations, Rotations, and Transformations](https://idmp5.github.io/creative-coding/transformations/)
-- [IDM: Randomness](https://idmp5.github.io/coding/random/)
-- [IDM: Interactions](https://idmp5.github.io/creative-coding/interactions/)
-
-
 <ul>
-<li><a href="https://idmp5.github.io/p5/p5-intro/" target="_blank">IDM: Intro to p5</a></li>
-<li><a href="https://idmp5.github.io/p5/drawing/" target="_blank"></a>IDM: Drawing on the canvas</li>
-<li><a href="https://idmp5.github.io/coding/variables/" target="_blank">IDM: Variables</a></li>
-<li><a href="https://idmp5.github.io/creative-coding/transformations/" target="_blank">IDM: Translations, Rotations, and Transformations</a></li>
-<li><a href="https://idmp5.github.io/coding/random/" target="_blank">IDM: Randomness</a></li>
-<li><a href="https://idmp5.github.io/creative-coding/interactions/" target="_blank">IDM: Interactions</a></li>
+<li><a href="https://idmp5.github.io/p5/p5-intro/" target="_blank">Intro to p5</a></li>
+<li><a href="https://idmp5.github.io/p5/drawing/" target="_blank"></a>Drawing on the canvas</li>
+<li><a href="https://idmp5.github.io/coding/variables/" target="_blank">Variables</a></li>
+<li><a href="https://idmp5.github.io/creative-coding/transformations/" target="_blank">Translations, Rotations, and Transformations</a></li>
+<li><a href="https://idmp5.github.io/coding/random/" target="_blank">Randomness</a></li>
+<li><a href="https://idmp5.github.io/creative-coding/interactions/" target="_blank">Interactions</a></li>
 </ul>
 
 </details>
