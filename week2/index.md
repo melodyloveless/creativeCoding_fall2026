@@ -62,7 +62,7 @@
      <li><a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools: Intro to CSS</a></li>
 </ul>
 </details>
-
+<br>
 
 ### This week's LLM
 - [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31){:target="_blank"}
