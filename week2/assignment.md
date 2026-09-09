@@ -26,4 +26,4 @@
 - How to publish updates online:
     - Open GitHub Desktop. Press 'commit' and 'push origin'.
 
-Review notes from this week and last for more information/instructions.
+Review notes from this week and last for more information.
