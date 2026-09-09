@@ -4,7 +4,7 @@
 - Take a clear photograph or scan of your illustrations.
 - [Download this template.](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link) Add it to your cloned repository in a folder titled 'week2.' 
 - Edit your sketch using VSCode. Use the LiveServer to preview your work as you go.
-- Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. Save this in a directory named week2 and add it to your online repo.
+- Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. Save this in your directory named 'week2' and add it to your online repo.
 - If you’re struggling with the logic of your plan and rending through your different iterations, try using the random() function to generate different versions of your sketch.
 - Add the reference image(s) to your repo in a directory named week2/media. 
 - Use the readme.html file to describe what you intended to do with each iteration. How did these differ from what you would up with? 
@@ -21,6 +21,8 @@
     - Add your description within the paragraph tags (```<p></p>```. For example: ```<p>Your description here</p>```).
     - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description of your reference in between the opening and closing tags (```<a>Name of reference here</a>```). Add another item in your list using ```<li></li>```(For example: ```<li>item in your list.</li>```)
     - Update the ```<img>``` tag. Replace the src(source) with your media. (For example: ```<img src="media/yourImage.png"...```)
-    - Review the template for more instructions/hints.
+    - Review the template for more instructions/hints on how to edit your template.
 - How to publish updates online:
     - Open GitHub Desktop. Press 'commit' and 'push origin'.
+
+Review notes from this week and last for more information/instructions.
