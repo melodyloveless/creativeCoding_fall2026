@@ -3,12 +3,14 @@
 - Come up with a set of rules about how those individual shapes could be modified within that frame – for instance, the triangle could be scaled to be either half or two times its original size, or the circle could be moved (or translated) up or down by half of its diameter. On paper, experiment with some of these transformations, drawing at least five variations.
 - Take a clear photograph or scan of your illustrations.
 
-- Download this template. Add it to your repository in a folder titled 'week2.'
+- [Download this template.](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link) Add it to your cloned repository in a folder titled 'week2.'
+- Edit your sketch using VSCode. Use the LiveServer to preview your work as you go.
 
 
 - Translate your drawing into code, using translation functions for each of the shapes. Apply a new color palette and transformations each time the user clicks on the canvas. Save this in a directory named week2 and add it to your online repo.
 - If you’re struggling with the logic of your plan and rending through your different iterations, try using the random() function to generate different versions of your sketch.
-- Add the reference image(s) to your repo in a directory named week2/media. Use the readme.html file to describe what you intended to do with each iteration. How did these differ from what you would up with? 
+- Add the reference image(s) to your repo in a directory named week2/media. 
+- Use the readme.html file to describe what you intended to do with each iteration. How did these differ from what you would up with? 
 - Bonus Goals: Edit the CSS/style within your main index.html page and/or your description ('/week2/readme.html'). 
 
 ### Updating Your Course Website
