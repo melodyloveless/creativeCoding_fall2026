@@ -61,7 +61,7 @@
     <li><a href="https://www.w3schools.com/html/html_elements.asp" target="_blank">W3Schools: HTML Elements</a></li>
      <li><a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools: Intro to CSS</a></li>
 </ul>
-</details>
+</details>\
 
 
 
