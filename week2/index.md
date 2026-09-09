@@ -24,6 +24,13 @@
 - [Introduction to Drawing with p5.js](https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing)
 - [Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing)
 - [Transformations and Custom Functions](https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?usp=sharing)
+<ul>
+<li><a href="https://docs.google.com/document/d/1r352w4h9XX7a417j7inq-P-9x2I4cjT0idrGr0o9QXI/edit?usp=sharing" target="_blank">Introduction to Drawing with p5.js</a></li>
+<li><a href="https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing" target="_blank">Introduction to Interactivity, Variables, Booleans, Conditions, Operators, and Randomness</a></li>
+<li><a href="https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?usp=sharing" target="_blank">Transformations and Custom Functions</a></li>
+</ul>
+
+
 </details>
 <details>
 <summary>IDM's Notes</summary>
