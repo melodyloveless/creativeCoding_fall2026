@@ -19,6 +19,7 @@
   - Weekly Reflection
   - Process Drawing
   - Reading/Exploration: Generative Artists and Conceptual Art
+  - Complete/re-do "Creative Coding is…" as needed
 
 <!--
 ### [Week 03 (2026/09/16)](week3/)
