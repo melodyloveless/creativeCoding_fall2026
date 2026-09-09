@@ -18,8 +18,7 @@
         - See [this page](https://github.com/melodyloveless/creativeCodingFall2026_template/blob/main/index.html) for more info.
 - How to update your description for this week's coding assignment:
     - Go to the folder 'week2'. Edit 'readme.html'.
-    - Add your description within the paragraph tags (```<p></p>```...```<p>Your description here</p>```).
-    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description in between the opening and closing tags (```<a>Name of reference here</a>```). Add another item in your list using ```<li></li>```...for example: ```<li>item in your list.</li>```
-
+    - Add your description within the paragraph tags (```<p></p>```. For example: ```<p>Your description here</p>```).
+    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description in between the opening and closing tags (```<a>Name of reference here</a>```). Add another item in your list using ```<li></li>```(For example: ```<li>item in your list.</li>```)
 - How to publish updates online:
     - Open GitHub Desktop. Press 'commit' and 'push origin'.
