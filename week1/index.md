@@ -56,4 +56,4 @@ At a minimum, before next class:
 - Do your best completing ["Creative coding is..."](coding_is.html) At a minimum, prepare a short description and at least eight quotes and sources.
 
 ### Next class
-We will begin our class with a Share Out. (Looking for at least 3 volunteers to share their work with the class.)
+We will begin our class with a Share Out. (Looking for 2-3 volunteers to share their work with the class.)
