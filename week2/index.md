@@ -1,6 +1,6 @@
 ## Week 2
 ### Agenda
-- Review homework
+- Review last week's homework
   - Discuss last week's reading ("What Is Code?")
   - Review "Creative Coding is..."
     - Looking for 2-3 volunteers. Sign up to share work here.
@@ -15,7 +15,7 @@
   - Transformations
   - Randomnization
   - Interactivity using mousePressed()
-- Discuss homework
+- Discuss this week's homework
 
 ### Code/Example
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
