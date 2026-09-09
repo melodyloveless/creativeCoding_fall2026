@@ -40,6 +40,17 @@
 - [IDM: Translations, Rotations, and Transformations](https://idmp5.github.io/creative-coding/transformations/)
 - [IDM: Randomness](https://idmp5.github.io/coding/random/)
 - [IDM: Interactions](https://idmp5.github.io/creative-coding/interactions/)
+
+
+<ul>
+<li><a href="https://idmp5.github.io/p5/p5-intro/" target="_blank">IDM: Intro to p5</a></li>
+<li><a href="https://idmp5.github.io/p5/drawing/" target="_blank"></a>IDM: Drawing on the canvas</li>
+<li><a href="https://idmp5.github.io/coding/variables/" target="_blank">IDM: Variables</a></li>
+<li><a href="https://idmp5.github.io/creative-coding/transformations/" target="_blank">IDM: Translations, Rotations, and Transformations</a></li>
+<li><a href="https://idmp5.github.io/coding/random/" target="_blank">IDM: Randomness</a></li>
+<li><a href="https://idmp5.github.io/creative-coding/interactions/" target="_blank">IDM: Interactions</a></li>
+</ul>
+
 </details>
 **Artist Examples**
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing)
