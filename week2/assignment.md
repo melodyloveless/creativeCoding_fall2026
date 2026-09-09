@@ -19,6 +19,8 @@
 - How to update your description for this week's coding assignment:
     - Go to the folder 'week2'. Edit 'readme.html'.
     - Add your description within the paragraph tags (```<p></p>```. For example: ```<p>Your description here</p>```).
-    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description in between the opening and closing tags (```<a>Name of reference here</a>```). Add another item in your list using ```<li></li>```(For example: ```<li>item in your list.</li>```)
+    - For your references: you'll be working with different areas of the link tag (```<a></a>```). Add the url to your source within the href attribute (```href="http://example.com"```). Add the description of your reference in between the opening and closing tags (```<a>Name of reference here</a>```). Add another item in your list using ```<li></li>```(For example: ```<li>item in your list.</li>```)
+    - Update the ```<img>``` tag. Replace the src(source) with your media. (For example: ```<img src="media/yourImage.png"...```)
+    - Review the template for more instructions/hints.
 - How to publish updates online:
     - Open GitHub Desktop. Press 'commit' and 'push origin'.
