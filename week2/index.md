@@ -20,6 +20,7 @@
 ### Code/Example
 - [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
   - when mouse is pressed, randomnly select a color palette from a list of options
+  - incorporates a custom function
 
 ### Notes
 **Drawing**
