@@ -1,21 +1,22 @@
 ## Week 2
 ### Agenda
-- Homework
+- Review homework
   - Discuss last week's reading ("What Is Code?")
   - Review "Creative Coding is..."
     - Looking for 2-3 volunteers. Sign up to share work here.
     - Discuss HTML & DOM
-- [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing)
+- [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing){:target="_blank"}
+- [Watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"}
 - p5.js Basics
   - Coordinate System
-  - Transformations
   - Drawing shapes and text
+  - Transformations
   - Randomnization
   - Interactivity using mousePressed()
 - Discuss homework
 
 ### Code/Examples
-- [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp)
+- [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
 
 ### Notes
 **Drawing**
@@ -41,22 +42,22 @@
 
 </details>
 **Artist Examples**
-- [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing)
+- [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
 **Set-up**
-- [IDM: Setting up p5](https://idmp5.github.io/p5/p5-setup/)
-- [IDM: The browser and javascript](https://idmp5.github.io/intro/javascript/)
-- [IDM: Setting up an IDE](https://idmp5.github.io/intro/ide/)
-- [IDM: Git and GitHub](https://idmp5.github.io/intro/git/)
-- [W3Schools: HTML Filepaths](https://www.w3schools.com/html/html_filepaths.asp)
+- [IDM: Setting up p5](https://idmp5.github.io/p5/p5-setup/){:target="_blank"}
+- [IDM: The browser and javascript](https://idmp5.github.io/intro/javascript/){:target="_blank"}
+- [IDM: Setting up an IDE](https://idmp5.github.io/intro/ide/){:target="_blank"}
+- [IDM: Git and GitHub](https://idmp5.github.io/intro/git/){:target="_blank"}
+- [W3Schools: HTML Filepaths](https://www.w3schools.com/html/html_filepaths.asp){:target="_blank"}
 
 ### This week's LLM
-- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31)
+- [IDM Creative Coding Week 2](https://notebook.google.com/notebook/3a29e680-8151-4441-aedf-2f1a6a1bcb31){:target="_blank"}
 
 ### Reading/Exploration
 #### Required
 **Read**:
-  - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) (1967)
-  - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing)
+  - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm){:target="_blank"} (1967)
+  - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
     - **Explore/review** the hyperlinks highlighted in bright yellow
 
 Response length: 7-10+ sentences
