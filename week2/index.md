@@ -24,7 +24,7 @@
   - incorporates a custom function
 
 ### Notes
-**Drawing**
+#### Drawing
 <details>
 <summary>Melody's Notes</summary>
 <ul>
@@ -46,23 +46,22 @@
 </ul>
 </details>
 
-**Artist Examples**
+#### Artist Examples
 - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
 
 
-**Setting-up and HTML/CSS**
+#### Setting-up and HTML/CSS
 <details>
   <ul>
     <li><a href="https://idmp5.github.io/p5/p5-setup/" target="_blank">IDM: Setting up p5</a></li>
-    <li><a href="https://idmp5.github.io/intro/javascript/" target="_blank"></a>IDM: The browser and javascript</a></li>
+    <li><a href="https://idmp5.github.io/intro/javascript/" target="_blank">IDM: The browser and javascript</a></li>
     <li><a href="https://idmp5.github.io/intro/ide/" target="_blank">IDM: Setting up an IDE</a></li>
     <li><a href="https://idmp5.github.io/intro/git/" target="_blank">IDM: Git and GitHub</a></li>
     <li><a href="https://www.w3schools.com/html/html_filepaths.asp" target="_blank">W3Schools: HTML Filepaths</a></li>
     <li><a href="https://www.w3schools.com/html/html_elements.asp" target="_blank">W3Schools: HTML Elements</a></li>
      <li><a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">W3Schools: Intro to CSS</a></li>
 </ul>
-</details>\
-
+</details>
 
 
 ### This week's LLM
