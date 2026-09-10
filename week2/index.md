@@ -17,9 +17,15 @@
   - Interactivity using mousePressed()
 - Discuss this week's coursework
 
-### Code/Example
+### Code/Examples
 - [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
-- [Random color palette](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
+- [Sketch with transformations](https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM){:target="_blank"}
+- [Rotate square on click](https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk){:target="_blank"}
+- [Random scale](https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA){:target="_blank"}
+  - when mouse is pressed, randomnly change the sizes of the shapes
+- [Randomized color palette #1](https://editor.p5js.org/melodyloveless/sketches/W97DQegQh){:target="_blank"}
+  - when mouse is pressed, generate a color palette
+- [Random color palette #2](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
   - when mouse is pressed, randomnly select a color palette from a list of options
   - incorporates a custom function
 
