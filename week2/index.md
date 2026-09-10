@@ -35,7 +35,7 @@
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA" target="_blank">Random scale</a></li>
     <ul><li>when mouse is pressed, randomnly change the sizes of the shapes</li></ul>
-    <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
+    <!-- <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li> -->
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
     <ul><li>when mouse is pressed, generate a color palette</li></ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp" target="_blank">Randomized color palette #2</a></li>
