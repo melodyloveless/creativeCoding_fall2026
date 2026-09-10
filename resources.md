@@ -38,6 +38,7 @@
 - [NYC Resistor](https://www.nycresistor.com/){:target="_blank"}
 - [New Inc](https://www.newmuseum.org/new-inc/){:target="_blank"}
 - [Eyebeam](https://eyebeam.org/){:target="_blank"}
+- [School for Poetic Computation](https://sfpc.study/){:target="_blank"}
 - [Harvestworks](https://www.harvestworks.org/){:target="_blank"}
 - [Flux Factory](https://www.fluxfactory.org/){:target="_blank"}
 - [LiveCode.NYC](https://livecode.nyc){:target="_blank"}
