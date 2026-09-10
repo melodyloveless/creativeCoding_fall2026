@@ -17,8 +17,30 @@
   - Interactivity using mousePressed()
 - Discuss this week's coursework
 
+<!-- <details>
+  <ul>
+    <li><a href="" target="_blank"></a></li>
+  </ul>
+</details> -->
+
 ### Code/Examples
-- [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
+<details>
+  <ul>
+    <li><a href="https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link" target="_blank">Template for week 2's assignment</a></li>
+    <li><a href="https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch01" target="_blank">In-class sketch #1: Intro to drawing</a></li>
+    <li><a href="https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch02" target="_blank">In-class sketch #2: Intro to interactivity and transformations</a></li>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
+    <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA" target="_blank"></a>Random scale</li>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
+    <li><a href="Random color palette #2" target="_blank">https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp</a></li>
+  </ul>
+</details>
+</br>
+
+<!-- - [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
+- [In-class sketch #1: Intro to drawing](https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch01/){:target="_blank"}
+- [In-class sketch #2: Intro to interactivity and transformations](https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch02/){:target="_blank"}
 - [Sketch with transformations](https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM){:target="_blank"}
 - [Rotate square on click](https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk){:target="_blank"}
 - [Random scale](https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA){:target="_blank"}
@@ -27,7 +49,7 @@
   - when mouse is pressed, generate a color palette
 - [Random color palette #2](https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp){:target="_blank"}
   - when mouse is pressed, randomnly select a color palette from a list of options
-  - incorporates a custom function
+  - incorporates a custom function -->
 
 ### Notes
 #### Drawing
@@ -51,10 +73,15 @@
 <li><a href="https://idmp5.github.io/creative-coding/interactions/" target="_blank">Interactions</a></li>
 </ul>
 </details>
+<br>
 
 #### Artist Examples
-- [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
-
+<details>
+<ul>
+    <li><a href="https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing" target="_blank">Generative Art, Conceptual Art, and Algorithmic Art</a></li>
+    </ul>
+</details>
+<br>
 
 #### Setting-up and HTML/CSS
 <details>
