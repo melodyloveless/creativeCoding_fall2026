@@ -30,9 +30,7 @@
     <li><a href="in-class-sketches/sketch01" target="_blank">In-class sketch #1: Intro to drawing</a></li>
     <li><a href="in-class-sketches/sketch02" target="_blank">In-class sketch #2: Intro to interactivity and transformations</a></li>
     <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Completed Sketch</a></li>
-    <ul>
-      <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li>
-      <li><a href="in-class-sketches/completed-sketch/sketch.jpg" target="_blank">Sketch and rules</a>/li>
+    <ul><li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li><li><a href="in-class-sketches/completed-sketch/sketch.jpg" target="_blank">Sketch and rules</a></li>
     </ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
     <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
