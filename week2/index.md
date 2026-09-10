@@ -38,7 +38,7 @@
     <ul><li>when mouse is pressed, randomnly change the sizes of the shapes</li></ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
     <ul><li>when mouse is pressed, generate a color palette</li></ul>
-    <li><a href="https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp" target="_blank">Randomized color palette #1</a></li>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp" target="_blank">Randomized color palette #2</a></li>
      <ul><li>when mouse is pressed, randomnly select a color palette from a list of options</li><li>incorporates a custom function</li></ul>
   </ul>
 </details>
