@@ -44,7 +44,7 @@
 <summary>IDM's Notes</summary>
 <ul>
 <li><a href="https://idmp5.github.io/p5/p5-intro/" target="_blank">Intro to p5</a></li>
-<li><a href="https://idmp5.github.io/p5/drawing/" target="_blank"></a>Drawing on the canvas</a></li>
+<li><a href="https://idmp5.github.io/p5/drawing/" target="_blank">Drawing on the canvas</a></li>
 <li><a href="https://idmp5.github.io/coding/variables/" target="_blank">Variables</a></li>
 <li><a href="https://idmp5.github.io/creative-coding/transformations/" target="_blank">Translations, Rotations, and Transformations</a></li>
 <li><a href="https://idmp5.github.io/coding/random/" target="_blank">Randomness</a></li>
