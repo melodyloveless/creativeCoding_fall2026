@@ -8,7 +8,6 @@
 - If time: [watch "How to Draw With Code" with Casey Reas](https://youtu.be/_8DMEHxOLQE?si=bZxLg2iHeWqwdAEJ){:target="_blank"} 
   - else, watch during this week's reading/exploration on your own
 - Go over template for this week's coding assignment
-  - Discuss HTML & DOM
 - p5.js Basics
   - Coordinate System
   - Drawing shapes and text
@@ -30,16 +29,25 @@
     <li><a href="in-class-sketches/sketch01" target="_blank">In-class sketch #1: Intro to drawing</a></li>
     <li><a href="in-class-sketches/sketch02" target="_blank">In-class sketch #2: Intro to interactivity and transformations</a></li>
     <li><a href="in-class-sketches/completed-example" target="_blank">Completed Example</a></li>
-    <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li><li><a href="in-class-sketches/completed-example/sketch.jpg" target="_blank">Sketch and rules</a></li>
+    <ul>
+      <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li>
+      <li><a href="in-class-sketches/completed-example/sketch.jpg" target="_blank">Sketch and rules</a></li>
     </ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA" target="_blank">Random scale</a></li>
-    <ul><li>when mouse is pressed, randomnly change the sizes of the shapes</li></ul>
-    <!-- <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li> -->
+    <ul>
+      <li>when mouse is pressed, randomnly change the sizes of the shapes</li>
+    </ul>
+    <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
-    <ul><li>when mouse is pressed, generate a color palette</li></ul>
+    <ul>
+      <li>when mouse is pressed, generate a color palette</li>
+    </ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp" target="_blank">Randomized color palette #2</a></li>
-     <ul><li>when mouse is pressed, randomnly select a color palette from a list of options</li><li>incorporates a custom function</li></ul>
+    <ul>
+      <li>when mouse is pressed, randomnly select a color palette from a list of options</li>
+      <li>incorporates a custom function</li>
+    </ul>
   </ul>
 </details>
 <br>
