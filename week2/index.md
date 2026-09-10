@@ -32,11 +32,14 @@
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
     <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA" target="_blank"></a>Random scale</li>
+    <ul><li>when mouse is pressed, randomnly change the sizes of the shapes</li></ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
-    <li><a href="Random color palette #2" target="_blank">https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp</a></li>
+    <ul><li>when mouse is pressed, generate a color palette</li></ul>
+    <li><a href="https://editor.p5js.org/melodyloveless/sketches/Q7tCahxLp" target="_blank">Randomized color palette #1</a></li>
+     <ul><li>when mouse is pressed, randomnly select a color palette from a list of options</li><li>incorporates a custom function</li></ul>
   </ul>
 </details>
-</br>
+<br>
 
 <!-- - [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
 - [In-class sketch #1: Intro to drawing](https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch01/){:target="_blank"}
