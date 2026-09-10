@@ -34,7 +34,6 @@
       <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li>
       <li><a href="in-class-sketches/completed-sketch/sketch.jpg" target="_blank">Sketch and rules</a>/li>
     </ul>
-    
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/64mHXkuZM" target="_blank">Sketch with transformations</a></li>
     <li><a href=https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/riQJhGMiA" target="_blank"></a>Random scale</li>
