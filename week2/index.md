@@ -39,7 +39,6 @@
       <li>when mouse is pressed, randomnly change the sizes of the shapes</li>
     </ul>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/vIy7qVKAk" target="_blank">Rotate square on click</a></li>
-    <li><a </li>
     <li><a href="https://editor.p5js.org/melodyloveless/sketches/W97DQegQh" target="_blank">Randomized color palette #1</a></li>
     <ul>
       <li>when mouse is pressed, generate a color palette</li>
