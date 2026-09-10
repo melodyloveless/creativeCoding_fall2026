@@ -28,7 +28,12 @@
     <li><a href="https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link" target="_blank">Template for week 2's assignment</a></li>
     <li><a href="in-class-sketches/sketch01" target="_blank">In-class sketch #1: Intro to drawing</a></li>
     <li><a href="in-class-sketches/sketch02" target="_blank">In-class sketch #2: Intro to interactivity and transformations</a></li>
-    <li><a href="in-class-sketches/completed-example" target="_blank">Completed Example</a></li>
+    <li><a href="in-class-sketches/completed-example_simple" target="_blank">Example 1</a></li>
+    <ul>
+      <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example_simple/sketch.js" target="_blank">Code</a></li>
+      <li><a href="in-class-sketches/completed-example/sketch.jpg" target="_blank">Sketch and rules</a></li>
+    </ul>
+    <li><a href="in-class-sketches/completed-example" target="_blank">Example 2</a></li>
     <ul>
       <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example/sketch.js" target="_blank">Code</a></li>
       <li><a href="in-class-sketches/completed-example/sketch.jpg" target="_blank">Sketch and rules</a></li>
