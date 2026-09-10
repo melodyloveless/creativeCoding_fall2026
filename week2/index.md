@@ -31,7 +31,7 @@
     <li><a href="in-class-sketches/completed-example_simple" target="_blank">Example 1</a></li>
     <ul>
       <li><a href="https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week2/in-class-sketches/completed-example_simple/sketch.js" target="_blank">Code</a></li>
-      <li><a href="in-class-sketches/completed-example/sketch.jpg" target="_blank">Sketch and rules</a></li>
+      <li><a href="in-class-sketches/completed-example_simple/sketch.jpg" target="_blank">Sketch and rules</a></li>
     </ul>
     <li><a href="in-class-sketches/completed-example" target="_blank">Example 2</a></li>
     <ul>
