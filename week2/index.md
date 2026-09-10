@@ -50,7 +50,6 @@
     </ul>
   </ul>
 </details>
-<br>
 
 <!-- - [Template for week 2's assignment](https://drive.google.com/file/d/152JGWcpWAdpNRd2X15wsJcodLT6ig37j/view?usp=drive_link){:target="_blank"}
 - [In-class sketch #1: Intro to drawing](https://melodyloveless.github.io/creativeCoding_fall2026/week2/in-class-sketches/sketch01/){:target="_blank"}
