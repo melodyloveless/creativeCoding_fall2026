@@ -67,12 +67,14 @@
 ### This week's LLM
 - [IDM Creative Coding Week 3](https://notebook.google.com/notebook/126127ad-4eb1-49ad-b9fd-a55d95cab18d){:target="_blank"} 
 
+---
+
 ### Reading/Exploration
 - **Explore** [Nick Monfort's website](https://nickm.com/){:target="_blank"} before reading the text below. Read his biography. Review some of his artwork.
-**Read and Respond**
-- [Montfort, Nick. Exploratory Programming for the Arts and Humanities. The MIT Press, 2021.](https://nickm.com/books/exploratory_programming_2e/){:target="_blank"}
-  - [Read "Why Program?"](https://drive.google.com/file/d/1Ch87w6zsWCDdndqnhvbdXzAftgMQwAqk/view?usp=drive_link){:target="_blank"}
-  - Connect ideas from the article to your own studies, experiences, and goals with programming. Be as specific as possible, using quotes and page numbers when necessary.
+- **Read and Respond**
+  - [Montfort, Nick. Exploratory Programming for the Arts and Humanities. The MIT Press, 2021.](https://nickm.com/books/exploratory_programming_2e/){:target="_blank"}
+    - [Read "Why Program?"](https://drive.google.com/file/d/1Ch87w6zsWCDdndqnhvbdXzAftgMQwAqk/view?usp=drive_link){:target="_blank"}
+    - Connect ideas from the article to your own studies, experiences, and goals with programming. Be as specific as possible, using quotes and page numbers when necessary.
 
 Response length: 7-10+ sentences
 See Brightspace for additional talking points and instructions.
