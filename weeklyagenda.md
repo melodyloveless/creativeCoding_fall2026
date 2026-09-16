@@ -26,7 +26,7 @@
 - **Coursework**
    - Weekly Reflection
    - Assignment/Code: Iteration Generation
-   - Reading/Exploration: TBA
+   - Reading/Exploration: Why Program?
    - Sign up for basic training at IDM's lab. (Required step for Week 4's assignment)
 
 
