@@ -1,22 +1,97 @@
 ## Week 3
-### Topics
-- Iteration
-- loops
-- noise
-- polar coordinates
-- libraries
+### Agenda
+- Review last week's homework
+  - Discuss last week's reading ("What Is Code?")
+  - Review Process Drwaing
+    - Looking for 2-3 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
+- Topics
+  - Iterating with code
+  - Loops
+  - Polar coordinates
+  - Combining libraries
+  - If time: mouse position and randomness
+- Discuss assignments
 
-### Review
-- [loops](https://idmp5.github.io/coding/patterns/)
-- [noise](https://idmp5.github.io/intro/ide/)
-- [p5.polar](https://github.com/liz-peng/p5.Polar)
+### Code/Examples
+<details>
+  <ul>
+    <li><a href="LINK" target="_blank">DESCRIPTION</a></li>
+    <li><a href="LINK" target="_blank">DESCRIPTION</a></li>
+    <ul>
+      <li><a href="SUBLINK" target="_blank">SUBDESCRIPTION</a></li>
+    </ul>
+  </ul>
+</details>
 
-### Assignment
-- **Assignment**: [Iteration Generation Part 1](assignment.html)
+
+<!-- Nested for loop (alternating colors with modulo) https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW
+
+Nested for loop, stroke increases on y-axis
+https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr
+
+[Alternating shapes using modulo](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT)
+
+Grid of Rotating Shapes
+https://editor.p5js.org/melodyloveless/sketches/BQ3GjclWD
+
+Grid of Rotating Shapes - extended
+https://editor.p5js.org/melodyloveless/sketches/VGaN-oldj
+
+Ring of Circles
+https://editor.p5js.org/melodyloveless/sketches/t4hpEVvmk
+
+Two Rings of Circles
+https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ
+
+p5.Polar
+Ring of Circles
+https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
+
+Using a callback function
+https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9 -->
+
+
+
+### Notes
+- [Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing){:target="_blank"}
+- [Loops](https://docs.google.com/document/d/1bW_80mPrRV5SIs3gcR4QB_Vca9TkULmfXnzl6d_V3x0/edit?tab=t.0){:target="_blank"}
+- [Custom Functions and Transformations](https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?tab=t.0){:target="_blank"}
+- [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"}
+- [IDM: Loops](https://idmp5.github.io/coding/patterns/){:target="_blank"}
+- [Xin Xin: Modulo - Make a checkerboard (Video)](https://www.youtube.com/watch?v=LMWRkUlhY7s){:target="_blank"}
+- [p5.Polar GitHub](https://github.com/liz-peng/p5.Polar){:target="_blank"}
+- [p5.Polar Playground](https://liz-peng.github.io/p5.Polar/){:target="_blank"}
+- [Wikipedia: Polar Coordinate System]{:target="_blank"}
+- [Wikipedia: Cartesian Coordinate System]{:target="_blank"}
+- [Happy Coding](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
+- [Mozilla: Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function){:target="_blank"}
 
 ### This week's LLM
-- [IDM Creative Coding Week 3]()
+- [IDM Creative Coding Week 3](https://notebook.google.com/notebook/126127ad-4eb1-49ad-b9fd-a55d95cab18d){:target="_blank"} 
 
+<!-- 
 ### Reading:  
   - [A. Michael Noll, "The Beginnings of Computer Art in the United States: A Memoir" (Leonardo 27(1), 1994)](https://monoskop.org/images/5/58/Noll_A_Michael_1994_The_Beginnings_of_Computer_Art_in_the_United_States_A_Memoir.pdf)
-  - [Frieder Nake, "There Should Be No Computer Art" (1971)](https://compart.uni-bremen.de/download/publications/there-should-be-no-computer-art) 
+  - [Frieder Nake, "There Should Be No Computer Art" (1971)](https://compart.uni-bremen.de/download/publications/there-should-be-no-computer-art)  -->
+
+### Reading/Exploration
+<!-- **Read**
+  - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm){:target="_blank"} (1967)
+  - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
+    - **Explore/review** the hyperlinks highlighted in bright yellow
+
+Response length: 7-10+ sentences
+
+Connect ideas from class/course materials to the materials assigned above. See Brightspace for additional talking points. -->
+
+### Coursework
+Before the end of the day on (Th) 9/17:
+  - Share your weekly reflection via Brightspace.
+
+Before the beginning of next class:
+- Review notes/materials as needed.
+- Sign up for [basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *Please complete this ASAP. This is a required step for Week 4's coding assignment.*
+- And complete...
+  - [Iteration Generation Part 1](assignment.html)
+  - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
+

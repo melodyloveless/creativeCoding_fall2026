@@ -133,5 +133,5 @@ Before the beginning of next class:
 - Review notes/materials as needed.
 - And complete...
   - [Process Drawing](assignment.html)
-  - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
+  - Your response to our weekly readings/exploration. Submit your work and see additional instructions/tips on Brightspace.
   - [Week 1's Assignment ("Creative Coding is...")](https://melodyloveless.github.io/creativeCoding_fall2026/week1/coding_is.html) as needed.
