@@ -2,13 +2,13 @@
 Using a recursive or iterative logic, create a drawing that repeats a simple form into a generative pattern. Drawing inspiration from early computer artists like Molnar, create a program that applies a particular transformation iteratively. For week 4, you will use this program to generate an SVG file that we will render using a pen plotter.
 
 [Template: p5.Polar](https://drive.google.com/file/d/1a50hGHNNjaWkMv-mvw74qwdkseopQfAg/view?usp=drive_link){:target="_blank"}
-- [Review this tutorial](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"} on how to attach libraries to your project
+- For more info, [review this tutorial](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"} on how to attach libraries to your project
 
 The following example logic may be helpful as you determine how to create your project:
 - First, create the basis for your pattern as a single instance. Try to constrain this drawing to around 100px by 100px. 
-- Draw a shape. Then, repeat your shapes using a for loop on the x axis
+- Draw a shape. Then, repeat your shapes using a for loop on the x axis.
 - Create a two dimensional for loop (aka a nested for loop), repeating your shapes down the Y axis as well.
-- Once you have a repeating pattern that fills the entire canvas, experiment with ways of shifting the color, style or transformation of the shapes as they advance down the X or Y axis.
+- Once you have a repeating pattern that fills the entire canvas, experiment with ways of shifting the color, style, and/or transformation of the shapes as they advance down the X or Y axis. (ex. Add more rotation over time, change the size/scale of shapes over time, etc.)
 - Bonus Goals: 
     - Experiment with ways of incorporating mouse input to manipulate an aspect of the drawing (color, size of certain elements, transformations, etc).
     - Incorporate randomness
