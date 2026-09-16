@@ -44,13 +44,15 @@
 - [Custom Functions and Transformations](https://docs.google.com/document/d/1cZSjQKUFEvIx_SggiNEJtbtijyvhf00TNkOXSPxyBx0/edit?tab=t.0){:target="_blank"}
 - [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"}
 - [IDM: Loops](https://idmp5.github.io/coding/patterns/){:target="_blank"}
+- [Geeks for Geeks - Iteration Statement](https://dictionary.cambridge.org/us/dictionary/english/iteration#google_vignette){:target="_blank"}
+- [Cambridge Dictionary - Iteration](https://dictionary.cambridge.org/us/dictionary/english/iteration){:target="_blank"}
 - [Xin Xin: Modulo - Make a checkerboard (Video)](https://www.youtube.com/watch?v=LMWRkUlhY7s){:target="_blank"}
+- [Happy Coding: How to attach external libraries to your project](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
 - p5.Polar
   - [p5.Polar GitHub](https://github.com/liz-peng/p5.Polar){:target="_blank"}
   - [p5.Polar Playground](https://liz-peng.github.io/p5.Polar/){:target="_blank"}
 - [Wikipedia: Polar Coordinate System](https://en.wikipedia.org/wiki/Polar_coordinate_system){:target="_blank"}
 - [Wikipedia: Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system){:target="_blank"}
-- [Happy Coding: How to attach external libraries to your project](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
 - [Mozilla: Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function){:target="_blank"}
 - [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net/){:target="_blank"}
 
