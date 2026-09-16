@@ -10,7 +10,6 @@
   - Polar coordinates
   - Combining libraries (Incorporating p5.Polar)
   - If time: mouse position and randomness
-- Discuss assignments
 
 ### Code/Examples
 - [Template: p5.Polar](https://drive.google.com/file/d/1a50hGHNNjaWkMv-mvw74qwdkseopQfAg/view?usp=drive_link){:target="_blank"}
