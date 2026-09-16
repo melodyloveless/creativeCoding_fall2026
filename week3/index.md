@@ -14,18 +14,18 @@
 
 ### Code/Examples
 - [Template: p5.Polar](https://drive.google.com/file/d/1a50hGHNNjaWkMv-mvw74qwdkseopQfAg/view?usp=drive_link){:target="_blank"}
-- [Nested for loop (alternating colors with modulo)](https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW){:target="_blank"}
-- [Nested for loop, stroke increases on y-axis](https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr){:target="_blank"}
-- [Alternating shapes using modulo](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT){:target="_blank"}
-- [Grid of Rotating Shapes](https://editor.p5js.org/melodyloveless/sketches/BQ3GjclWD
-){:target="_blank"}
+- [Row of circles, for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/4SwKr6hBz){:target="_blank"}
+- [Simple grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/gSXrv6LeI){:target="_blank"}
+- [Another simple grid (another method), nested for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/YH8DMpfdM){:target="_blank"}
+- [Alternating colors with modulo, a grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW){:target="_blank"}
+- [Stroke increases on y-axis, a grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr){:target="_blank"}
+- [A row of alternating shapes using modulo, for loop](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT){:target="_blank"}
+- [Grid of Rotating Shapes](https://editor.p5js.org/melodyloveless/sketches/BQ3GjclWD){:target="_blank"}
 - [Grid of Rotating Shapes - Extended](https://editor.p5js.org/melodyloveless/sketches/VGaN-oldj){:target="_blank"}
 - [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/t4hpEVvmk){:target="_blank"}
-- [Two Rings of Circles](https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ
-){:target="_blank"}
+- [Two Rings of Circles](https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ){:target="_blank"}
 - p5.Polar
-  - [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
-){:target="_blank"}
+  - [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa){:target="_blank"}
   - [Using a callback function](https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9){:target="_blank"}
 
 <!-- - [](){:target="_blank"} -->
@@ -86,7 +86,7 @@ Before the end of the day on (Th) 9/17:
   - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class:
-- Review the list artist examples/inspiration on your own. Do this before starting your drawing for this week.
+- Review the list of artist examples/inspiration on your own. Do this before starting your sketch/program for this week.
 - Review the additional notes/materials as needed.
 - And complete...
   - [Iteration Generation](assignment.html)

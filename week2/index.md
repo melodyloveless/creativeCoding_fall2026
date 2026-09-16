@@ -1,7 +1,7 @@
 ## Week 2
 ### Agenda
 - Review last week's homework
-  - Discuss last week's reading ("What Is Code?")
+  - Discuss last week's reading/exporation (Generative Artists and Conceptual Art)
   - Review "Creative Coding is..."
     - Looking for 2-3 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
 - [Lecture/Slides: Introduction to digital imaging principles and p5.js](https://docs.google.com/presentation/d/1IHlU_f6rEM1nerMuwEP4wTYr_5xYW2H57tRQ8XxzesU/edit?usp=sharing){:target="_blank"}
