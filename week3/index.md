@@ -76,8 +76,7 @@
     - [Read "Why Program?"](https://drive.google.com/file/d/1Ch87w6zsWCDdndqnhvbdXzAftgMQwAqk/view?usp=drive_link){:target="_blank"}
     - Connect ideas from the article to your own studies, experiences, and goals with programming. Be as specific as possible, using quotes and page numbers when necessary.
 
-Response length: 7-10+ sentences
-See Brightspace for additional talking points and instructions.
+Response length: 7-10+ sentences. See Brightspace for additional talking points and instructions.
 
 ### Coursework
 Before the end of the day on (Th) 9/17:
