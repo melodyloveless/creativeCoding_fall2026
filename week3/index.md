@@ -1,8 +1,8 @@
 ## Week 3
 ### Agenda
 - Review last week's homework
-  - Discuss last week's reading ("What Is Code?")
-  - Review Process Drwaing
+  - Discuss last week's reading/exploration ("What Is Code?")
+  - Review Process Drawaing
     - Looking for 2-3 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
 - Topics
   - Iterating with code
@@ -13,7 +13,22 @@
 - Discuss assignments
 
 ### Code/Examples
-<details>
+- [Nested for loop (alternating colors with modulo)](https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW){:target="_blank"}
+- [Nested for loop, stroke increases on y-axis](https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr){:target="_blank"}
+- [Alternating shapes using modulo](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT){:target="_blank"}
+- [Grid of Rotating Shapes](https://editor.p5js.org/melodyloveless/sketches/BQ3GjclWD
+){:target="_blank"}
+- [Grid of Rotating Shapes - Extended](https://editor.p5js.org/melodyloveless/sketches/VGaN-oldj){:target="_blank"}
+- [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/t4hpEVvmk){:target="_blank"}
+- [Two Rings of Circles](https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ
+){:target="_blank"}
+p5.Polar
+- [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
+){:target="_blank"}
+- [Using a callback function](https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9){:target="_blank"}
+
+<!-- - [](){:target="_blank"} -->
+<!-- <details>
   <ul>
     <li><a href="LINK" target="_blank">DESCRIPTION</a></li>
     <li><a href="LINK" target="_blank">DESCRIPTION</a></li>
@@ -21,36 +36,7 @@
       <li><a href="SUBLINK" target="_blank">SUBDESCRIPTION</a></li>
     </ul>
   </ul>
-</details>
-
-
-<!-- Nested for loop (alternating colors with modulo) https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW
-
-Nested for loop, stroke increases on y-axis
-https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr
-
-[Alternating shapes using modulo](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT)
-
-Grid of Rotating Shapes
-https://editor.p5js.org/melodyloveless/sketches/BQ3GjclWD
-
-Grid of Rotating Shapes - extended
-https://editor.p5js.org/melodyloveless/sketches/VGaN-oldj
-
-Ring of Circles
-https://editor.p5js.org/melodyloveless/sketches/t4hpEVvmk
-
-Two Rings of Circles
-https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ
-
-p5.Polar
-Ring of Circles
-https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
-
-Using a callback function
-https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9 -->
-
-
+</details> -->
 
 ### Notes
 - [Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing){:target="_blank"}
@@ -59,12 +45,22 @@ https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9 -->
 - [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"}
 - [IDM: Loops](https://idmp5.github.io/coding/patterns/){:target="_blank"}
 - [Xin Xin: Modulo - Make a checkerboard (Video)](https://www.youtube.com/watch?v=LMWRkUlhY7s){:target="_blank"}
-- [p5.Polar GitHub](https://github.com/liz-peng/p5.Polar){:target="_blank"}
-- [p5.Polar Playground](https://liz-peng.github.io/p5.Polar/){:target="_blank"}
-- [Wikipedia: Polar Coordinate System]{:target="_blank"}
-- [Wikipedia: Cartesian Coordinate System]{:target="_blank"}
-- [Happy Coding](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
+- **p5.Polar** 
+  - [p5.Polar GitHub](https://github.com/liz-peng/p5.Polar){:target="_blank"}
+  - [p5.Polar Playground](https://liz-peng.github.io/p5.Polar/){:target="_blank"}
+- [Wikipedia: Polar Coordinate System](https://en.wikipedia.org/wiki/Polar_coordinate_system){:target="_blank"}
+- [Wikipedia: Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system){:target="_blank"}
+- [Happy Coding: How to attach external libraries to your project](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
 - [Mozilla: Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function){:target="_blank"}
+
+### Artist Examples/Inspiration
+- [A. Michael Noll](https://dam.org/museum/artists_ui/artists/noll-a-michael/)
+- Vera Molnar
+  - [Artsy - Vera Molnar](https://www.artsy.net/artist/vera-molnar-1)
+  - [veramolnar.com](http://www.veramolnar.com)
+- [Frieder Nake](http://dada.compart-bremen.de/item/agent/68)
+- [George Nees](https://www.katevassgalerie.com/blog/georg-nees-computer-art-and-graphics)
+- [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org) This is a book! Review the PDF for more details.
 
 ### This week's LLM
 - [IDM Creative Coding Week 3](https://notebook.google.com/notebook/126127ad-4eb1-49ad-b9fd-a55d95cab18d){:target="_blank"} 
@@ -89,7 +85,9 @@ Before the end of the day on (Th) 9/17:
   - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class:
-- Review notes/materials as needed.
+- Review the list artist examples/inspiration on your own.
+- Review/explore my [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"} on your own.
+- Review additional notes/materials as needed.
 - Sign up for [basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *Please complete this ASAP. This is a required step for Week 4's coding assignment.*
 - And complete...
   - [Iteration Generation Part 1](assignment.html)
