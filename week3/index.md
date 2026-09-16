@@ -90,6 +90,6 @@ Before the beginning of next class:
 - Review additional notes/materials as needed.
 - Sign up for [basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *Please complete this ASAP. This is a required step for Week 4's coding assignment.*
 - And complete...
-  - [Iteration Generation Part 1](assignment.html)
+  - [Iteration Generation](assignment.html)
   - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
 

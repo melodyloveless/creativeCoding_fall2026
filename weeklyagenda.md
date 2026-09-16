@@ -21,20 +21,21 @@
   - Reading/Exploration: Generative Artists and Conceptual Art
   - Complete/re-do "Creative Coding is…" as needed
 
-<!--
 ### [Week 03 (2026/09/16)](week3/)
 - Iteration, polar coordinates
-- **Assignment**: Iteration
-- **Reading**: 
-  - A. Michael Noll, "The Beginnings of Computer Art in the United States: A Memoir" (Leonardo 27(1), 1994)
-  - Frieder Nake, "There Should Be No Computer Art" (1971) 
+- **Coursework**
+   - Weekly Reflection
+   - Assignment/Code: Iteration Generation
+   - Reading/Exploration: TBA
+   - Sign up for basic training at IDM's lab. (Required step for Week 4's assignment)
 
-### [Week 04 (2026/09/23)](week4/)
+
+### [Week 04 (2026/09/23)] <!--(week4/)-->
 - Perlin Noise, plotters, randomness
-- **Assignment**: iterative plotting
-- **Reading**: 
-    - Casey Reas, Chandler McWilliams & LUST, Form+Code in Design, Art, and Architecture (2008), ch. 2 "Randomness" (~10 pp, image-heavy)
+- **Assignment**: Iterative Plotting
+- **Reading/Exploration**: TBA
 
+<!--
 ### [Week 05 (2026/09/30)](week5/)
 - Animation & Sprites
 - **Assignment**: Clocks

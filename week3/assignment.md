@@ -1,4 +1,4 @@
-## Iteration Generation: Part 1
+## Iteration Generation
 Using a recursive or iterative logic, create a drawing that repeats a simple form into a generative pattern. Drawing inspiration from early computer artists like Molnar, create a program that applies a particular transformation iteratively. For week 4, you will use this program to generate an SVG file that we will render using a pen plotter.
 
 The following example logic may be helpful as you determine how to create your project:
