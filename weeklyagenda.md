@@ -22,7 +22,7 @@
   - Complete/re-do "Creative Coding is…" as needed
 
 ### [Week 03 (2026/09/16)](week3/)
-- Iteration, polar coordinates
+- Iteration, Polar Coordinates
 - **Coursework**
    - Weekly Reflection
    - Assignment/Code: Iteration Generation
@@ -30,10 +30,12 @@
    - Sign up for basic training at IDM's lab. (Required step for Week 4's assignment)
 
 
-### [Week 04 (2026/09/23)] <!--(week4/)-->
+### Week 04 (2026/09/23) <!--[Week 04 (2026/09/23)](week4/)-->
 - Perlin Noise, plotters, randomness
-- **Assignment**: Iterative Plotting
-- **Reading/Exploration**: TBA
+- **Coursework**
+  - Weekly Reflection
+  - Assignment/Code: Iterative Plotting
+  - Reading/Exploration: TBA
 
 <!--
 ### [Week 05 (2026/09/30)](week5/)

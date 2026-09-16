@@ -13,6 +13,7 @@
 - Discuss assignments
 
 ### Code/Examples
+- [Template: p5.Polar](https://drive.google.com/file/d/1a50hGHNNjaWkMv-mvw74qwdkseopQfAg/view?usp=drive_link){:target="_blank"}
 - [Nested for loop (alternating colors with modulo)](https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW){:target="_blank"}
 - [Nested for loop, stroke increases on y-axis](https://editor.p5js.org/melodyloveless/sketches/iWt8p-NHr){:target="_blank"}
 - [Alternating shapes using modulo](https://editor.p5js.org/melodyloveless/sketches/PHf6oxoXT){:target="_blank"}
