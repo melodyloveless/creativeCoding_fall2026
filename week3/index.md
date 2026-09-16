@@ -8,7 +8,7 @@
   - Iterating with code
   - Loops
   - Polar coordinates
-  - Combining libraries
+  - Combining libraries (Incorporating p5.Polar)
   - If time: mouse position and randomness
 - Discuss assignments
 
@@ -22,10 +22,10 @@
 - [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/t4hpEVvmk){:target="_blank"}
 - [Two Rings of Circles](https://editor.p5js.org/melodyloveless/sketches/ncR52roPZ
 ){:target="_blank"}
-p5.Polar
-- [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
+- p5.Polar
+  - [Ring of Circles](https://editor.p5js.org/melodyloveless/sketches/4rOr7DfJa
 ){:target="_blank"}
-- [Using a callback function](https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9){:target="_blank"}
+  - [Using a callback function](https://editor.p5js.org/melodyloveless/sketches/uGM4ooRl9){:target="_blank"}
 
 <!-- - [](){:target="_blank"} -->
 <!-- <details>
@@ -45,7 +45,7 @@ p5.Polar
 - [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"}
 - [IDM: Loops](https://idmp5.github.io/coding/patterns/){:target="_blank"}
 - [Xin Xin: Modulo - Make a checkerboard (Video)](https://www.youtube.com/watch?v=LMWRkUlhY7s){:target="_blank"}
-- **p5.Polar** 
+- p5.Polar
   - [p5.Polar GitHub](https://github.com/liz-peng/p5.Polar){:target="_blank"}
   - [p5.Polar Playground](https://liz-peng.github.io/p5.Polar/){:target="_blank"}
 - [Wikipedia: Polar Coordinate System](https://en.wikipedia.org/wiki/Polar_coordinate_system){:target="_blank"}
@@ -85,11 +85,10 @@ Before the end of the day on (Th) 9/17:
   - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class:
-- Review the list artist examples/inspiration on your own.
-- Review/explore my [Introduction to External Libraries](https://docs.google.com/document/d/1MD-pCAil-e4I6qn1BrjjqgAIlW7_ja8TtHX8fYKlfSo/edit?tab=t.0){:target="_blank"} on your own.
-- Review additional notes/materials as needed.
-- Sign up for [basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *Please complete this ASAP. This is a required step for Week 4's coding assignment.*
+- Review the list artist examples/inspiration on your own. Do this before starting your drawing for this week.
+- Review the additional notes/materials as needed.
 - And complete...
   - [Iteration Generation](assignment.html)
   - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
+  - [Basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *This is a required step for Week 4's coding assignment.*
 
