@@ -53,6 +53,7 @@
 - [Wikipedia: Cartesian Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system){:target="_blank"}
 - [Happy Coding: How to attach external libraries to your project](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
 - [Mozilla: Callback Function](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function){:target="_blank"}
+- [Eloquent JavaScript by Marijn Haverbeke](https://eloquentjavascript.net/){:target="_blank"}
 
 ### Artist Examples/Inspiration
 - [A. Michael Noll](https://dam.org/museum/artists_ui/artists/noll-a-michael/)
@@ -66,27 +67,23 @@
 ### This week's LLM
 - [IDM Creative Coding Week 3](https://notebook.google.com/notebook/126127ad-4eb1-49ad-b9fd-a55d95cab18d){:target="_blank"} 
 
-<!-- 
-### Reading:  
-  - [A. Michael Noll, "The Beginnings of Computer Art in the United States: A Memoir" (Leonardo 27(1), 1994)](https://monoskop.org/images/5/58/Noll_A_Michael_1994_The_Beginnings_of_Computer_Art_in_the_United_States_A_Memoir.pdf)
-  - [Frieder Nake, "There Should Be No Computer Art" (1971)](https://compart.uni-bremen.de/download/publications/there-should-be-no-computer-art)  -->
-
 ### Reading/Exploration
-<!-- **Read**
-  - Sol LeWitt, ["Paragraphs on Conceptual Art"](https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm){:target="_blank"} (1967)
-  - [Generative Art, Conceptual Art, and Algorithmic Art](https://docs.google.com/document/d/1lusbSVx02JzQf3isKNX-ic7Hne76ckz1qfHy4dhB6n8/edit?usp=sharing){:target="_blank"}
-    - **Explore/review** the hyperlinks highlighted in bright yellow
+- **Explore** [Nick Monfort's website](https://nickm.com/){:target="_blank"} before reading the text below. Read his biography. Review some of his artwork.
+**Read and Respond**
+- [Montfort, Nick. Exploratory Programming for the Arts and Humanities. The MIT Press, 2021.](https://nickm.com/books/exploratory_programming_2e/){:target="_blank"}
+  - [Read "Why Program?"](https://drive.google.com/file/d/1Ch87w6zsWCDdndqnhvbdXzAftgMQwAqk/view?usp=drive_link){:target="_blank"}
+  - Connect ideas from the article to your own studies, experiences, and goals with programming. Be as specific as possible, using quotes and page numbers when necessary.
 
 Response length: 7-10+ sentences
-
-Connect ideas from class/course materials to the materials assigned above. See Brightspace for additional talking points. -->
+See Brightspace for additional talking points and instructions.
 
 ### Coursework
 Before the end of the day on (Th) 9/17:
   - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class:
-- Review the list of artist examples/inspiration on your own. Do this before starting your sketch/program for this week.
+- Review this week's list of artist examples/inspiration on your own. Do this before starting your sketch/program for this week.
+- [Review the introduction and Ch.1 to Eloquent JavaScript on your own.](https://eloquentjavascript.net/){:target="_blank"}
 - Review the additional notes/materials as needed.
 - And complete...
   - [Iteration Generation](assignment.html)
