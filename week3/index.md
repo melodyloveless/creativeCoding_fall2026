@@ -3,7 +3,7 @@
 - Review last week's homework
   - Discuss last week's reading/exploration (Generative Artists and Conceptual Art)
   - Review Process Drawaing
-    - Looking for 2-3 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
+    - Looking for 2 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
 - Topics
   - Iterating with code
   - Loops
