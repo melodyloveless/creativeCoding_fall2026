@@ -14,6 +14,8 @@
 
 ### Code/Examples
 - [Template: p5.Polar](https://drive.google.com/file/d/1a50hGHNNjaWkMv-mvw74qwdkseopQfAg/view?usp=drive_link){:target="_blank"}
+- [In class sketch: Intro to Iterating](in-class-sketches/sketch01_introToIterating){:target="_blank"}
+- [In class sketch: Intro to p5.Polar](in-class-sketches/sketch02_p5Polar){:target="_blank"}
 - [Row of circles, for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/4SwKr6hBz){:target="_blank"}
 - [Simple grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/gSXrv6LeI){:target="_blank"}
 - [Another simple grid (another method), nested for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/YH8DMpfdM){:target="_blank"}
