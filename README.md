@@ -17,6 +17,8 @@
 - Your coding assignments should be submitted via your personal GitHub account.
 - Your writing assignments should be submitted via Brightspace.
 - [Sign up for a remote office hour]((https://calendar.app.google/SPedrxtkC9Rrss7g6){:target="_blank"}) if you want additional help or to talk about your grade. If you want to meet in-person, ask to talk to me after class or send me an email.
+- You can also contact our Creative Coding GA, Bo He (they/them), for help. 
+    - See Brightspace for their contact info. ("Content > Instructions")
 
 ---
 

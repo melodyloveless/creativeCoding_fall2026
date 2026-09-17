@@ -1,5 +1,6 @@
 ## Week 3
 ### Agenda
+- A visit with our Creative Coding GA
 - Review last week's homework
   - Discuss last week's reading/exploration (Generative Artists and Conceptual Art)
   - Review Process Drawaing
