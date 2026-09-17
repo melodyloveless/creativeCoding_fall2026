@@ -92,6 +92,6 @@ Before the beginning of next class:
 - Review the additional notes/materials as needed.
 - And complete...
   - [Iteration Generation](assignment.html)
-  - Your response to our weekly readings. Submit your work and see additional instructions/tips on Brightspace.
+  - Your response to our weekly reading/exploration (Why Program?). Submit your work and see additional instructions/tips on Brightspace.
   - [Basic training at IDM's lab.](https://wp.nyu.edu/idmtech/training/){:target="_blank"} *This is a required step for Week 4's coding assignment.*
 
