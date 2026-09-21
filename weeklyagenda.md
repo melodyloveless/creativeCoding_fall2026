@@ -37,7 +37,7 @@
   - Assignment/Code: Iterative Plotting
   - Reading/Exploration: TBA
 
-### [Week 05 (2026/09/30)](week5/) <!-- ### [Week 05 (2026/09/30)](week5/) -->
+### Week 05 (2026/09/30) <!-- ### [Week 05 (2026/09/30)](week5/) -->
 - Quiz #1
 - Animation
 - **Coursework**
