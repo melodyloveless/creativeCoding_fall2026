@@ -31,21 +31,21 @@
 
 
 ### Week 04 (2026/09/23) <!--[Week 04 (2026/09/23)](week4/)-->
-- Perlin Noise, plotters, randomness
+- More with randomness, Plotters
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: Iterative Plotting
   - Reading/Exploration: TBA
 
+### [Week 05 (2026/09/30)](week5/) <!-- ### [Week 05 (2026/09/30)](week5/) -->
+- Quiz #1
+- Animation
+- **Coursework**
+  - Weekly Reflection
+  - Assignment/Code: Clocks
+  - Reading/Exploration: Clocks by Golan Levin
+
 <!--
-### [Week 05 (2026/09/30)](week5/)
-- Animation & Sprites
-- **Assignment**: Clocks
-- **Reading**:
-  - Clocks by Golan Levin
-- **Watch**: An entire history of time measurement in six minutes
-
-
 ### [Week 06 (2026/10/7)](week6/)
 - functions and arrays
 - **Assignment**: Looping animations
