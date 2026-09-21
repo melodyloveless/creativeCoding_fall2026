@@ -18,7 +18,8 @@
     - [Code](https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week3/in-class-sketches/sketch01_introToIterating/sketch.js){:target="_blank"}
 - [In class sketch: Intro to p5.Polar](in-class-sketches/sketch02_p5Polar){:target="_blank"}
     - [Code](https://github.com/melodyloveless/creativeCoding_fall2026/blob/main/week3/in-class-sketches/sketch02_p5Polar/sketch.js){:target="_blank"}
-- [Row of circles, for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/4SwKr6hBz){:target="_blank"}
+- [Row of circles, for loop](https://editor.p5js.org/melodyloveless/sketches/zQr3UQZmj){:target="_blank"}
+- [Row of circles, for loop (another method)](https://editor.p5js.org/tgh-p5-tutorials/sketches/4SwKr6hBz){:target="_blank"}
 - [Simple grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/gSXrv6LeI){:target="_blank"}
 - [Another simple grid (another method), nested for loop](https://editor.p5js.org/tgh-p5-tutorials/sketches/YH8DMpfdM){:target="_blank"}
 - [Alternating colors with modulo, a grid, nested for loop](https://editor.p5js.org/melodyloveless/sketches/1mdlGbtGW){:target="_blank"}
