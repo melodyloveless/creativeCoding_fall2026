@@ -70,6 +70,7 @@
 - [Frieder Nake](http://dada.compart-bremen.de/item/agent/68)
 - [George Nees](https://www.katevassgalerie.com/blog/georg-nees-computer-art-and-graphics)
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org) This is a book! Review the PDF for more details.
+- [Saskia Freeke](https://sasj.nl/portfolio/)
 
 ### This week's LLM
 - [IDM Creative Coding Week 3](https://notebook.google.com/notebook/126127ad-4eb1-49ad-b9fd-a55d95cab18d){:target="_blank"} 

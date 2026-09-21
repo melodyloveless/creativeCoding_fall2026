@@ -42,7 +42,9 @@
 - Animation
 - **Coursework**
   - Weekly Reflection
-  - Assignment/Code: Clocks
+  - Assignment/Code: 
+    - Refine (or Iterate on ) Your Iterative Plotting Drawing
+    - Clocks
   - Reading/Exploration: Clocks by Golan Levin
 
 <!--
