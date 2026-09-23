@@ -10,7 +10,7 @@ Goals:
 - To generate an SVG file of this design that you will render using a pen plotter
 
 Specs:
-- p5.js sketch dimensions: up to you!
+- p5.js sketch dimensions: min 100x100
 - Your plotted work must fit on a 8.5x11 piece of paper. You can resize your sketch/program using Inkscape.
 
 Requirements:
