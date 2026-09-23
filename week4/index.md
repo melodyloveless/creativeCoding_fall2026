@@ -5,8 +5,8 @@
     - Looking for 2-3 volunteers. [Sign up to share work here.](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
 - Topics: 
     - More with randomness, custom functions, and mouse input
-    - Keyboard input, noise, and incremental changes (using += and -=)
-    - Working with Plotters (p5.plotSVG, Inkscape, iDraw)
+    - Keyboard input, noise, and incremental changes
+    - Working with plotters (p5.plotSVG, Inkscape, iDraw)
 - Demo in the lab w/pen plotter
 
 ### Code/Examples
@@ -17,7 +17,7 @@
 - [Intro to noise](https://editor.p5js.org/melodyloveless/sketches/9dF1LDEDo){:target="_blank"}
 - [Noisey line of circles](https://editor.p5js.org/melodyloveless/sketches/8v-HXaeXT){:target="_blank"}
 - [Noisey grid](https://editor.p5js.org/melodyloveless/sketches/rgETfRy_Q){:target="_blank"}
-- [Key presses to increase size](https://editor.p5js.org/melodyloveless/sketches/JQzQEnEX3){:target="_blank"}
+- [Key presses to increase size (incremental change)](https://editor.p5js.org/melodyloveless/sketches/JQzQEnEX3){:target="_blank"}
 - [Shifting Drawing #1](https://editor.p5js.org/melodyloveless/sketches/vDfjmp6c4){:target="_blank"}
   - Features mouseX, mouseY, map(), and lerpColor()
 - [Shifting drawing #2 (w/p5.Polar)](https://editor.p5js.org/melodyloveless/sketches/VOQp3RUoQ){:target="_blank"}
