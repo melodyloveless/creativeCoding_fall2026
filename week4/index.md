@@ -18,9 +18,8 @@
 - [Noisey line of circles](https://editor.p5js.org/melodyloveless/sketches/8v-HXaeXT){:target="_blank"}
 - [Noisey grid](https://editor.p5js.org/melodyloveless/sketches/rgETfRy_Q){:target="_blank"}
 - [Key presses to increase size (incremental change)](https://editor.p5js.org/melodyloveless/sketches/JQzQEnEX3){:target="_blank"}
-- [Shifting Drawing #1](https://editor.p5js.org/melodyloveless/sketches/vDfjmp6c4){:target="_blank"}
-  - Features mouseX, mouseY, map(), and lerpColor()
-- [Shifting drawing #2 (w/p5.Polar)](https://editor.p5js.org/melodyloveless/sketches/VOQp3RUoQ){:target="_blank"}
+- [Shifting Drawing #1 (w/mouse input)](https://editor.p5js.org/melodyloveless/sketches/vDfjmp6c4){:target="_blank"}
+- [Shifting drawing #2 (w/mouse input + p5.Polar)](https://editor.p5js.org/melodyloveless/sketches/VOQp3RUoQ){:target="_blank"}
 - [Custom function w/parameter #1: Drawing Triangles](https://editor.p5js.org/melodyloveless/sketches/P2a0lki0i){:target="_blank"}
 - [Custom function w/parameter #2: Smiley Faces](https://editor.p5js.org/melodyloveless/sketches/8ZM6nB8Ch){:target="_blank"}
 - [Intro to return functions](https://editor.p5js.org/melodyloveless/sketches/dHCj7P0Ln){:target="_blank"}
