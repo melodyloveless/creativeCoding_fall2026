@@ -2,6 +2,7 @@
 ### Topics
 - Animation
 - Sprites
+- Class Share Out: Iterative Plotting (End of class)
 
 ### Review
 - [arrays](https://idmp5.github.io/coding/arrays/)

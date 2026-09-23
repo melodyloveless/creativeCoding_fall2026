@@ -22,7 +22,7 @@
   - Complete/re-do "Creative Coding is…" as needed
 
 ### [Week 03 (2026/09/16)](week3/)
-- Iteration, Polar Coordinates
+- Iteration (for loops/nested for loops), polar coordinates w/p5.Polar
 - **Coursework**
    - Weekly Reflection
    - Assignment/Code: Iteration Generation
@@ -30,12 +30,12 @@
    - Sign up for basic training at IDM's lab. (Required step for Week 4's assignment)
 
 
-### Week 04 (2026/09/23) <!--[Week 04 (2026/09/23)](week4/)-->
-- More with randomness, Plotters
+### [Week 04 (2026/09/23)](week4/)
+- More with randomness, interactivity, incremental changes, plotters (p5.plotSvg)
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: Iterative Plotting
-  - Reading/Exploration: TBA
+  - Prepare for Quiz #1 next week
 
 ### Week 05 (2026/09/30) <!-- ### [Week 05 (2026/09/30)](week5/) -->
 - Quiz #1
@@ -43,13 +43,15 @@
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: 
-    - Refine (or Iterate on ) Your Iterative Plotting Drawing
+    - Refine (or iterate on) your drawing from last week
     - Clocks
   - Reading/Exploration: Clocks by Golan Levin
 
 <!--
 ### [Week 06 (2026/10/7)](week6/)
 - functions and arrays
+- Sin and Cos
+- More with Animation
 - **Assignment**: Looping animations
 - **Reading**: 
   - Up and Down the Ladder of Abstraction, Bret Victor
