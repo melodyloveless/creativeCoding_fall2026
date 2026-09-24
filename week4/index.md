@@ -10,8 +10,9 @@
 - Demo in the lab w/pen plotter
 
 ### Code/Examples
-- [Template: Plotting](https://drive.google.com/file/d/1AY6WYAQd9fdKK4gMCzyxb4SqsqyxS-Fv/view?usp=drive_link){:target="_blank"}
+- [Template #1: Plotting (UI Button)](https://drive.google.com/file/d/1AY6WYAQd9fdKK4gMCzyxb4SqsqyxS-Fv/view?usp=drive_link){:target="_blank"}
   - [Code](https://github.com/melodyloveless/creativeCodingFall2026_template/tree/main/week4){:target="_blank"}
+- [Template #2: Plotting (Key press to export)](https://drive.google.com/file/d/1iyWZYn1JnAAAk_J9o5G-JgAwSXsmHG8b/view?usp=drive_link){:target="_blank"}
 - [Random squares](https://editor.p5js.org/melodyloveless/sketches/Rur6bAYhO){:target="_blank"}
 - [Random grid](https://editor.p5js.org/melodyloveless/sketches/9NEercTkx){:target="_blank"}
 - [Intro to noise](https://editor.p5js.org/melodyloveless/sketches/9dF1LDEDo){:target="_blank"}
@@ -25,6 +26,8 @@
 - [Intro to return functions](https://editor.p5js.org/melodyloveless/sketches/dHCj7P0Ln){:target="_blank"}
 - [Ring of circles (w/ return function)](https://editor.p5js.org/melodyloveless/sketches/zTkeWuNhY){:target="_blank"}
 - [Easing drawing (w/ return function)](https://editor.p5js.org/melodyloveless/sketches/eIR6K6KSJ){:target="_blank"}
+- [Intro to hatching](https://editor.p5js.org/melodyloveless/sketches/iQ3dLdn2U){:target="_blank"}
+- [Interactive hatched circle](https://editor.p5js.org/melodyloveless/sketches/1oHmOYt-l){:target="_blank"}
 
 ### Notes
 - [Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing){:target="_blank"}
