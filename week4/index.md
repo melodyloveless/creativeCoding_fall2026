@@ -15,6 +15,7 @@
 - [Template #2: Plotting (Key press to export)](https://drive.google.com/file/d/1iyWZYn1JnAAAk_J9o5G-JgAwSXsmHG8b/view?usp=drive_link){:target="_blank"}
 - [Random squares](https://editor.p5js.org/melodyloveless/sketches/Rur6bAYhO){:target="_blank"}
 - [Random grid](https://editor.p5js.org/melodyloveless/sketches/9NEercTkx){:target="_blank"}
+- [Exploring randomSeed()](https://editor.p5js.org/melodyloveless/sketches/qP0vezASP){:target="_blank"}
 - [Intro to noise](https://editor.p5js.org/melodyloveless/sketches/9dF1LDEDo){:target="_blank"}
 - [Noisey line of circles](https://editor.p5js.org/melodyloveless/sketches/8v-HXaeXT){:target="_blank"}
 - [Noisey grid](https://editor.p5js.org/melodyloveless/sketches/rgETfRy_Q){:target="_blank"}
