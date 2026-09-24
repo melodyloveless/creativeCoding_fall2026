@@ -10,7 +10,7 @@
 - Demo in the lab w/pen plotter
 
 ### Code/Examples
-- [Template #1: Plotting (UI Button)](https://drive.google.com/file/d/1AY6WYAQd9fdKK4gMCzyxb4SqsqyxS-Fv/view?usp=drive_link){:target="_blank"}
+- [Template #1: Plotting (UI Button to export)](https://drive.google.com/file/d/1AY6WYAQd9fdKK4gMCzyxb4SqsqyxS-Fv/view?usp=drive_link){:target="_blank"}
   - [Code](https://github.com/melodyloveless/creativeCodingFall2026_template/tree/main/week4){:target="_blank"}
 - [Template #2: Plotting (Key press to export)](https://drive.google.com/file/d/1iyWZYn1JnAAAk_J9o5G-JgAwSXsmHG8b/view?usp=drive_link){:target="_blank"}
 - [Random squares](https://editor.p5js.org/melodyloveless/sketches/Rur6bAYhO){:target="_blank"}
@@ -18,9 +18,9 @@
 - [Intro to noise](https://editor.p5js.org/melodyloveless/sketches/9dF1LDEDo){:target="_blank"}
 - [Noisey line of circles](https://editor.p5js.org/melodyloveless/sketches/8v-HXaeXT){:target="_blank"}
 - [Noisey grid](https://editor.p5js.org/melodyloveless/sketches/rgETfRy_Q){:target="_blank"}
-- [Key presses to increase size (incremental change)](https://editor.p5js.org/melodyloveless/sketches/JQzQEnEX3){:target="_blank"}
-- [Shifting Drawing #1 (w/mouse input)](https://editor.p5js.org/melodyloveless/sketches/vDfjmp6c4){:target="_blank"}
-- [Shifting drawing #2 (w/mouse input + p5.Polar)](https://editor.p5js.org/melodyloveless/sketches/VOQp3RUoQ){:target="_blank"}
+- [Key presses to increase size (interactive + incremental change)](https://editor.p5js.org/melodyloveless/sketches/JQzQEnEX3){:target="_blank"}
+- [Shifting drawing #1 (w/mouse input)](https://editor.p5js.org/melodyloveless/sketches/vDfjmp6c4){:target="_blank"}
+- [Shifting drawing #2 (+ p5.Polar)](https://editor.p5js.org/melodyloveless/sketches/VOQp3RUoQ){:target="_blank"}
 - [Custom function w/parameter #1: Drawing Triangles](https://editor.p5js.org/melodyloveless/sketches/P2a0lki0i){:target="_blank"}
 - [Custom function w/parameter #2: Smiley Faces](https://editor.p5js.org/melodyloveless/sketches/8ZM6nB8Ch){:target="_blank"}
 - [Intro to return functions](https://editor.p5js.org/melodyloveless/sketches/dHCj7P0Ln){:target="_blank"}
@@ -61,4 +61,4 @@ Before the beginning of next class:
 - And complete...
   - [Iterative Plotting](assignment.html)
 
-There is no reading/exploration this week. Use this time to work on other coursework and for studying.
+There is no reading/exploration this week. Use this time to work on the other coursework and for studying.
