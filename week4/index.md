@@ -14,7 +14,7 @@
   - [Code](https://github.com/melodyloveless/creativeCodingFall2026_template/tree/main/week4){:target="_blank"}
 - [Template #2: Plotting (Key press to export)](https://drive.google.com/file/d/1iyWZYn1JnAAAk_J9o5G-JgAwSXsmHG8b/view?usp=drive_link){:target="_blank"}
 - [Random colors (probability)](https://editor.p5js.org/melodyloveless/sketches/77SacyAAx){:target="_blank"}
-- [Random squares (probability + colors, and position)](https://editor.p5js.org/melodyloveless/sketches/Rur6bAYhO){:target="_blank"}
+- [Random squares (probability + colors and position)](https://editor.p5js.org/melodyloveless/sketches/Rur6bAYhO){:target="_blank"}
 - [Random grid (probability + different shapes)](https://editor.p5js.org/melodyloveless/sketches/9NEercTkx){:target="_blank"}
 - [Exploring randomSeed()](https://editor.p5js.org/melodyloveless/sketches/qP0vezASP){:target="_blank"}
 - [Intro to noise](https://editor.p5js.org/melodyloveless/sketches/9dF1LDEDo){:target="_blank"}
