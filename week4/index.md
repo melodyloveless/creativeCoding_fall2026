@@ -28,6 +28,7 @@
 - [Easing drawing (w/ return function)](https://editor.p5js.org/melodyloveless/sketches/eIR6K6KSJ){:target="_blank"}
 - [Intro to hatching](https://editor.p5js.org/melodyloveless/sketches/iQ3dLdn2U){:target="_blank"}
 - [Interactive hatched circle](https://editor.p5js.org/melodyloveless/sketches/1oHmOYt-l){:target="_blank"}
+- [Hatching w/alternating colors](https://editor.p5js.org/melodyloveless/sketches/O_y-J7fHa){:target="_blank"}
 
 ### Notes
 - [Interactivity, Variables, Booleans, Conditions, Operators, and Randomness](https://docs.google.com/document/d/1pIEKKYwrDEGjKNYOve-6yeayMT8ZaW38qoUthIR4SfI/edit?usp=sharing){:target="_blank"}
