@@ -39,23 +39,22 @@
 
 ### Week 05 (2026/09/30) <!-- ### [Week 05 (2026/09/30)](week5/) -->
 - Quiz #1
-- Animation
+- Intro to Animation
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: 
-    - Refine (or iterate on) your drawing from last week
+    - Iterate on your drawing from last week
     - Clocks
-  - Reading/Exploration: Clocks by Golan Levin
+  - Reading/Exploration: TBA
 
-<!--
-### [Week 06 (2026/10/7)](week6/)
-- functions and arrays
-- Sin and Cos
+
+### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/)-->
 - More with Animation
-- **Assignment**: Looping animations
-- **Reading**: 
-  - Up and Down the Ladder of Abstraction, Bret Victor
-
+- **Coursework**
+  - Weekly Reflection
+  - Assignment/Code: Looping Animations
+  - Reading/Exploration: TBA
+<!--
 ### [Week 07 (2026/10/21)](week7/)
 - Objects, projection mapping
 - **Assignment**: Projection mapping
