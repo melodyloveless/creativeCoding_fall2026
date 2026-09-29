@@ -16,7 +16,11 @@ How can you convey time in terms of its personal significance? How can time be c
 
 In your description (readme.html), include photos of your sketches and describe your process.
 
+Before beginning your animation, review the examples below.
+
 Bonus goals: Include functions like [map()](https://p5js.org/reference/p5/map/){:target="_blank"}, [lerpColor()](https://p5js.org/reference/p5/lerpColor/){:target="_blank"}, and/or [palleteLerp()](https://p5js.org/reference/p5/paletteLerp/){:target="_blank"} in your exploration. Incorporate noise() or randomness in your sketch. 
+
+---
 
 Here are some examples of abstract clocks created using p5.js and other web-based coding tools:
 
@@ -26,3 +30,4 @@ Here are some examples of abstract clocks created using p5.js and other web-base
 - [The Colour Clock](http://thecolourclock.com/)
 - [PolarClock](https://mbostock.github.io/protovis/ex/clock.html)
 - [The Clock of the Long Now](https://longnow.org/clock/)
+

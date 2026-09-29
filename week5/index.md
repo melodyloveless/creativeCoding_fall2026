@@ -27,7 +27,7 @@
 
 Bonus Tasks/Additional **Exploration**:
 - [Read Golan Levin's biography](https://art.cmu.edu/people/golan-levin/){:target="_blank"}
-- Browse through [Golan Levin's portfolio](https://www.flong.com/archive/index.html){:target="_blank"}
+- Browse through [Golan Levin's portfolio.](https://www.flong.com/archive/index.html){:target="_blank"} Pick one or two examples to look at. 
 - Explore examples/references in [Golan Levin's lecture, Clocks.](https://github.com/golanlevin/lectures/tree/master/lecture_clock/){:target="_blank"} Pick what interests you. If you don't know where to start, review the creative coding examples further down the page.
 - If you complete these bonus tasks, incorporate your findings with response described below. (Address the articles and bonus tasks.)
 
