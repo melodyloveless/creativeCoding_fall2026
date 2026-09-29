@@ -37,16 +37,16 @@
   - Assignment/Code: Iterative Plotting
   - Prepare for Quiz #1 next week
 
-### Week 05 (2026/09/30) <!-- ### [Week 05 (2026/09/30)](week5/) -->
+### [Week 05 (2026/09/30)](week5/)
 - Quiz #1
 - Intro to Animation
+- Time
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: 
     - Iterate on your drawing from last week
     - Clocks
-  - Reading/Exploration: TBA
-
+  - Reading/Exploration: Time
 
 ### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/) -->
 - More with Animation
