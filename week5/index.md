@@ -1,7 +1,7 @@
 ## Week 5
 - Quiz #1
-- Intro to animation
-- Sprites
+- Intro to Animation
+- More with arrays
 - Class Share Out: Iterative Plotting (End of class)
 
 ### Code/Examples
@@ -17,6 +17,8 @@
 
 ### This week's LLM
 - [IDM Creative Coding Week 5]() *TBA*
+
+---
 
 ### Reading/Exploration: Time
 **Read**:
@@ -45,6 +47,6 @@ Before the end of the day on (Th) 10/1:
 
 Before the beginning of next class:
 - Review all of the code/examples [from Melody's notes](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0#heading=h.c4o7g9iu6z7r){:target="_blank"}
-- Complete this week's reading/exploration
+- Complete this week's reading/exploration: Time. Submit this work on Brightspace.
 - Complete this week's assignment: [Clocks](assignment.html)
 - Refine your drawing from last week. Re-plot/print as needed. Bring this drawing to next class. [Review last week's description for more details.](../week4/assignment.html)
