@@ -26,14 +26,14 @@
 - [A Minor History Of / Time without Clocks by Joshua Foer](https://www.cabinetmagazine.org/issues/29/foer.php){:target="_blank"}, Cabinet Magazine (2008)
 
 Bonus Tasks/Additional **Exploration**:
-- Explore examples/references in [Golan Levin's lecture, Clocks.](https://github.com/golanlevin/lectures/tree/master/lecture_clock/){:target="_blank"} Pick what interests you.
 - [Read Golan Levin's biography](https://art.cmu.edu/people/golan-levin/){:target="_blank"}
 - Browse through [Golan Levin's portfolio](https://www.flong.com/archive/index.html){:target="_blank"}
-- If you complete these bonus tasks, share your findings in addition to the required response below.
+- Explore examples/references in [Golan Levin's lecture, Clocks.](https://github.com/golanlevin/lectures/tree/master/lecture_clock/){:target="_blank"} Pick what interests you. If you don't know where to start, review the creative coding examples further down the page.
+- If you complete these bonus tasks, incorporate your findings with response described below. (Address the articles and bonus tasks.)
 
 **In your response:**
 - Share what stood out to you and why.
-- Then, connect ideas from the article to your own studies and exploration. 
+- Then, connect ideas from the articles to your own studies and exploration. 
 - Be specific, sharing hyperlinks and/or timestamps when possible.
 - Submit your work on Brightspace
 
