@@ -48,12 +48,13 @@
   - Reading/Exploration: TBA
 
 
-### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/)-->
+### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/) -->
 - More with Animation
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: Looping Animations
   - Reading/Exploration: TBA
+
 <!--
 ### [Week 07 (2026/10/21)](week7/)
 - Objects, projection mapping
