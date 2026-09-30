@@ -1,6 +1,6 @@
 ## Clocks
 
-*Due: 10/21 - this work will be incorporated in Week 7's projection mapping workshop*
+*Final Version Due: 10/21 - this work will be incorporated in Week 7's projection mapping workshop*
 
 [**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
 
