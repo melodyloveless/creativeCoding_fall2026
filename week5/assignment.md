@@ -29,14 +29,14 @@ Bonus goals before Week 6:
 - Incorporate noise() or randomness in your sketch.
 - [Incorporate techniques from this tutorial.](https://idmp5.github.io/creative-coding/cycles/){:target="_blank"}
 
+You're welcome to incorporate the p5.Polar Library in this assignment. [Review this tutorial on how to attach a library to your project.](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
+
 ---
 
 Here are some examples of abstract clocks created using p5.js and other web-based coding tools:
-
 - [Golan Levin’s Banded Clock (1999)](https://openprocessing.org/sketch/503941/)
 - [Eliza Pratt’s Coded Clocks](https://elizapratt.myportfolio.com/abstractclock)
 - [Tageszeituhr by Benedikt Hassert](https://tageszeituhr.benedikthassert.com/)
 - [The Colour Clock](http://thecolourclock.com/)
 - [PolarClock](https://mbostock.github.io/protovis/ex/clock.html)
 - [The Clock of the Long Now](https://longnow.org/clock/)
-
