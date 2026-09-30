@@ -13,14 +13,14 @@
 - [IDM: Arrays](https://idmp5.github.io/coding/arrays/){:target="_blank"}
 - [IDM: Cycles](https://idmp5.github.io/creative-coding/cycles/){:target="_blank"}
 
-### Assignment
-- [Clocks](assignment.html)
-- [**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
-
 ### This week's LLM
 - [IDM Creative Coding Week 5](https://notebook.google.com/notebook/51f4b062-4981-4e53-9581-ade425eefdd1){:target="_blank"}
 
 ---
+
+### Assignment
+- [Clocks](assignment.html)
+- [**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
 
 ### Reading/Exploration: Time
 **Read**:
