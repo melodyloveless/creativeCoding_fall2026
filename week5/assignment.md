@@ -20,7 +20,9 @@ How can you convey time in terms of its personal significance? How can time be c
 
 Before beginning, review the examples below.
 
-In your description, include photos of your sketches and describe your process. Update your description and upload your work as you go. 
+In your description, include photos of your sketches and describe your process. 
+
+While the final version of this animation is due 10/21, you should update your description and upload your work as you go. 
 
 Bonus goals before Week 6: 
 - Include functions like [map()](https://p5js.org/reference/p5/map/){:target="_blank"}, [lerpColor()](https://p5js.org/reference/p5/lerpColor/){:target="_blank"}, and/or [palleteLerp()](https://p5js.org/reference/p5/paletteLerp/){:target="_blank"} in your exploration. 
