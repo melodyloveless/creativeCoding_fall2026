@@ -1,7 +1,7 @@
 ## Week 5
 - Quiz #1 (Beginning of class)
 - Intro to Animation
-- More with arrays
+- Arrays
 - Class Share Out: Iterative Plotting (End of class)
 
 ### Code/Examples

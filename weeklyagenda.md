@@ -50,6 +50,7 @@
 
 ### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/) -->
 - More with Animation
+- Arrays
 - **Coursework**
   - Weekly Reflection
   - Assignment/Code: Looping Animations
