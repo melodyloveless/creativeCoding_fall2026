@@ -49,7 +49,7 @@ Before the end of the day on (Th) 10/1:
 - Share your weekly reflection via Brightspace.
 
 Before the beginning of next class:
-- Review all of the code/examples [from Melody's notes](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0#heading=h.c4o7g9iu6z7r){:target="_blank"}
+- Review all of the animation code/examples [from Melody's notes](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0#heading=h.c4o7g9iu6z7r){:target="_blank"}
 - Complete this week's reading/exploration: Time. Submit this work on Brightspace.
 - Work on this week's assignment. Post materials to your website: [Clocks](assignment.html)
 - Refine your drawing from last week. Re-plot/print as needed. Bring this drawing to next class. [Review the assignment's description for more details.](../week4/assignment.html)
