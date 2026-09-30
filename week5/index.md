@@ -20,7 +20,8 @@
 
 ### Assignment
 - [Clocks](assignment.html)
-- [**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
+- [Link to template](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
+
 
 ### Reading/Exploration: Time
 **Read**:
