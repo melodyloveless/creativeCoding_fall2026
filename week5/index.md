@@ -9,14 +9,16 @@
 
 ### Notes
 - [Introduction to Animation with p5.js](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0){:target="_blank"}
+- [Arrays](https://docs.google.com/document/d/1Du988lq35HGEytEo2VPoyw0TXuy0mP7TQvNoNlQ5f8U/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"}
 - [IDM: Arrays](https://idmp5.github.io/coding/arrays/){:target="_blank"}
 - [IDM: Cycles](https://idmp5.github.io/creative-coding/cycles/){:target="_blank"}
 
 ### Assignment
 - [Clocks](assignment.html)
+- [**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
 
 ### This week's LLM
-- [IDM Creative Coding Week 5]() *TBA*
+- [IDM Creative Coding Week 5](https://notebook.google.com/notebook/51f4b062-4981-4e53-9581-ade425eefdd1){:target="_blank"}
 
 ---
 
@@ -48,5 +50,6 @@ Before the end of the day on (Th) 10/1:
 Before the beginning of next class:
 - Review all of the code/examples [from Melody's notes](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0#heading=h.c4o7g9iu6z7r){:target="_blank"}
 - Complete this week's reading/exploration: Time. Submit this work on Brightspace.
-- Complete this week's assignment: [Clocks](assignment.html)
-- Refine your drawing from last week. Re-plot/print as needed. Bring this drawing to next class. [Review last week's description for more details.](../week4/assignment.html)
+- Work on this week's assignment. Post materials to your website: [Clocks](assignment.html)
+- Refine your drawing from last week. Re-plot/print as needed. Bring this drawing to next class. [Review the assignment's description for more details.](../week4/assignment.html)
+    - Looking ahead, next week, you all will be asked to hang your work during class.

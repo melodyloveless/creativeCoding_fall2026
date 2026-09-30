@@ -1,5 +1,9 @@
 ## Clocks
 
+*Due: 10/21 - this work will be incorporated in Week 7's projection mapping workshop*
+
+[**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
+
 Create a p5.js-based animation that responds to time. Using p5’s time-related functions, make an abstract clock that changes as time passes. Use at least three of the following functions to represent three sub-divisions of time:
 
 - [day()](https://p5js.org/reference/p5/day){:target="_blank"}
@@ -14,11 +18,14 @@ Your clock can keep track of typical increments of time (hours, minutes and seco
 
 How can you convey time in terms of its personal significance? How can time be conveyed in a less structured, more expressive way? What aspects of time’s passing can be represented through p5 (the sun and moon rising, for instance, or periods of sleep, wakefulness, peace and chaos)? Consider these questions and come up with a concept by making sketches first on paper or in a digital drawing program, then translate your prototypes into code. 
 
-In your description (readme.html), include photos of your sketches and describe your process.
+Before beginning, review the examples below.
 
-Before beginning your animation, review the examples below.
+In your description, include photos of your sketches and describe your process. Update your description and upload your work as you go. 
 
-Bonus goals: Include functions like [map()](https://p5js.org/reference/p5/map/){:target="_blank"}, [lerpColor()](https://p5js.org/reference/p5/lerpColor/){:target="_blank"}, and/or [palleteLerp()](https://p5js.org/reference/p5/paletteLerp/){:target="_blank"} in your exploration. Incorporate noise() or randomness in your sketch. 
+Bonus goals before Week 6: 
+- Include functions like [map()](https://p5js.org/reference/p5/map/){:target="_blank"}, [lerpColor()](https://p5js.org/reference/p5/lerpColor/){:target="_blank"}, and/or [palleteLerp()](https://p5js.org/reference/p5/paletteLerp/){:target="_blank"} in your exploration. 
+- Incorporate noise() or randomness in your sketch.
+- [Incorporate techniques from this tutorial.](https://idmp5.github.io/creative-coding/cycles/){:target="_blank"}
 
 ---
 
