@@ -6,6 +6,7 @@
 
 ### Code/Examples
 - [Getting Started: Animation Techniques/Examples](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0#heading=h.c4o7g9iu6z7r){:target="_blank"}
+- [In-class notes from demo](https://editor.p5js.org/melodyloveless/sketches/rytmUtEwx){:target="_blank"}
 
 ### Notes
 - [Introduction to Animation with p5.js](https://docs.google.com/document/d/1-WFuPAWwSLvq974esQeaV_o5DK9yR4r6tyFAXeG7fak/edit?tab=t.0){:target="_blank"}
