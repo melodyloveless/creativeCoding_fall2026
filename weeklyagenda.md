@@ -50,16 +50,16 @@
 
 ### Week 06 (2026/10/7) <!--[Week 06 (2026/10/7)](week6/) -->
 - More with Animation
-- Arrays
 - **Coursework**
   - Weekly Reflection
-  - Assignment/Code: Looping Animations
+  - Assignment/Code: Clock (con)
   - Reading/Exploration: TBA
 
 
 ### Week 07 (2026/10/21) <!-- [Week 07 (2026/10/21)](week7/) -->
 - Projection Mapping Workshop
 - **Coursework**: Details TBA
+
 <!-- 
 - **Coursework**
   - Weekly Reflection
