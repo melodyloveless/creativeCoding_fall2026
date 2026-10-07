@@ -29,7 +29,7 @@ Before beginning, review the examples below.
 
 In your description, include photos of your sketches and describe your process. You should update your description and upload your work as you go. You should have documentation of your work for Week 5 and Week 6 in your website for this course.
 
-Upload this description and the final version of this animation by 10/21. 
+Upload this description and the final version of this animation by the beginning of class on 10/21. 
 
 You're welcome to incorporate the p5.Polar Library in this assignment. [Review this tutorial on how to attach a library to your project.](https://happycoding.io/tutorials/p5js/libraries){:target="_blank"}
 
