@@ -64,7 +64,7 @@
 - **Coursework**
   - Weekly Reflection
 - **Reading/Exploration** TBA
-- The Poetics of Augmented Space, Lev Manovitch-->
+- The Poetics of Augmented Space, Lev Manovitch -->
 
 <!--
 ### [Week 08 (2026/10/28)](week8/)
