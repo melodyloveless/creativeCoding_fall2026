@@ -45,7 +45,3 @@ Before the beginning of next class (W) 10/21:
 - Review all of the animation code/examples [from Melody's notes from this week](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?usp=sharing){:target="_blank"}
 - Complete this week's reading/exploration: EYEO artist talk. Submit this work on Brightspace.
 - Work on this week's assignment. Post materials to your website: [Clocks](assignment.html)
-
-Reminders:
-- Class will not meet next week (10/14) The next time we will meet is 10/21. Review the official NYU Fall 2026 calendar for more information.
-- Next class (10/21), we will have a projection mapping workshop. We will meet on the second floor. Keep an eye on Brightspace leading up to class for further instructions.
