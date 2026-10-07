@@ -64,9 +64,9 @@
 - **Coursework**
   - Weekly Reflection
 - **Reading/Exploration** TBA
-- The Poetics of Augmented Space, Lev Manovitch -->
+- The Poetics of Augmented Space, Lev Manovitch
 
-<!--
+
 ### [Week 08 (2026/10/28)](week8/)
 - Cameras and images
 - **Assignment**: Using the camera as an input device
