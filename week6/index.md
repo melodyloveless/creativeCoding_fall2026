@@ -25,7 +25,7 @@ Eyeo is an art and design festival with a fantastic archive.
 
 The talks are about 30-40 minutes long. I recommend researching the person before committing to a talk. Some recommendations: [Jenny Odell](https://vimeo.com/178236530), [Nicholas Felton](https://vimeo.com/232659051), [Golan Levin](https://vimeo.com/777860683?share=copy), [Lauren Lee Mccarthy](https://vimeo.com/354276402), [Ben Fry](https://vimeo.com/175846596), [Ron Morrison](https://vimeo.com/354276852), and [Mimi Onuoha](https://vimeo.com/233011125).
 
-**In your response:** Share a post about what you found out. (What questions are they exploring in their work? What form does their work take? Were you able to connect anything from their talk to our class?) Include a screen shot or two and any relevant links. Be specific, sharing hyperlinks and/or timestamps when possible. Submit your work on Brightspace
+**In your response:** Share a post about what you found out. (What questions are they exploring in their work? What form does their work take? Were you able to connect anything from their talk to our class? Can you connect what they shared to your own goals at IDM?) Include a screen shot or two and any relevant links. Be specific, sharing hyperlinks and/or timestamps when possible. Submit your work on Brightspace
 
 Length: 7-10 sentences
 
@@ -38,10 +38,10 @@ Length: 7-10 sentences
 ---
 
 ### Coursework
-Before the end of the day on (Th) 10/21:
+Before the end of the day on (Th) 10/8:
 - Share your weekly reflection via Brightspace.
 
-Before the beginning of next class:
+Before the beginning of next class (W) 10/21:
 - Review all of the animation code/examples [from Melody's notes from this week](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?usp=sharing){:target="_blank"}
 - Complete this week's reading/exploration: EYEO artist talk. Submit this work on Brightspace.
 - Work on this week's assignment. Post materials to your website: [Clocks](assignment.html)
