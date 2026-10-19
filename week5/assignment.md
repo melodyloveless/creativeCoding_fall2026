@@ -2,7 +2,7 @@
 
 *Final Version Due: 10/21 - this work will be incorporated in Week 7's projection mapping workshop*
 
-[**Link to template**](https://drive.google.com/file/d/16jfZpFPeePNWzBgnWOlMeuJ2r5An9Mcc/view?usp=drive_link){:target="_blank"}
+[**Link to template**](https://drive.google.com/file/d/1YEPeNI7CdPnECmwiTHYLZIFiB_hCioio/view?usp=drive_link){:target="_blank"}
 
 Create a p5.js-based animation that responds to time. Using p5’s time-related functions, make an abstract clock that changes as time passes. Use at least three of the following functions to represent three sub-divisions of time:
 
