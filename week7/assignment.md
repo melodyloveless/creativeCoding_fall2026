@@ -1,6 +1,19 @@
 ## Projection Mapping
 
-[Click here to download the p5.mapper template folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fcraigfahner%2FCC2025-cef9489%2Ftree%2Fmain%2Fp5-mapper-template) (save it into your course repo)
+[Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link) 
+
+### Download Live Share Extension / Collaborating as a Group
+You all will need to work in groups and share projectors.
+
+Live Share is an extension for VSCode that enables you to collaboratively edit and debug a project with others in real time. 
+
+[Install Live Share for VSCode](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). 
+
+See link above for installation and quick start instructions. 
+
+Everyone in your group should download this extension, collaborating on a single file
+
+Recommendation: Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. The host should upload and share a finished copy of today's project to everyone else in the group.
 
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area
@@ -8,10 +21,9 @@
 - Try to be conscious of the coverage of all the surfaces on which you intend to project
   - Make sure, for instance, that the tops of any pedestals are being hit by the projector, if you want to project onto them
 - Be mindful of shadows cast by the projector onto objects in your scene. Arrange your objects so that they aren’t casting visible shadows on one another
-- Label your surfaces with a post-it note (0, 1, 2, 3, 4 etc) – we will create functions in p5.js that correspond with each surface
+- Label your surfaces with a post-it note (0, 1, 2, 3, 4 etc) – we will create functions in p5.js that correspond with each surface.
 
 ### Experiment with mapping a single surface
-- Once you’ve added the template folder to your repo, rename it to “p5-mapper-workshop”
 - Create a single “quad” projection surface in p5.mapper:
   - In setup:
     ![Screenshot of the p5 setup function](media/1.png)
