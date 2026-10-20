@@ -2,6 +2,8 @@
 
 [Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link) 
 
+[Review p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference)
+
 ### Download Live Share Extension / Collaborating as a Group
 You all will need to work in groups and share projectors.
 

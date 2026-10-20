@@ -55,10 +55,11 @@
   - Assignment/Code: Clock (con)
   - Reading/Exploration: EYEO Artist Talk
 
-
-### Week 07 (2026/10/21) <!-- [Week 07 (2026/10/21)](week7/) -->
+### [Week 07 (2026/10/21)](week7/)
 - Projection Mapping Workshop
-- **Coursework**: Details TBA
+- **Coursework**:
+  - Assignment/Code: Projection Mapping
+  - Reading/Exploration: The Poetics of Augmented Space by Lev Manovitch
 
 <!-- 
 - **Coursework**
