@@ -2,8 +2,8 @@
 ### Topics
 - Projection Mapping Workshop
 
-### Assignment
-- [Projection mapping](assignment.html)
+### Workshop/Assignment
+- [Projection Mapping](assignment.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 7](https://notebook.google.com/accessrequest/e5f70f05-a233-4ff3-a0db-23e2af5709cb?ref=notebook)
