@@ -50,3 +50,11 @@ Recommendation: Whoever is connected to the projector should be the project’s 
 ![Screenshot of code](media/5.png)
 - Notice that every p5-related function has “pg.” in front of it. “pg” is being passed through the mySketch function as a specific “instance” of p5.js. To ensure we are only addressing our mini-sketch and not the bigger sketch within which it is contained, use the “pg.” reference when you are writing your individual sketches within p5.mapper functions.
 - Be conscious of the dimensions you initially assigned when setting up your surfaces, as you’ll refer to this size when positioning things in your mini-sketches.
+
+
+### Document your work and experiences
+While you are all working in a group, everyone is responsible for documenting their work and progress on their course website. 
+
+Include a description and at least two photos of your animation projected on a surface. Bonus: include screenshots as needed
+
+Discuss your overall process and experiences with this workshop. (How did you contribute to the group's work? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? etc.)
