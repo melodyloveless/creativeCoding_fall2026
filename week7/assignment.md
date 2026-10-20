@@ -15,7 +15,7 @@ See link above for installation and quick start instructions.
 
 Everyone in your group should download this extension, collaborating on a single file
 
-Recommendation: Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. The host should upload and share a finished copy of today's project to everyone else in the group.
+Recommendation: Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. After today's workshop, the host should upload and share a finished copy of today's project to everyone else in the group.
 
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area

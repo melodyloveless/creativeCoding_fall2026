@@ -58,6 +58,7 @@
 ### [Week 07 (2026/10/21)](week7/)
 - Projection Mapping Workshop
 - **Coursework**:
+  - Weekly Reflection
   - Assignment/Code: Projection Mapping
   - Reading/Exploration: The Poetics of Augmented Space by Lev Manovitch
 
