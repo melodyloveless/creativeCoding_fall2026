@@ -12,7 +12,7 @@
 - **Explore:** [Lev Manovitch's Website](https://manovich.net/){:target="_blank"} Get to know him and his work better. At a minimum, read his biography.
 - **Read:** [The Poetics of Augmented Space, Lev Manovitch](https://manovich.net/content/04-projects/038-the-poetics-of-augmented-space/31_article_2002.pdf){:target="_blank"}
 
-**In your response:** Share a reaction to the article. (Were you able to connect any of his ideas to our class/workshop? Can you connect what they shared to your own goals/philosophies?) 
+**In your response:** Share a reaction to the article. (Were you able to connect any of his ideas to our class/workshop? Can you connect what he shared to your own goals/philosophies?) 
 
 Length: 7-10 sentences
 
