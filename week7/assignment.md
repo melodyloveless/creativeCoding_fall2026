@@ -56,5 +56,5 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 
 
 ### Document your work and experiences
-- Include a description and at least two photos of your animation projected on a surface. Discuss your overall process and experiences with this workshop. (How did you contribute to the group's work? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? etc.)
-- Recommendations: include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. (Even if you do not post these materials to your website, I recommend having these materials for yourself/your portfolio.)
+- Include a description and at least two photos of your animation projected on a surface. Discuss your overall process and experiences with this workshop. (Potential Talking Points: How did you contribute to the group's progress? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? Compare/contrast your experiences working with a projector vs a display, etc.)
+- Recommendations: Include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. Even if you do not post these materials to your website, I recommend gathering the aforementioned materials for yourself/your portfolio.
