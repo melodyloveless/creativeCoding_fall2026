@@ -1,21 +1,22 @@
 ## Projection Mapping
 
-[Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link) 
+[Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link){:target="_blank"}
 
-[Review p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference)
+[Review p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference){:target="_blank"}
 
 ### Download Live Share Extension / Collaborating as a Group
 You all will need to work in groups and share projectors.
 
 Live Share is an extension for VSCode that enables you to collaboratively edit and debug a project with others in real time. 
 
-[Install Live Share for VSCode](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare). 
+- [Install Live Share for VSCode](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare){:target="_blank"}. 
 
 See link above for installation and quick start instructions. 
 
-Everyone in your group should download this extension, collaborating on a single file
-
-Recommendation: Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. After today's workshop, the host should upload and share a finished copy of today's project to everyone else in the group.
+**Additional Notes:** 
+- Everyone in your group should download this extension, collaborating on a single file
+- Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. After today's workshop, the host should upload and share a finished copy of today's project to everyone else in the group. 
+- While you are all working in a group, everyone is responsible for documenting their work and progress on their course website. 
 
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area
@@ -55,8 +56,5 @@ Recommendation: Whoever is connected to the projector should be the project’s 
 
 
 ### Document your work and experiences
-While you are all working in a group, everyone is responsible for documenting their work and progress on their course website. 
-
-Include a description and at least two photos of your animation projected on a surface. Bonus: include screenshots as needed
-
-Discuss your overall process and experiences with this workshop. (How did you contribute to the group's work? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? etc.)
+- Include a description and at least two photos of your animation projected on a surface. Discuss your overall process and experiences with this workshop. (How did you contribute to the group's work? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? etc.)
+- Recommendations: include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. (Even if you do not post these materials to your website, I recommend having these materials for yourself/your portfolio.)
