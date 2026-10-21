@@ -14,9 +14,10 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 See link above for installation and quick start instructions. 
 
 **Additional Notes:** 
-- Everyone in your group should download this extension, collaborating on a single file
-- Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. After today's workshop, the host should upload and share a finished copy of today's project to everyone else in the group. 
-- While you are all working in a group, everyone is responsible for documenting their work and progress on their course website. 
+- Everyone in your group should download this extension, collaborating on a single file.
+- Whoever is connected to the projector should be the project’s host. Plan to use the host's computer to calibrate your shapes. 
+- After today's workshop, the host should upload and share a finished copy of today's project to everyone else in the group. Make sure to get each other's contact information before leaving the workshop.
+- While you are all working in a group, everyone is responsible for documenting their work and progress on their individual course website. 
 
 ### Set up your scene
 - Turn on your projector and examine the throw range / projectable area
