@@ -10,7 +10,7 @@ You all will need to work in groups and share projectors.
 Live Share is an extension for VSCode that enables you to collaboratively edit and debug a project with others in real time. 
 
 - [Install Live Share for VSCode](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare){:target="_blank"}. 
-- See the link above for installation and quick start instructions. If you don't see the extension immediately after installation, I recommend restarting your computer and/or re-installing the the extension.
+- See the link above for installation and quick start instructions. If you don't see the extension immediately after installation, I recommend restarting your computer and/or re-installing the extension.
 
 **Additional Notes:** 
 - Everyone in your group should download this extension, collaborating on a single file.
