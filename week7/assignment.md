@@ -75,7 +75,10 @@ Notes:
   - have your animations/sketches assigned to surfaces 
   - coordinate with your group from 10/21, combining your work into a single file. (Remember: you will need to share a projector with your group.)
 - Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
-  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface to project on.
+  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on.
+
+**Make sure to take pictures and document your work during our share-out!**
+
 
 ### Document your work and experiences
 - Include a description and at least two photos of your animation projected on a surface. Discuss your overall process/experiences.
