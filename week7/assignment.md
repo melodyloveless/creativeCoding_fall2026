@@ -73,7 +73,7 @@ Notes:
 - At the beginning of class on 11/4, we will have a share out with other creative coding sections.
 - Before the beginning this class, you all should:
   - have your animations/sketches assigned to surfaces 
-  - coordinate with your group from 10/21, combining your work into a single file. (Remember: you will need to share a projector with your group.)
+  - coordinate with your group from 10/21, combining your work into a single file. (Remember: you all will need to share a projector.)
 - Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
   - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on.
 
