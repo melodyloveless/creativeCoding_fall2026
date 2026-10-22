@@ -34,6 +34,8 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Label your surfaces with a post-it note (0, 1, 2, 3, 4 etc) – we will create functions in p5.js that correspond with each surface.
 
 ### Experiment with mapping a single surface
+- The instructions below discuss how to create a four sided shape for projecting on. [Review the documentation](https://github.com/jdeboi/p5.mapper/blob/main/reference/README.md){:target="_blank"} if you want to map on a different type of surface/shape (a triangle, sphere, etc.)
+
 - Create a single “quad” projection surface in p5.mapper:
   - In setup:
     ![Screenshot of the p5 setup function](media/1.png)
@@ -43,7 +45,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Press ‘c’ to enter calibration mode. You will notice control points show up on each of the corners of your projected surface.
 - Click and drag the control points so that they align with the corners of your object
 - Press ‘c’ again to exit calibration mode
-- [Review the documentation](https://github.com/jdeboi/p5.mapper/blob/main/reference/README.md){:target="_blank"} if you want to map on a different type of surface/shape (ex. a triangle.)
+
 
 ### Map all of your surfaces
 - Now that we know how to map one surface, we can create p5.mapper objects for every surface in our installation. Use a naming convention that aligns with the labels you assigned to each of your projection surfaces. Set up dimensions that are roughly proportionate to your actual surfaces:
