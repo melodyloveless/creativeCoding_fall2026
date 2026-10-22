@@ -43,7 +43,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Press ‘c’ to enter calibration mode. You will notice control points show up on each of the corners of your projected surface.
 - Click and drag the control points so that they align with the corners of your object
 - Press ‘c’ again to exit calibration mode
-- [Review the documentation](https://github.com/jdeboi/p5.mapper/blob/main/reference/README.md){:target="_blank"} if you want to map on a different type of surface/shape (ex. a triangle)
+- [Review the documentation](https://github.com/jdeboi/p5.mapper/blob/main/reference/README.md){:target="_blank"} if you want to map on a different type of surface/shape (ex. a triangle.)
 
 ### Map all of your surfaces
 - Now that we know how to map one surface, we can create p5.mapper objects for every surface in our installation. Use a naming convention that aligns with the labels you assigned to each of your projection surfaces. Set up dimensions that are roughly proportionate to your actual surfaces:
@@ -62,7 +62,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Notice that every p5-related function has “pg.” in front of it. “pg” is being passed through the mySketch function as a specific “instance” of p5.js. To ensure we are only addressing our mini-sketch and not the bigger sketch within which it is contained, use the “pg.” reference when you are writing your individual sketches within p5.mapper functions.
 - Be conscious of the dimensions you initially assigned when setting up your surfaces, as you’ll refer to this size when positioning things in your mini-sketches.
 
-Notes:
+**Notes:**
 - You are welcome to modify/simplify your original animation ("Clocks") for this assignment.
 - You can also assign a sketch to a surface using the displayTexture() method:
   - <pre>quad3.displayTexture(mySketch);</pre>
