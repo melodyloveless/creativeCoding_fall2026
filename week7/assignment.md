@@ -9,7 +9,7 @@
 
 [Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link){:target="_blank"}
 
-[Review p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference){:target="_blank"}
+[Review the p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference){:target="_blank"}
 
 ### Download Live Share Extension / Collaborating as a Group
 You all will need to work in groups and share projectors.
@@ -43,6 +43,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Press ‘c’ to enter calibration mode. You will notice control points show up on each of the corners of your projected surface.
 - Click and drag the control points so that they align with the corners of your object
 - Press ‘c’ again to exit calibration mode
+- [Review the documentation](https://github.com/jdeboi/p5.mapper/blob/main/reference/README.md){:target="_blank"} if you want to map on a different type of surface/shape (ex. a triangle)
 
 ### Map all of your surfaces
 - Now that we know how to map one surface, we can create p5.mapper objects for every surface in our installation. Use a naming convention that aligns with the labels you assigned to each of your projection surfaces. Set up dimensions that are roughly proportionate to your actual surfaces:
@@ -68,12 +69,13 @@ Notes:
   - *This is the technique showed by Ofer (the other CC instructor) during class on 10/21*
   - This method is useful if you have a semi-transparent background for your sketch. 
 
-### Preparing for our share-out on 11/4 (Week 9)
-- At the beginning of class on 11/4, we will have a share out with the other creative coding sections on the second floor.
+### Preparing for our share-out
+- At the beginning of class on 11/4, we will have a share out with other creative coding sections.
 - Before the beginning this class, you all should:
   - have your animations/sketches assigned to surfaces 
-  - coordinate with your group, combining your work into a single file
-- Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm.
+  - coordinate with your group from 10/21, combining your work into a single file. (Remember: you will need to share a projector with your group.)
+- Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
+  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface to project on.
 
 ### Document your work and experiences
 - Include a description and at least two photos of your animation projected on a surface. Discuss your overall process/experiences.
