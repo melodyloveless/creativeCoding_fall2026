@@ -1,5 +1,12 @@
 ## Projection Mapping
 
+**Updated Schedule:**
+- Week 7 (10/21): Lab on Second Floor
+- Week 9 (11/4): Share Out at the beginning of Class (Room 220)
+- Week 10 (11/11): Description and documentation is due
+
+-- 
+
 [Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link){:target="_blank"}
 
 [Review p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference){:target="_blank"}
@@ -47,14 +54,28 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 
 ### Running p5 sketches on your surfaces
 - P5.mapper lets you assign a p5 sketch to one or more surfaces.
-- You do this using the displaySketch method on your p5.mapper object:
+- You can do this using the displaySketch method on your p5.mapper object:
   - <pre>quad3.displaySketch(mySketch);</pre>
 - In the above line, quad3 is being assigned a sketch called “mySketch”. mySketch is a function that appears elsewhere in your code. It acts as an instance of a p5.js canvas. As such, you need to refer to the specific instance when writing your code:
 ![Screenshot of code](media/5.png)
 - Notice that every p5-related function has “pg.” in front of it. “pg” is being passed through the mySketch function as a specific “instance” of p5.js. To ensure we are only addressing our mini-sketch and not the bigger sketch within which it is contained, use the “pg.” reference when you are writing your individual sketches within p5.mapper functions.
 - Be conscious of the dimensions you initially assigned when setting up your surfaces, as you’ll refer to this size when positioning things in your mini-sketches.
 
+Notes:
+- You are welcome to modify/simplify your original animation ("Clocks") for this assignment.
+- You can also assign a sketch to a surface using the displayTexture() method:
+  - <pre>quad3.displayTexture(mySketch);</pre>
+  - *This is the technique showed by Ofer (the other CC instructor) during class on 10/21*
+  - This method is useful if you have a semi-transparent background for your sketch. 
+
+### Preparing for our share-out on 11/4 (Week 9)
+- At the beginning of class on 11/4, we will have a share out with the other creative coding sections on the second floor.
+- Before the beginning this class, you all should:
+  - have your animations/sketches assigned to surfaces 
+  - coordinate with your group, combining your work into a single file
+- Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm.
 
 ### Document your work and experiences
-- Include a description and at least two photos of your animation projected on a surface. Discuss your overall process and experiences with this workshop. (Potential Talking Points: How did you contribute to the group's progress? Did you have to do any major modifications between your original animation for "Clocks" and this workshop? Compare/contrast your experiences working with a projector vs a display, etc.)
+- Include a description and at least two photos of your animation projected on a surface. Discuss your overall process/experiences.
+  - Additional/Potential Talking Points: How did you contribute to the group's progress? Discuss hurdles you encountered during this process and how you and your group problem-solved through them. Did you have to do any major modifications between your original animation for "Clocks" and this workshop? Compare/contrast your experiences working with a projector vs a display. etc.
 - Recommendations: Include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. Even if you do not post these materials to your website, I recommend gathering the aforementioned materials for yourself/your portfolio.
