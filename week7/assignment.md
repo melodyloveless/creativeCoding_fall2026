@@ -7,7 +7,7 @@
 
 -- 
 
-[Click here to download a template and example](https://drive.google.com/file/d/1DDCnLgEFTwx6VEMebB3ccSJ4EHqN3Unt/view?usp=drive_link){:target="_blank"}
+[Click here to download a template and examples](https://drive.google.com/drive/folders/1j3lzPhCOiQ2_FA4ugHHcz3nQqnEN6GDh){:target="_blank"}
 
 [Review the p5.mapper documentation for more information](https://github.com/jdeboi/p5.mapper/tree/main/reference){:target="_blank"}
 
