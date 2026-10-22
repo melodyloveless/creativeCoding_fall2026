@@ -69,7 +69,7 @@ Notes:
   - *This is the technique showed by Ofer (the other CC instructor) during class on 10/21*
   - This method is useful if you have a semi-transparent background for your sketch. 
 
-### Preparing for our share-out
+### Preparing for our final share-out
 - At the beginning of class on 11/4, we will have a share out with other creative coding sections.
 - Before the beginning this class, you all should:
   - have your animations/sketches assigned to surfaces 
