@@ -77,10 +77,8 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
   - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on.
 
-**Make sure to take pictures and document your work during our share-out!**
-
-
 ### Document your work and experiences
+**Make sure to take pictures and document your work during our share-out!**
 - Include a description and at least two photos of your animation projected on a surface. Discuss your overall process/experiences.
   - Additional/Potential Talking Points: How did you contribute to the group's progress? Discuss hurdles you encountered during this process and how you and your group problem-solved through them. Did you have to do any major modifications between your original animation for "Clocks" and this workshop? Compare/contrast your experiences working with a projector vs a display. etc.
 - Recommendations: Include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. Even if you do not post these materials to your website, I recommend gathering the aforementioned materials for yourself/your portfolio.
