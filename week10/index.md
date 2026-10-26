@@ -1,4 +1,6 @@
 ## Week 10
+- Share out: Interactivity Exploration
+
 ### Topics
 - ml5.js
 

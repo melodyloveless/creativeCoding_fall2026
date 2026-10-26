@@ -17,3 +17,10 @@
 ### Reading:  
   - Ted Chiang, "[ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)" (The New Yorker, Feb 2023) 
   - Allison Parrish, "[Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/)"
+
+
+
+
+### Tools/Related Resource
+- [Piskel App](https://www.piskelapp.com/){:target="_blank"}
+    - Tool for drawing pixel art/sprites. Files can be exported as a sprite sheet.
