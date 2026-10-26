@@ -1,13 +1,12 @@
 ## Week 10
 ### Topics
-- Sound files
-- sound processing
-- Sound synthesis
+- ml5.js
 
-### Review
-- [sound files](https://idmp5.github.io/creative-coding/sound-files/)
-- [sound synthesis]()
-- [sound processing](https://idmp5.github.io/creative-coding/sound-processing/)
+### Notes
+- [IDM: Intro to Neural Nets](https://idmnyu.github.io/p5-fundamentals/ai/neural-nets/)
+- [IDM: Concurrency](https://idmnyu.github.io/p5-fundamentals/ai/concurrency/)
+- [IDMO: ml5.js](https://idmnyu.github.io/p5-fundamentals/ai/ml5/)
+
 
 
 ### Assignment
@@ -17,4 +16,8 @@
 - [IDM Creative Coding Week 10]()
 
 ### Reading:  
-  - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https://www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.
+
+
+
+
+  - [Rokeby "Transforming Mirrors"](http://www.davidrokeby.com/mirrors.html) 

@@ -9,6 +9,11 @@
 - [video](https://idmp5.github.io/creative-coding/videos/)
 - [promises, asynch and await](https://idmp5.github.io/coding/promise-await/)
 
+
+### Tools/Related Resource
+- [Piskel App](https://www.piskelapp.com/){:target="_blank"}
+    - Tool for drawing pixel art/sprites. Files can be exported as a sprite sheet.
+
 ### Assignment
 - **Assignment**: Using the camera as an input device
 

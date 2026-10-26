@@ -1,8 +1,8 @@
 ## Projection Mapping
 
 **Updated Schedule:**
-- Week 7 (10/21): Lab on Second Floor
-- Week 9 (11/4): Share Out at the beginning of Class (Room 220)
+- Week 7 (10/21): Lab on Second Floor (Part One)
+- Week 9 (11/4): Lab on Second Floor (Room 220) (Part Two) -> Demo by end of class
 - Week 10 (11/11): Description and documentation is due
 
 -- 
@@ -64,23 +64,38 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 - Notice that every p5-related function has “pg.” in front of it. “pg” is being passed through the mySketch function as a specific “instance” of p5.js. To ensure we are only addressing our mini-sketch and not the bigger sketch within which it is contained, use the “pg.” reference when you are writing your individual sketches within p5.mapper functions.
 - Be conscious of the dimensions you initially assigned when setting up your surfaces, as you’ll refer to this size when positioning things in your mini-sketches.
 
-**Notes:**
+**Additional Notes:**
 - You are welcome to modify/simplify your original animation ("Clocks") for this assignment.
 - You can also assign a sketch to a surface using the displayTexture() method:
   - <pre>quad3.displayTexture(mySketch);</pre>
   - *This is the technique showed by Ofer (the other CC instructor) during class on 10/21*
   - This method is useful if you have a semi-transparent background for your sketch. 
 
-### Preparing for our final share-out
-- At the beginning of class on 11/4, we will have a share out with other creative coding sections.
+### Preparing for part two / our share-out
+- At the beginning of class on 11/4, we will have additional lab time followed by a share out with other CC sections.
 - Before the beginning this class, you all should:
   - have your animations/sketches assigned to surfaces 
   - coordinate with your group from 10/21, combining your work into a single file. (Remember: you all will need to share a projector.)
 - Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
-  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on.
+  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on. 
 
 ### Document your work and experiences
 **Make sure to take pictures and document your work during our share-out!**
 - Include a description and at least two photos of your animation projected on a surface. Discuss your overall process/experiences.
   - Additional/Potential Talking Points: How did you contribute to the group's progress? Discuss hurdles you encountered during this process and how you and your group problem-solved through them. Did you have to do any major modifications between your original animation for "Clocks" and this workshop? Compare/contrast your experiences working with a projector vs a display. etc.
 - Recommendations: Include screenshots of your original animation, photos of yourself working, photos of different stages of your group's progress, etc. Even if you do not post these materials to your website, I recommend gathering the aforementioned materials for yourself/your portfolio.
+
+--
+
+## Projection Mapping Examples
+- [Luma Festival](https://lumafestival.com/)
+- [Floyd Bennet Field Public Arts Festival (10/3/26)](https://www.jbrpc.org/arts)
+  - [Instagram: @jbrpc](https://www.instagram.com/jbrpc/?hl=en) - browse their Instagram for clips from festival
+- [teamLab](https://www.teamlab.art/)
+  - [Sculptures of Dissipative Birds in the Wind](https://www.teamlab.art/w/sculptures_of_dissipative_birds/) 
+  - [Koi and People](https://www.teamlab.art/w/koi_and_people/) - projecting on water
+- [Reclaiming the Monument](https://www.reclaimingthemonument.com/)
+  - [Protest Art/Projecting on the Robert E. Lee monument in Richmond, VA](https://www.reclaimingthemonument.com/gallery-copy)
+- [Lucinda Dilworth](https://lucindadilworth.com/)
+  - [Demo: Projection Mapping on a painting](https://www.youtube.com/shorts/f9XJV2sQGao)
+  - TikTok and Instagram: @dil.worth
