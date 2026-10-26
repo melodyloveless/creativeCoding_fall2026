@@ -95,7 +95,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
   - [Sculptures of Dissipative Birds in the Wind](https://www.teamlab.art/w/sculptures_of_dissipative_birds/) 
   - [Koi and People](https://www.teamlab.art/w/koi_and_people/) - projecting on water
 - [Reclaiming the Monument](https://www.reclaimingthemonument.com/)
-  - [Protest Art/Projecting on the Robert E. Lee monument in Richmond, VA](https://www.reclaimingthemonument.com/gallery-copy)
+  - [Protest art/projecting on the Robert E. Lee monument in Richmond, VA](https://www.reclaimingthemonument.com/gallery-copy)
 - [Lucinda Dilworth](https://lucindadilworth.com/)
   - [Demo: Projection Mapping on a painting](https://www.youtube.com/shorts/f9XJV2sQGao)
   - TikTok and Instagram: @dil.worth
