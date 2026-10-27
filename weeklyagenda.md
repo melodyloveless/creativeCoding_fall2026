@@ -62,7 +62,7 @@
   - Assignment/Code: Projection Mapping
   - Reading/Exploration: The Poetics of Augmented Space by Lev Manovitch
 
-### Week 08 (2026/10/28)
+### [Week 08 (2026/10/28)](week8/)
 - More with arrays and strings 
 - Extended interactivity
 - Objects and classes
