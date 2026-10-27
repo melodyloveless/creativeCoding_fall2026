@@ -77,7 +77,7 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
   - have your animations/sketches assigned to surfaces 
   - coordinate with your group from 10/21, combining your work into a single file. (Remember: you all will need to share a projector.)
 - Before presenting, you all are expected to calibrate your animations, mapping them to objects in the room. You can start arriving to the space around 5:30pm. 
-  - Plan to be flexible with what shapes you map on (TBD how many pedestals we can get for this share-out.) You are also welcome to bring your own surface(s) to project on. 
+  - Plan to be flexible with what shapes you map on (TBD if/how many pedestals we can get for this share-out. At a minimum, there will be cubes.) You are also welcome to bring your own surface(s) to project on. 
 
 ### Document your work and experiences
 **Make sure to take pictures and document your work during our share-out!**
@@ -90,12 +90,14 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
 ## Projection Mapping Examples
 - [Luma Festival](https://lumafestival.com/)
 - [Floyd Bennet Field Public Arts Festival (10/3/26)](https://www.jbrpc.org/arts)
-  - [Instagram: @jbrpc](https://www.instagram.com/jbrpc/?hl=en) - browse their Instagram for clips from festival
+  - [Instagram: @jbrpc](https://www.instagram.com/jbrpc/?hl=en) - browse their social media for clips from thefestival
 - [teamLab](https://www.teamlab.art/)
   - [Sculptures of Dissipative Birds in the Wind](https://www.teamlab.art/w/sculptures_of_dissipative_birds/) 
   - [Koi and People](https://www.teamlab.art/w/koi_and_people/) - projecting on water
 - [Reclaiming the Monument](https://www.reclaimingthemonument.com/)
-  - [Protest art/projecting on the Robert E. Lee monument in Richmond, VA](https://www.reclaimingthemonument.com/gallery-copy)
+  - [Protest art](https://www.reclaimingthemonument.com/gallery-copy) - projecting on the Robert E. Lee monument in Richmond, VA
 - [Lucinda Dilworth](https://lucindadilworth.com/)
   - [Demo: Projection Mapping on a painting](https://www.youtube.com/shorts/f9XJV2sQGao)
   - TikTok and Instagram: @dil.worth
+- [LadyK / Katherine Bennett](https://www.katherinebennett.net/index.html)
+  - [Luciferens](https://www.katherinebennett.net/art/Luciferins.html) - projection mapping on textiles, incorporates camera tracking
