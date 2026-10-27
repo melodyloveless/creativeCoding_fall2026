@@ -16,8 +16,8 @@
 #### Supplemental Reading
 - [Eloquent JavaScript Ch.4: Objects and Arrays](https://eloquentjavascript.net/04_data.html){:target="_blank"}
 
-### Assignment
-- **Assignment**: [Interactivity Exploration](assignment.html)
+### New Assignment
+- [Interactivity Exploration](assignment.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 8](h)
@@ -35,3 +35,6 @@ Before the beginning of next class (W) 11/4:
     - Review the examples listed on the prompt on your own.
     - Reminder: next class, we will meet on the second floor.
     - Review the prompt/link above for more details and instructions.
+
+
+Note: There's no reading/exploration/etc. this week.
