@@ -100,4 +100,4 @@ Live Share is an extension for VSCode that enables you to collaboratively edit a
   - [Demo: Projection Mapping on a painting](https://www.youtube.com/shorts/f9XJV2sQGao)
   - TikTok and Instagram: @dil.worth
 - [LadyK / Katherine Bennett](https://www.katherinebennett.net/index.html)
-  - [Luciferens](https://www.katherinebennett.net/art/Luciferins.html) - projection mapping on textiles, incorporates camera tracking
+  - [Luciferens](https://www.katherinebennett.net/art/Luciferins.html) - projection mapping on textiles, also incorporates camera tracking

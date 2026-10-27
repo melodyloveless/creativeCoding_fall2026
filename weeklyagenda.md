@@ -56,7 +56,7 @@
   - Reading/Exploration: EYEO Artist Talk
 
 ### [Week 07 (2026/10/21)](week7/)
-- Projection Mapping Workshop
+- In-Class: Projection Mapping Workshop (Part One)
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Projection Mapping
@@ -68,17 +68,16 @@
 - Objects and classes
 - **Coursework**:
   - Weekly Reflection
-    - Reading/Exploration (TBA)
   - Assignment/Code:
     - Interactivity Exploration
     - Projection Mapping
 
 ### Week 09 (2026/11/04)
 - In-Class: Projection Mapping (Part Two)
-- Self Guided: Audiovisuals/Audio-reactivity
+- Self Guided: Audiovisuals/audio-reactivity
 - **Coursework**:
   - Weekly Reflection
-    - Reading/Exploration (TBA)
+  - Reading/Exploration (TBA)
   - Assignment/Code:
     - Interactivity Exploration
     - Projection Mapping

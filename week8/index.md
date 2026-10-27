@@ -19,9 +19,6 @@
 ### Assignment
 - **Assignment**: [Interactivity Exploration](assignment.html)
 
-### Video/Exploration
-?????
-
 ### This week's LLM
 - [IDM Creative Coding Week 8](h)
 
@@ -33,9 +30,7 @@ Before the end of the day on (Th) 10/29:
 
 Before the beginning of next class (W) 11/4:
 - Review Melody's notes completley. Then, review other notes and/or with the LLM as needed.
-- Complete this week's reading/exploration:???? Submit this work on Brightspace. /// ?????????????
-
-- Work on this week's assignment.
+- Work on this week's assignment: [Interactivity Exploration](assignment.html)
 - Continue working on your [Projection Mapping assignment](../week7/assignment.html) as needed. 
     - Review the examples listed on the prompt on your own.
     - Reminder: next class, we will meet on the second floor.
