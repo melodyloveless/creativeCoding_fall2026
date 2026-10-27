@@ -31,8 +31,8 @@ Before the end of the day on (Th) 10/29:
 Before the beginning of next class (W) 11/4:
 - Review Melody's notes completley. Then, review other notes and/or with the LLM as needed.
 - Work on this week's assignment: [Interactivity Exploration](assignment.html)
-- Continue working on your [Projection Mapping assignment](../week7/assignment.html) as needed. 
-    - Review the examples listed on the prompt on your own.
+- Continue working on your [Projection Mapping](../week7/assignment.html) assignment as needed. 
+    - *New:* Review the examples listed on the prompt on your own.
     - Reminder: next class, we will meet on the second floor.
     - Review the prompt/link above for more details and instructions.
 
