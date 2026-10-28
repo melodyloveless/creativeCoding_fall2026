@@ -20,7 +20,7 @@
 - [Interactivity Exploration](assignment.html)
 
 ### This week's LLM
-- [IDM Creative Coding Week 8](h)
+- [IDM Creative Coding Week 8](https://notebook.google.com/notebook/f998ada7-e924-4bcd-8c2d-96d3da5f358f){:target="_blank"}
 
 ---
 
@@ -35,6 +35,5 @@ Before the beginning of next class (W) 11/4:
     - *New:* Review the examples listed on the prompt on your own.
     - Reminder: next class, we will meet on the second floor.
     - Review the prompt/link above for more details and instructions.
-
 
 Note: There's no reading/exploration/etc. this week.
