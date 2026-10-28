@@ -3,10 +3,12 @@
 Optional: You may extend a previous sketch or assignment. If you do, link your original code and briefly list what you added or changed in your description. The new sketch must meet all requirements on its own.
 
 ### Sketch Requirements
-- At least two of the following:
-    - An array method (ex. push, slice, shift, unshift, etc.)
-    - A string method (ex. substring, split, etc.) 
-- Interactivity (via mouse or keyboard). This interaction should change the data structure itself (adding, removing, reordering, or filtering items) AND produce a visible change on screen.
+- At least two different...
+    - Array methods (ex. push, slice, shift, unshift, etc.)
+    - or string methods (ex. substring, split, etc.) 
+- Interactivity (via mouse or keyboard). 
+    - This interaction should change the data structure itself (adding, removing, reordering, or filtering items)
+    - This interaction should also produce a visible change on scree
 - A custom class with a constructor and at least one method.
 - At least one instance of your class. (In other words, create an object using your class or "template.")
     - Incorporate your method(s) too.
