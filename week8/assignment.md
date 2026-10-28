@@ -6,7 +6,7 @@ Optional: You may extend a previous sketch or assignment. If you do, link your o
 - At least two different...
     - array methods (ex. push, slice, shift, unshift, etc.)
     - or string methods (ex. substring, split, etc.)
-    - Bonus goal: try finding and including a method that was not discussed during class. I recommend browing W3 Schools for more.
+    - Bonus goal: try finding and including a method that was not discussed during class. I recommend browsing our notes and/or W3 Schools for more.
         - [W3 Schools: Array Methods](https://www.w3schools.com/jsref/jsref_obj_array.asp){:target="_blank"}
         - [W3 Schools: String Methods](https://www.w3schools.com/jsref/jsref_obj_string.asp){:target="_blank"}
 - Interactivity (via mouse or keyboard)
