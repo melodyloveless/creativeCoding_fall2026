@@ -1,6 +1,6 @@
 ## Week 8
 - House Keeping (review course outline/upcoming schedule on syllabus)
-- [Share out: Animation](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
+- [Share out: Clocks](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?usp=sharing){:target="_blank"}
 - Array methods, string methods, and extended interactions
 - Introduction to objects and classes
 
