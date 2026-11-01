@@ -13,7 +13,7 @@ Optional: You may extend a previous sketch or assignment. If you do, link your o
     - This interaction should change the data structure itself (adding, removing, reordering, or filtering items).
     - This interaction should also produce a visible change in the sketch.
 - A custom class with a constructor and at least one method.
-- At least one instance of your class.
+- Create at least one instance of your class.
     - In other words, create an object using your class or "template"...
     - and incorporate your method(s) too.
     - Bonus goal: Instead of one instance, create multiple instances of your class, managed in an array.
