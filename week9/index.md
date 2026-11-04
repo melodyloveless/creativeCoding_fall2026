@@ -28,4 +28,4 @@ Before the beginning of next class (W) 11/11:
 - Post documentation for your [Projection Mapping](../week7/assignment.html).
 - Work on this week's assignment: [Interactivity Exploration](assignment.html)
 
-Note: There's no requiredreading/exploration/etc. this week. 
+Note: There's no required reading/exploration/etc. this week. 
