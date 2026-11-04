@@ -1,26 +1,26 @@
 ## Audioreactive visualization
 
-*To accomodate our in-person workshop, in leiu of an in-person lecture/demo, you all are asked to review materials on your own and create an audioreactive visualization with p5.js.*
+*To accomodate our in-person workshop, you all are asked to review the following materials on your own and create an audioreactive visualization with p5.js.*
 
 ### Definitions
-    - audio reactive (or audioreactive) - a work and/or environment that responds/adapts to incoming audio
-    - audiovisual (or audio-visual) - relating to both hearing and sight
+- audio reactive (or audioreactive) - a work and/or environment that responds/adapts to incoming audio
+- audiovisual (or audio-visual) - relating to both hearing and sight
 
 **Goal:** To create an audioreactive sketch, featuring an audio input of your choice. This input should be measured/analyzed, affecting multiple visual properties of your sketch.
 
 ### Instructions
-- At a minimum, before beginning, review the following materials:
+- Before beginning, review the following materials:
     - [Audio](https://docs.google.com/document/d/1ulK8Uye1ImBhstP3M6S7NdVq0_-VxLAt_UugBzXpHYE/edit?usp=sharing){:target="_blank"}
     - [IDM: promises, async and await](https://idmp5.github.io/coding/promise-await/){:target="_blank"} - includes a tutorial for loading files (like samples/audio files)
     - *Review additional materials as necessary.* See this week's main page for more resources/details.
-- Create a sketch that completes the following:
+- Create a sketch that fulfills the following:
     - Incorporates at least one audio input (sample/audiofile, microphone, and/or oscillator) 
-    - Measure at least one of the following audio properties:
+    - Measures at least one of the following audio properties from the aforementioned:
         - amplitude using [p5.Amplitude](https://p5js.org/reference/p5.sound/p5.Amplitude/){:target="_blank"}
         - frequency (pitch) using [p5.FFT](https://p5js.org/reference/p5.sound/#p5.FFT){:target="_blank"}
         - Bonus goal: incorporate both
     - Create at least three relationships between the audio data and your visualization. These relationships should be clear/apparent.
-- **A caveat:** [no standard bar graphs](https://www.youtube.com/watch?v=-qxA8-jS9XE){:target="_blank"}, [waveform lines](https://editor.p5js.org/melodyloveless/sketches/IlBZv2Tfh){:target="_blank"}, or [radial FFT visualizers.](https://youtu.be/h_aTgOl9J5I?si=P5ToBLVhYs682xp7){:target="_blank"}
+- **A caveat:** do *not* create a [standard bar graphs](https://www.youtube.com/watch?v=-qxA8-jS9XE){:target="_blank"}, [waveform lines](https://editor.p5js.org/melodyloveless/sketches/IlBZv2Tfh){:target="_blank"}, or [radial FFT visualizers.](https://youtu.be/h_aTgOl9J5I?si=P5ToBLVhYs682xp7){:target="_blank"}
 
 #### Description
 - Post a description and copy of your sketch on your website for this class. 

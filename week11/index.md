@@ -1,6 +1,10 @@
 ## Week 11
+Beginning of class: Quiz #2
+Topics
+Pulling data from other sources/
+Intro to APIs
+
 ### Topics
-- pulling data from other sources (API intro)
 
 ### Review
 - [loading data](https://idmp5.github.io/creative-coding/data/)
@@ -8,8 +12,10 @@
 ### Assignment
 - **Assignment**: Data Visualization
 
+
+
 ### This week's LLM
 - [IDM Creative Coding Week 11]()
 
-### Reading:  
-- W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
+### Quiz 2 Study Guide
+

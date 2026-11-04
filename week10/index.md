@@ -1,5 +1,11 @@
 ## Week 10
 - Share out: Interactivity Exploration
+Topics:
+- Images
+- Cameras
+- ml5.js
+- Gestural Interaction
+Discuss Quiz #2
 
 ### Topics
 - ml5.js
