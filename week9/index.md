@@ -22,10 +22,10 @@
 
 ### Coursework
 Before the end of the day on (Th) 11/5:
-- Share your weekly reflection via Brightspace.
+- Share your weekly reflection via Brightspace
 
 Before the beginning of next class (W) 11/11:
-- Post documentation for your [Projection Mapping](../week7/assignment.html).
+- Post documentation for your [Projection Mapping](../week7/assignment.html)
 - Work on this week's assignment: [Audioreactive Visualization](assignment.html)
 
-Note: There's no required reading/exploration/etc. this week. 
+Note: There's no required reading/exploration/etc. this week
