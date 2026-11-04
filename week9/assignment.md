@@ -20,7 +20,7 @@
         - frequency (pitch) using [p5.FFT](https://p5js.org/reference/p5.sound/#p5.FFT){:target="_blank"}
         - Bonus goal: incorporate both
     - Create at least three relationships between the audio data and your visualization. These relationships should be clear/apparent.
-- **A caveat:** do *not* create a [standard bar graphs](https://www.youtube.com/watch?v=-qxA8-jS9XE){:target="_blank"}, [waveform lines](https://editor.p5js.org/melodyloveless/sketches/IlBZv2Tfh){:target="_blank"}, or [radial FFT visualizers.](https://youtu.be/h_aTgOl9J5I?si=P5ToBLVhYs682xp7){:target="_blank"}
+- **A caveat:** do *not* create a [standard bar graph](https://www.youtube.com/watch?v=-qxA8-jS9XE){:target="_blank"}, [waveform line](https://editor.p5js.org/melodyloveless/sketches/IlBZv2Tfh){:target="_blank"}, or [radial FFT visualizer.](https://youtu.be/h_aTgOl9J5I?si=P5ToBLVhYs682xp7){:target="_blank"}
 
 #### Description
 - Post a description and copy of your sketch on your website for this class. 
