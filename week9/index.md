@@ -1,6 +1,6 @@
 ## Week 9
-- Projection Mapping Workshop (Part Two)
-- Working with sound (Generating, playing back, and analyzing)
+- Projection Mapping Workshop (Part Two) - Meet in Room 220
+- Working with sound (playing back, analyzing, and generating)
 - Audiovisual/audio-reactive techniques
 
 ### Notes
