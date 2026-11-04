@@ -32,7 +32,7 @@
 
 **Optional:** You may extend a previous sketch or assignment. If you do, link your original code and briefly list what you added or changed in your description. The new sketch must meet all requirements on its own.
 
-There is no provided template this week. You can combine examples from my notes with [past templates for assignments.](https://drive.google.com/drive/folders/1j3lzPhCOiQ2_FA4ugHHcz3nQqnEN6GDh)
+There is no provided template this week. You can combine your work with [past templates for assignments.](https://drive.google.com/drive/folders/1j3lzPhCOiQ2_FA4ugHHcz3nQqnEN6GDh)
 
 --- 
 
