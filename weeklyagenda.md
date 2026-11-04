@@ -72,12 +72,11 @@
     - Interactivity Exploration
     - Projection Mapping
 
-### Week 09 (2026/11/04)
+### [Week 09 (2026/11/04)](week9/)
 - In-Class: Projection Mapping (Part Two)
 - Self Guided: Audiovisuals/audio-reactivity
 - **Coursework**:
   - Weekly Reflection
-  - Reading/Exploration (TBA)
   - Assignment/Code:
     - Interactivity Exploration
     - Projection Mapping

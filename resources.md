@@ -4,7 +4,7 @@
 - [Melody's Notes](https://drive.google.com/drive/folders/1UL8i8KOH4fqQzYgykI7L6Fjjdb0qDumZ?usp=drive_link){:target="_blank"}
 - [IDM's Notes](https://idmp5.github.io/){:target="_blank"}
 - [Nature of Code](https://natureofcode.com/){:target="_blank"} - simulating nature with JS
-- [W3Schools](https://www.w3schools.com/) - HTML, CSS, JS, and more
+- [W3Schools](https://www.w3schools.com/){:target="_blank"} - HTML, CSS, JS, and more
 - [Happy Coding: p5.js Tutorials](https://happycoding.io/){:target="_blank"}
 - [Video Series: Coding Train with Dan Shiffman](https://www.youtube.com/@TheCodingTrain){:target="_blank"}
 - [Video Series: Scott Fitzgerald from IDM](https://www.youtube.com/channel/UCW9VfZo4J9MpQ05TaINk4QA/playlists?view=50&sort=dd&shelf_id=1){:target="_blank"}
@@ -18,7 +18,7 @@
 - [Spriter's Resource](https://www.spriters-resource.com/){:target="_blank"}
 - [Freesound.org](https://freesound.org/){:target="_blank"}
 - [uppbeat.io](https://uppbeat.io/){:target="_blank"}
-
+- [Project Gutenberg](https://www.gutenberg.org/){:target="_blank"} - free texts/books
 
 ### Tools
 - [GitHub](https://github.com/){:target="_blank"}
