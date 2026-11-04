@@ -7,7 +7,7 @@
 - [Audio](https://docs.google.com/document/d/1ulK8Uye1ImBhstP3M6S7NdVq0_-VxLAt_UugBzXpHYE/edit?usp=sharing){:target="_blank"}
 - [IDM: promises, async and await](https://idmp5.github.io/coding/promise-await/){:target="_blank"}
 - [IDM: sound processing](https://idmp5.github.io/creative-coding/sound-processing/){:target="_blank"}
-  - Note: There have been updates to p5.js and p5.sound since IDM's notes were made. Most of this code works with the new version of these libraries - *except* for the methods involving p5.SoundFile() and/or preload(). Review my notes or chat with the LLM for up to date examples.
+  - Note: There have been updates to p5.js and p5.sound since IDM's notes were made. Most of this code works with the new version of these libraries - *except* for the methods involving p5.SoundFile() and/or preload(). Review my notes or chat with the LLM for clarification.
 
 #### Supplemental Reading (Optional)
 - Alexander, Amy, and Nick Collins. [“Live Audiovisuals.”](https//www.cambridge.org/core/books/cambridge-companion-to-electronic-music/live-audiovisuals/27A5D2EE43125DDBA4373813B6AEA651?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark){:target="_blank"} The Cambridge Companion to Electronic Music. Ed. Nick Collins and Julio d’Escrivan. Cambridge: Cambridge University Press, 2017. 123–137. Print. Cambridge Companions to Music.
