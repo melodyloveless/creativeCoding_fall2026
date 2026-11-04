@@ -1,6 +1,6 @@
 ## Audioreactive visualization
 
-*To accomodate our in-person workshop, you all are asked to review the following materials on your own and create an audioreactive visualization with p5.js.*
+*To accomodate our in-person workshop on 11/4, you all are asked to review the following materials on your own and create an audioreactive visualization with p5.js.*
 
 ### Definitions
 - audio reactive (or audioreactive) - a work and/or environment that responds/adapts to incoming audio
