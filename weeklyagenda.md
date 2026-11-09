@@ -85,7 +85,7 @@
 - ml5.js
 - Gestural Interaction
 - **Coursework**:
-- Weekly Reflection
+  - Weekly Reflection
   - Assignment/Code: Gestural Control
 
 ### Week 11 (2026/11/18)
