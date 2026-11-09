@@ -15,7 +15,7 @@
   - [Getting Started](https://docs.ml5js.org/#/)
 
 ### Assignment
-- **Assignment**: [Gestural Interaction](assignment.html)
+- [Gestural Interaction](assignment.html)
 
 ### This week's LLM
 - [IDM Creative Coding Week 10]()
@@ -34,6 +34,6 @@ Before the end of the day on (Th) 11/12:
 
 Before the beginning of next class (W) 11/18:
 - Work on [this week's assignment](assignment.html)
-- Study for Quiz #2
+- Study for Quiz #2. Review thes study guide above.
 
 Note: There's no required reading/exploration/etc. this week.

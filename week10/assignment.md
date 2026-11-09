@@ -7,5 +7,7 @@ Think about the position of the camera and what it captures. Will you show the b
 
 You could use your body to control parameters of your sketch, play with masks and replacing body parts, or something more wild and novel.
 
+Bonus goal: incorporate images and/or audio
+
 **For your description:**
 Write up your thoughts on the questions above. Post this and a link to your work on your website.

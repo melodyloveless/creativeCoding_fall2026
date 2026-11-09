@@ -81,6 +81,20 @@
     - Audioreactive Visualization
     - Projection Mapping
 
+### Week 10 (2026/11/11)
+- ml5.js
+- Gestural Interaction
+- **Coursework**:
+- Weekly Reflection
+  - Assignment/Code: Gestural Control
+
+### Week 11 (2026/11/18)
+- Quiz #2
+- Intro to APIs
+- **Coursework**:
+  - Weekly Reflection
+  - Assignment/Code: Data Visualization
+
 <!-- 
 - **Coursework**
   - Weekly Reflection
