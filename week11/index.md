@@ -12,10 +12,8 @@ Intro to APIs
 ### Assignment
 - **Assignment**: Data Visualization
 
-
-
 ### This week's LLM
 - [IDM Creative Coding Week 11]()
 
-### Quiz 2 Study Guide
+
 

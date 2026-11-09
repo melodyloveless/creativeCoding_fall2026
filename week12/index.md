@@ -17,6 +17,7 @@
 
 ### Reading:  
   - [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
+  ** Make this week be an artist exploration + video assignment 
 
 
   ### Reading:  

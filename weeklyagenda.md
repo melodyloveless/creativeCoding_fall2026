@@ -78,7 +78,7 @@
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code:
-    - Interactivity Exploration
+    - Audioreactive Visualization
     - Projection Mapping
 
 <!-- 
