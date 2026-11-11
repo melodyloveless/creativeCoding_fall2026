@@ -27,12 +27,12 @@
 - [Quiz #2 Study Guide](https://docs.google.com/document/d/1yB2SHfi-X5qSwUZVMOSKSFrnZOCTCbOvwPBDMvG_g6s/edit?usp=sharing){:target="_blank"}
 
 ### Reading/Writing/Exploration: Image Analysis and Face Recognition
-** Review the following media: **
+**Review the following media:**
 - [Kyle McDonald, Appropriating New Technologies: Face as Interface](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2){:target="_blank"} (3300 words, ~15 minutes)
 - [Last Week Tonight with John Oliver: Facial Recognition](https://youtu.be/jZjmlJPJgug?si=9eFGGGZx538cnuAA){:target="_blank"} (20 minutes)
 - [Joy Buolamwini: How I’m fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY){:target="_blank"} (9 minutes)
 
-** Then, respond:** After reviewing the above, share a reaction to the article. Within your reaction, jot down two ideas, facts, claims, or images that you came across in the above media that struck you. Briefly write a sentence about why you found each of them interesting. 
+**Then, respond:** After reviewing the above, share a reaction to the article. Within your reaction, jot down two ideas, facts, claims, or images that you came across in the above media that struck you. Briefly write a sentence about why you found each of them interesting. 
 
 Length: 7-10 sentences
 
