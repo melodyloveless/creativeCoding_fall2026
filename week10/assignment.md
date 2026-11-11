@@ -4,7 +4,7 @@
 Using one of the following ml5.js models, write a sketch that enables you to control parameters with your body — this could be tracking your face ([FaceMesh](https://docs.ml5js.org/#/reference/facemesh)), hand ([HandPose](https://docs.ml5js.org/#/reference/handpose)), or body ([BodyPose](https://docs.ml5js.org/#/reference/bodypose)). 
 
 Use examples in the documentation as starting points for your own work.
-- Note: some of the documentation needs to be updated. Do *not* use sketches using an older version of p5.js and/or ml5.js. (If you see preload(), it's an old/outdated version of the library. Use something else.)
+- Note: some of the documentation needs to be updated. Do *not* use sketches using an older version of p5.js and/or ml5.js. (If you see preload(), it's using an older version of the p5.js library. Use something else.)
 
 Incorporate the webcam in your exploration. Think about the position of the camera and what it captures. Will you show the body or outline of control points? What information will you control or change? How do the gestures and positions you’re tracking map to the experience?
 
