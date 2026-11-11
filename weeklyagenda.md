@@ -81,7 +81,7 @@
     - Audioreactive Visualization
     - Projection Mapping
 
-### [Week 10 (2026/11/11)]](week10/)
+### [Week 10 (2026/11/11)](week10/)
 - ml5.js
 - Gestural Interaction
 - **Coursework**:
