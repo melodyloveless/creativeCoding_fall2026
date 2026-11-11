@@ -1,12 +1,12 @@
 ## Week 10
 - [Share out: Interactivity Exploration and Audiovisual Exploration](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?gid=0#gid=0){:target="_blank"}
-- Topics:
+- Topics: 
   - Images
   - Cameras
   - ml5.js
 - Discuss Quiz #2
 
-### Notes
+### Notess
 - [Images and Video](https://docs.google.com/document/d/1-aHAiesJ98yciseWUPEda2z9yV3MZHocpeP9MF0tn_U/edit?usp=sharing){:target="_blank"}
 - [Intro to AI and machine learning](https://docs.google.com/document/d/1OoSI7nXjFsthHWuzkSF9zFCKqSe1T9Nf-M98mj0ma9k/edit?usp=sharing){:target="_blank"}
 - [ml5.js Documentation](https://ml5js.org/){:target="_blank"}
