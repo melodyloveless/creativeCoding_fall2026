@@ -36,7 +36,7 @@
 
 Length: 7-10 sentences
 
-#### Supplemental Reading (Optional):  
+### Supplemental Reading (Optional):  
 - [Agre, Philip. The Soul Gained and Lost, 1995. https://pages.gseis.ucla.edu/faculty/agre/shr.html.](https://pages.gseis.ucla.edu/faculty/agre/shr.html) 
 
 ---
