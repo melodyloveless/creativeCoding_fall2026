@@ -6,7 +6,7 @@
   - ml5.js
 - Discuss Quiz #2
 
-### Notess
+### Notes
 - [Images and Video](https://docs.google.com/document/d/1-aHAiesJ98yciseWUPEda2z9yV3MZHocpeP9MF0tn_U/edit?usp=sharing){:target="_blank"}
 - [Intro to AI and machine learning](https://docs.google.com/document/d/1OoSI7nXjFsthHWuzkSF9zFCKqSe1T9Nf-M98mj0ma9k/edit?usp=sharing){:target="_blank"}
 - [ml5.js Documentation](https://ml5js.org/){:target="_blank"}
