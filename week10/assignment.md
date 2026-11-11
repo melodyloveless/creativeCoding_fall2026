@@ -10,7 +10,7 @@ Incorporate the webcam in your exploration. Think about the position of the came
 
 You could use your body to control parameters of your sketch, play with masks and replacing body parts, or something more wild and novel.
 
-Bonus goals: 
+**Bonus goals:** 
 - incorporate images and/or audio
 - incorporate array and/or string methods
 
