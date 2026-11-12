@@ -32,7 +32,7 @@
 - [Last Week Tonight with John Oliver: Facial Recognition](https://youtu.be/jZjmlJPJgug?si=9eFGGGZx538cnuAA){:target="_blank"} (20 minutes)
 - [Joy Buolamwini: How I’m fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY){:target="_blank"} (9 minutes)
 
-**Then, respond:** After reviewing the above, share a reaction to the article. Within your reaction, jot down two ideas, facts, claims, or images that you came across in the above media that struck you. Briefly write a sentence about why you found each of them interesting. 
+**Then, respond:** After reviewing the media above, share a reaction. Within your reaction, jot down two ideas, facts, claims, or images that you came across in the above media that struck you. Briefly write a sentence about why you found each of them interesting. Use time stamps and quotes when necessary.
 
 Length: 7-10 sentences
 
