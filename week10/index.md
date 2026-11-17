@@ -36,7 +36,8 @@
 
 Length: 7-10 sentences
 
-### Supplemental Reading (Optional):  
+### Supplemental Materials (Optional):  
+- [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
 - [Agre, Philip. The Soul Gained and Lost, 1995. https://pages.gseis.ucla.edu/faculty/agre/shr.html.](https://pages.gseis.ucla.edu/faculty/agre/shr.html) 
 
 ---
