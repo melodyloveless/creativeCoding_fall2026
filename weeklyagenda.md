@@ -89,7 +89,7 @@
   - Assignment/Code: Gestural Control
   - Reading/Exploration: Image Analysis and Face Recognition
 
-### Week 11 [(2026/11/18)](week11/)
+### [Week 11 (2026/11/18)](week11/)
 - Quiz #2
 - Working with external data
 - **Coursework**:
