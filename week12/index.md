@@ -36,4 +36,4 @@ Length: 7-10 sentences
 Before the beginning of next class (W) 12/2:
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
 - Work on this week's assignment (*due 12/9*)
-- Work on this week's reading/writing/exploration. (*Due above by next week.* See above for more.)
+- Work on this week's reading/writing/exploration. (See above for more.)
