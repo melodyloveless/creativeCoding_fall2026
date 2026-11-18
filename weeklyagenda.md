@@ -91,7 +91,7 @@
 
 ### Week 11 [(2026/11/18)](week11/)
 - Quiz #2
-- Intro to APIs
+- Working with external data
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Data Visualization
