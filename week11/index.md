@@ -16,7 +16,6 @@
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
-    - Review this for step-by-step instructions
 
 ### This week's LLM
 - [IDM Creative Coding Week 11](https://notebook.google.com/notebook/290c280c-b58b-44da-a6be-b2d50f373b30){:target="_blank"}
