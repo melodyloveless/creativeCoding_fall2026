@@ -4,10 +4,12 @@
   - Machine learning systems
   - Teachable Machine
 
-### Review
+### Notes
 - [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
 
-### Assignment
+--- 
+
+### Coursework
 - [Working with models]()
 
 ### This week's LLM

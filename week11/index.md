@@ -15,7 +15,7 @@
 
 --- 
 
-### Assignment
+### Coursework
 - **Assignment**: [Data Visualization](assignment.html)
 
 ### This week's LLM
