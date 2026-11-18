@@ -89,13 +89,20 @@
   - Assignment/Code: Gestural Control
   - Reading/Exploration: Image Analysis and Face Recognition
 
-### Week 11 (2026/11/18)
+### Week 11 (2026/11/18)(week11/)
 - Quiz #2
 - Intro to APIs
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Data Visualization
-  - Reading/Exploration: TBA
+  - Reading/Exploration: The Point of Collection
+
+### [Week 12 (2026/11/25)](week12/)
+- Machine learning systems, Teachable Machine
+- **Coursework**:
+  - Weekly Reflection
+  - Assignment/Code: Working with models
+  - Reading/Exploration: AI Artist Examples  
 
 <!-- 
 - **Coursework**
