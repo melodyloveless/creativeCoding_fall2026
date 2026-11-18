@@ -4,4 +4,4 @@ Find a data source and write a sketch that visualizes that data in some capacity
 
 Ask a question about the data and be specific! What are you trying to illustrate, hide(?), reveal, or argue for? Are you working with data that you need to refashion, or just taking what already exists?
 
-In your description, share a quick summary of your program and discuss the points/questions above. Make sure to share a source/hyperlink to your data set.
+**In your description:** share a quick summary of your program and discuss the points/questions above. Make sure to share a source/hyperlink to your data set.
