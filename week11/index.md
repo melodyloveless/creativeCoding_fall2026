@@ -23,7 +23,7 @@
 
 ### Reading/Exploration/Reflection: The Point of Collection
 - **Read:** Onuoha, Mimi. “The Point of Collection.” Points. Data & Society, February 10, 2016. [https://datasociety.net/points/the-point-of-collection/](https://datasociety.net/points/the-point-of-collection/){:target="_blank"}
-- **Explore:**: Review a few examples [from our notes.](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.odjnnuu98j1x){:target="_blank"}
+- **Explore:** Review a few examples [from our notes.](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.odjnnuu98j1x){:target="_blank"}
 - **Then, Respond:** Write a general response to the work. Dicuss and connect at least one of the examples from the notes to this response. Be as specific as possible, using quotations and hyperlinks as necessary.
 
 Length: 7-10 sentences
