@@ -3,7 +3,6 @@
 - [Share Out: Gestural Interaction](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?gid=0#gid=0){:target="_blank"}
 - If time: discuss last week's reading/writing/exploration
 - Topics
-    - Working with the DOM
     - Pulling data from other sources
     - Intro to Data Viz
 - If time: 
@@ -13,7 +12,6 @@
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
-- [IDM: The DOM](https://idmp5.github.io/creative-coding/the-dom/){:target="_blank"}
 
 --- 
 
