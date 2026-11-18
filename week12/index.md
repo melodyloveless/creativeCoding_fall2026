@@ -7,17 +7,20 @@
 ### Notes
 - [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
 
---- 
-
-### Coursework
-- [Working with models]()
-
 ### This week's LLM
 - [IDM Creative Coding Week 12]()
 
+#### Supplemental Materials (Optional):  
+- [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
+
+--- 
+
+### Coursework
+- **Assignment**: [Working with models]()
+
 ### Exploration/Reflection: AI Artists
-**Explore**: Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
-**Research:**: Do additional research on the artist who's work you decided to explore. 
+- **Explore**: Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
+- **Research:**: Do additional research on the artist who's work you decided to explore. 
 
 **Then, Respond:** 
 - Share a bit about the artist and project. 
@@ -29,9 +32,6 @@
 - Share links to your exploration/research about their work.
 
 Length: 7-10 sentences
-
-#### Supplemental Materials (Optional):  
-- [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
 
 --- 
 
