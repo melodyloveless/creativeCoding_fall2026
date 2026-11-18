@@ -17,7 +17,7 @@
 **Explore**: Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
 **Research:**: Do additional research on the artist who's work you decided to explore. 
 
-**Then, respond:** 
+**Then, Respond:** 
 - Share a bit about the artist and project. 
 - Then, include the following:
   - Why did you choose this project?
@@ -35,5 +35,5 @@ Length: 7-10 sentences
 
 Before the beginning of next class (W) 12/2:
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
-- Work on this week's assignment
-- Work on this week's reading/writing/exploration. (See above for more.)
+- Work on this week's assignment (*due 12/9*)
+- Work on this week's reading/writing/exploration. (*Due above by next week.* See above for more.)
