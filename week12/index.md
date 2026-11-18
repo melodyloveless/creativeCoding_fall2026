@@ -13,7 +13,7 @@
 ### This week's LLM
 - [IDM Creative Coding Week 12]()
 
-## Exploration/Reflection: AI Artists
+### Exploration/Reflection: AI Artists
 **Explore**: Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
 **Research:**: Do additional research on the artist who's work you decided to explore. 
 
@@ -28,7 +28,7 @@
 
 Length: 7-10 sentences
 
-### Supplemental Materials (Optional):  
+#### Supplemental Materials (Optional):  
 - [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
 
 --- 
