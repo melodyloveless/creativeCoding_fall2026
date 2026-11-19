@@ -16,11 +16,11 @@
 --- 
 
 ### Coursework
-- **Assignment**: [Working with models]()
+- **Assignment:** [Working with models]()
 
 ### Exploration/Reflection: AI Artists
-- **Explore**: Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
-- **Research:**: Do additional research on the artist who's work you decided to explore. 
+- **Explore:** Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
+- **Research:** Do additional research on the artist who's work you decided to explore. 
 
 **Then, Respond:** 
 - Share a bit about the artist and project. 
