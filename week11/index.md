@@ -39,10 +39,9 @@ Before the end of the day on (Th) 11/19:
 - Share your weekly reflection via Brightspace
 
 Before the beginning of next class (W) 11/25:
-- Work on [this week's assignment](assignment.html)
+- Work on [this week's assignment](assignment.html) ***(Update: deadline extended to 12/2)***
 - Work on this week's reading/writing/exploration. (See above for more.)
 - (Optional): Review [the "extended animation" notes.](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} Do this if you're interested in working with sprite sheets (animating images), 3D graphics, and more.
-
 
 *Request: If you are going to miss next week's class, please email me and give me a heads up.*
 
