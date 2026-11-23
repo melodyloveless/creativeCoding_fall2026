@@ -4,6 +4,7 @@
 - Topics (*will continue demo next week*)
     - Pulling data from other sources
     - Intro to Data Viz
+
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
@@ -36,4 +37,6 @@ Before the beginning of next class (W) 11/25:
 
 *Request: If you are going to miss next week's class, please email me and give me a heads up.*
 
-If you want to get ahead, see Week 12 and Week 13 and review available notes and coursework.
+If you want to get ahead:
+- Start this week's assigned coursework (The Point of Collection and Data Visualization.)
+- See Week 13 and review available notes and coursework.
