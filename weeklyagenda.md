@@ -101,7 +101,7 @@
 - **Coursework**:
   - Weekly Reflection 
   - Assignment/Code: Data Visualization (con)
-  -  Reading/Exploration: The Point of Collection (con)
+  - Reading/Exploration: The Point of Collection (con)
 
 ### [Week 13 (2026/12/02)](week13/)
 - Machine learning systems
@@ -109,11 +109,11 @@
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Working with models
-  - Reading/Exploration: AI Artist Examples
-
+  - Reading/Exploration: AI Artists
 
 ### Week 14
 - Final Project Workshopping
+- p5 and the DOM
 
 ### Week 15
 - Final Project Presentations
