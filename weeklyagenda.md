@@ -103,7 +103,7 @@
   - Assignment/Code: Data Visualization (con)
   -  Reading/Exploration: The Point of Collection (con)
 
-### [Week 13 (2026/12/02](week13/)
+### [Week 13 (2026/12/02)](week13/)
 - Machine learning systems
 - Teachable Machine
 - **Coursework**:
