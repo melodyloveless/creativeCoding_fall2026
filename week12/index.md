@@ -17,7 +17,7 @@
 
 ### Coursework
 *continued from Week 11*
-- **Assignment**: [Data Visualization](week11/assignment.html)
+- **Assignment**: [Data Visualization](../week11/assignment.html)
 
 ### Reading/Exploration/Reflection: The Point of Collection
 *continued from Week 11*
