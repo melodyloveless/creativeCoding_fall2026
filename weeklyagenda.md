@@ -91,18 +91,34 @@
 
 ### [Week 11 (2026/11/18)](week11/)
 - Quiz #2
-- Working with external data
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Data Visualization
   - Reading/Exploration: The Point of Collection
 
 ### [Week 12 (2026/11/25)](week12/)
-- Machine learning systems, Teachable Machine
+- Working with external data
+- **Coursework**:
+  - Weekly Reflection 
+  - Assignment/Code: Data Visualization (con)
+  -  Reading/Exploration: The Point of Collection (con)
+
+### [Week 13 (2026/12/02](week13/)
+- Machine learning systems
+- Teachable Machine
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Working with models
-  - Reading/Exploration: AI Artist Examples  
+  - Reading/Exploration: AI Artist Examples
+
+
+### Week 14
+- Final Project Workshopping
+
+### Week 15
+- Final Project Presentations
+***Last day of class***
+***Attendance is required***
 
 <!-- 
 - **Coursework**

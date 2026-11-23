@@ -1,18 +1,9 @@
 ## Week 11
 - Beginning of class: Quiz #2
 - [Share Out: Gestural Interaction](https://docs.google.com/spreadsheets/d/1Z74kFQ6x7ZAKwKiTyTKQ0niMHZcg4phJzLexM5Ep8MU/edit?gid=0#gid=0){:target="_blank"}
-- If time: discuss last week's reading/writing/exploration
-- Topics
+- Topics (*will continue demo next week*)
     - Pulling data from other sources
     - Intro to Data Viz
-- If time: 
-    - Intro to APIs
-    - Discuss additionals notes added to ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
-
-### Code
-- [Starting point for CSV Demo](https://drive.google.com/file/d/1QhhluE6H_nWUFINFBPr8UwgwC22GRzLN/view?usp=drive_link){:target="_blank"}
-    - [Source](https://data.cityofnewyork.us/City-Government/New-York-City-Population-by-Borough-1950-2040/xywu-7bv9/about_data){:target="_blank"}
-
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
@@ -40,9 +31,9 @@ Before the end of the day on (Th) 11/19:
 
 Before the beginning of next class (W) 11/25:
 - Work on [this week's assignment](assignment.html) ***(Update: deadline extended to 12/2)***
-- Work on this week's reading/writing/exploration. (See above for more.)
+- Work on this week's reading/writing/exploration. ***(Update: deadline extended to 12/2)***
 - (Optional): Review [the "extended animation" notes.](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} Do this if you're interested in working with sprite sheets (animating images), 3D graphics, and more.
 
 *Request: If you are going to miss next week's class, please email me and give me a heads up.*
 
-If you want to get ahead, see Week 12 and review available notes and coursework.
+If you want to get ahead, see Week 12 and Week 13 and review available notes and coursework.

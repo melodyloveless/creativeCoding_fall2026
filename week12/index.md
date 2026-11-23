@@ -1,41 +1,35 @@
 ## Week 12
-- Share Out: Data Visualization
-- Topics:
-  - Machine learning systems
-  - Teachable Machine
+- Topics
+    - Pulling data from other sources
+    - Intro to Data Viz
+    - Intro to APIs
+    - Discuss additionals notes added to ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
 
 ### Notes
-- [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
+- [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
+- ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
+- [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
 
-### This week's LLM
-- [IDM Creative Coding Week 12]()
-
-#### Supplemental Materials (Optional):  
-- [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen
+<!-- ### This week's LLM
+- [IDM Creative Coding Week 12]() -->
 
 --- 
 
 ### Coursework
-- **Assignment:** [Working with models]()
+*continued from Week 11*
+- **Assignment**: [Data Visualization](week11/assignment.html)
 
-### Exploration/Reflection: AI Artists
-- **Explore:** Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
-- **Research:** Do additional research on the artist who's work you decided to explore. 
-
-**Then, Respond:** 
-- Share a bit about the artist and project. 
-- Then, include the following:
-  - Why did you choose this project?
-  - What questions does it explore?
-  - If the project involved them building their own AI system, where did their training data come from? Who did the tagging and labelling? Does the project disclose this information or discuss this part of making the work?
-  - How does the work help us to reflect on issues of AI in society or our lives?
-- Share links to your exploration/research about their work.
+### Reading/Exploration/Reflection: The Point of Collection
+*continued from Week 11*
+- **Read:** Onuoha, Mimi. “The Point of Collection.” Points. Data & Society, February 10, 2016. [https://datasociety.net/points/the-point-of-collection/](https://datasociety.net/points/the-point-of-collection/){:target="_blank"}
+- **Explore:** Review a few examples [from our notes.](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.odjnnuu98j1x){:target="_blank"}
+- **Then, Respond:** Write a general response to the writing. Dicuss and connect at least one of the examples from the notes to your response. Be as specific as possible, using quotations and hyperlinks as necessary.
 
 Length: 7-10 sentences
 
 --- 
 
-Before the beginning of next class (W) 12/2:
+**Before the beginning of next class (W) 12/2:**
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
-- Work on this week's assignment (*due 12/9*)
-- Work on this week's reading/writing/exploration. (See above for more.)
+- Work on this week's assignment.
+- Work on this week's reading/writing/exploration. 
