@@ -15,9 +15,10 @@
 --- 
 
 ### Coursework
-- **Assignment**: [Data Visualization](assignment.html)
+- **Assignment**: [Data Visualization](assignment.html) *extension - due 12/2, Week 13*
 
 ### Reading/Exploration/Reflection: The Point of Collection
+*extension - due 12/2, Week 13*
 - **Read:** Onuoha, Mimi. “The Point of Collection.” Points. Data & Society, February 10, 2016. [https://datasociety.net/points/the-point-of-collection/](https://datasociety.net/points/the-point-of-collection/){:target="_blank"}
 - **Explore:** Review a few examples [from our notes.](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.odjnnuu98j1x){:target="_blank"}
 - **Then, Respond:** Write a general response to the writing. Dicuss and connect at least one of the examples from the notes to your response. Be as specific as possible, using quotations and hyperlinks as necessary.
@@ -30,13 +31,8 @@ Length: 7-10 sentences
 Before the end of the day on (Th) 11/19:
 - Share your weekly reflection via Brightspace
 
-Before the beginning of next class (W) 11/25:
-- Work on [this week's assignment](assignment.html) ***(Update: deadline extended to 12/2)***
-- Work on this week's reading/writing/exploration. ***(Update: deadline extended to 12/2)***
-- (Optional): Review [the "extended animation" notes.](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} Do this if you're interested in working with sprite sheets (animating images), 3D graphics, and more.
-
-*Request: If you are going to miss next week's class, please email me and give me a heads up.*
-
 If you want to get ahead:
 - Start this week's assigned coursework (The Point of Collection and Data Visualization.)
-- See Week 13 and review available notes and coursework.
+- See Week 12 and Week 13. Review available notes and coursework.
+
+*Request: If you are going to miss next week's class (Week 12), please email me and give me a heads up.*
