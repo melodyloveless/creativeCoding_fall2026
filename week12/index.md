@@ -31,5 +31,5 @@ Length: 7-10 sentences
 
 **Before the beginning of next class (W) 12/2:**
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
-- Work on this week's assignment.
-- Work on this week's reading/writing/exploration. 
+- Work on this week's assignment: Data Visualization.
+- Work on this week's reading/writing/exploration: The Point of Collection.
