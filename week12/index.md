@@ -40,4 +40,5 @@ Length: 7-10 sentences
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
 - Work on this week's assignment: Data Visualization.
 - Work on this week's reading/writing/exploration: The Point of Collection.
+- Review the prompt for the Final Project on your own.
 - Prepare for Final Project: Round Table Discussion
