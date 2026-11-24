@@ -7,8 +7,8 @@
 
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
-    - [Tutorial: How to load CSVs and JSONs into p5.js](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.aou6e72i9bgo){:target="_blank"}
-    - [Tutorial: Preparing CSVs for Data Visualization](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.xmzagnx0t3p){:target="_blank"}
+- [Tutorial: How to load CSVs and JSONs into p5.js](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.aou6e72i9bgo){:target="_blank"}
+- [Tutorial: Preparing CSVs for Data Visualization](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?tab=t.0#heading=h.xmzagnx0t3p){:target="_blank"}
 - ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
 
