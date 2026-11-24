@@ -31,6 +31,7 @@
 Length: 7-10 sentences
 
 --- 
+
 ### Final Project
 - [Description is here](../finalproject.html)
 
