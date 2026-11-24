@@ -11,7 +11,7 @@ Some other considerations:
 - A reminder that LLMs can be useful, but blindly using generated code without any sort of comprehension or deeper understanding of what it is doing is not learning and not appropriate in this course. Do not copy code from an LLM and drop it in your program without 1) acknowledging where you got the code from and 2) describing yourself what this code does and what you learned from implementing it.
 
 #### Round Table Discussion
-*In Class (W) 12/2*
+*In Class (W) 12/2*<br />
 We will have an informal discussion about people's plans for the final during class. During this conversation, we will use a shared document to archive this conversation. I'll share this document during class.
 
 Be prepared to 1) share your current plans for the final and 2) to share a link or two to one of the following:
@@ -21,7 +21,7 @@ Be prepared to 1) share your current plans for the final and 2) to share a link 
 Pick materials that would be useful in helping the rest of the class understand what you want to do.
 
 #### Research and Sketching
-*Due (W) 12/9*
+*Due (W) 12/9*<br />
 Write up a brief description of what you want to do in your github repository. Name the directory “Final Proposal”. You can leave this as a README or make it into an HTML page. [Feel free to use one our previous templates shared in class as a starting point.](https://drive.google.com/drive/folders/1j3lzPhCOiQ2_FA4ugHHcz3nQqnEN6GDh?usp=drive_link) 
 
 In either case, you should be providing the following 1) the assignment you are revisiting, 2) how you plan to change or otherwise respond to the work you previously did, 3) what work you have done so far, and 4) identify what else you need to do to accomplish this and where you expect to face challenges or need to learn in order to realize the work. Include your sketches, links to references (your work and others), and anything else that would be useful in helping a reader understand what you want to do, what you have done so far, and how you plan to accomplish it. We will discuss and share this work in class.
