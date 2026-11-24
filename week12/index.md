@@ -4,6 +4,7 @@
     - Intro to Data Viz
     - Intro to APIs
     - Discuss additionals notes added to ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"}
+- Discuss Final Project
 
 ### Notes
 - [Working with external data](https://docs.google.com/document/d/1xpCkKEDmZv6QD6SyWJRzm6IlX6yG84ZoYRUsLU6e82A/edit?usp=sharing){:target="_blank"}
@@ -30,11 +31,16 @@
 Length: 7-10 sentences
 
 --- 
+### Final Project
+-[Description is here](finalproject.html)
+
+--- 
 
 **Before the beginning of next class (W) 12/2:**
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
 - Work on this week's assignment: Data Visualization.
 - Work on this week's reading/writing/exploration: The Point of Collection.
+- Prepare for Final Project: First Milestone
 
 **If you want to get ahead:**
 - Work on next week's reading/writing/exploration: Week 13 - AI Artists.

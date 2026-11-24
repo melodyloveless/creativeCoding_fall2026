@@ -98,22 +98,28 @@
 
 ### [Week 12 (2026/11/25)](week12/)
 - Working with external data
+- Discuss Final Project
 - **Coursework**:
   - Weekly Reflection 
   - Assignment/Code: Data Visualization (con)
   - Reading/Exploration: The Point of Collection (con)
+  - Prepare for Final Project: Round Table Discussion
 
 ### [Week 13 (2026/12/02)](week13/)
 - Machine learning systems
 - Teachable Machine
+- Final Project: Round Table Discussion
 - **Coursework**:
   - Weekly Reflection
   - Assignment/Code: Working with models
   - Reading/Exploration: AI Artists
+  - Continue working on Final Project. Due by next class: Research and Sketching.
 
 ### Week 14
-- Final Project Workshopping
 - p5 and the DOM
+- Final Project Workshopping
+- **Coursework**:
+  - Continue working on Final Project
 
 ### Week 15
 - Final Project Presentations

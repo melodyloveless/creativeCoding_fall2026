@@ -4,6 +4,7 @@
 - Topics:
   - Machine learning systems
   - Teachable Machine
+- [Final Project: Round Table Discussion](finalproject.html)
 
 ### Notes
 - [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
@@ -22,6 +23,7 @@
 - Share links to your exploration/research about their work.
 
 Length: 7-10 sentences
+
 
 <!-- #### Supplemental Materials (Optional):  
 - [Excavating AI](https://excavating.ai) By Kate Crawford and Trevor Paglen -->
