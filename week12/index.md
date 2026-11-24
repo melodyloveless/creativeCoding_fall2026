@@ -32,7 +32,7 @@ Length: 7-10 sentences
 
 --- 
 ### Final Project
--[Description is here](finalproject.html)
+- [Description is here](../finalproject.html)
 
 --- 
 
@@ -40,8 +40,4 @@ Length: 7-10 sentences
 - Share your weekly reflection via Brightspace (*extension for the holiday*)
 - Work on this week's assignment: Data Visualization.
 - Work on this week's reading/writing/exploration: The Point of Collection.
-- Prepare for Final Project: First Milestone
-
-**If you want to get ahead:**
-- Work on next week's reading/writing/exploration: Week 13 - AI Artists.
-- Start thinking about what you want to focus on for your final project.
+- Prepare for Final Project: Round Table Discussion

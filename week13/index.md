@@ -4,7 +4,7 @@
 - Topics:
   - Machine learning systems
   - Teachable Machine
-- [Final Project: Round Table Discussion](finalproject.html)
+- [Final Project: Round Table Discussion](../finalproject.html)
 
 ### Notes
 - [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
