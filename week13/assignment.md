@@ -2,10 +2,11 @@
 
 Using [Teachable Machine](https://teachablemachine.withgoogle.com), train your own classifier. You may use the image, sound, or bodyPose classifiers. Be sure to capture a large dataset for each of the classes you a re trying to identify, the more there is, the better the model will be. 
 
-If using imnages, you can use large datasets that you chave scraped or collected(ex. playing cards, nature photography, images of your cat). If using voices for sound, collect as many different people sayingt he work or phrase as you possibly can. Same with body pose, donb;t rely just on your body, use many different prople.
+If using images, you can use large datasets that you have scraped or collected (ex. playing cards, nature photography, images of your cat). If using voices for sound, collect as many different people saying the word or phrase as you possibly can. Same with body pose, don't rely just on your body, use many different people.
 
-Incorporate the classifier into a sketch. The application is fairly open eneded- you could build a card game, an interacitve dance partner, a cute dog alert machine. Take a look at some other projects people have built with this tool for inspiration : 
+Incorporate the classifier into a sketch. The application is fairly open eneded - you could build a card game, an interactive dance partner, a cute dog alert machine. 
 
+Take a look at some other projects people have built with this tool for inspiration: 
 - [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
 - [dog.ai](https://dogai.netlify.app)
 - [tiny sorter](https://experiments.withgoogle.com/tiny-sorter)
@@ -13,3 +14,5 @@ Incorporate the classifier into a sketch. The application is fairly open eneded-
 - [WashOS: sound activated timer](https://www.youtube.com/watch?v=b07QVN7BLqA)
 - [rock paper scissors](https://silviueftimiedev.web.app)
 - [banannameter](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866)
+
+**In your description:** make sure to discuss your process (how did you train your classifier?), inspirations, and how to interact with your program.
