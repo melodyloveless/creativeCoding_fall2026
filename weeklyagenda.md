@@ -123,8 +123,8 @@
 
 ### Week 15
 - Final Project Presentations
-***- Last day of class***
-***- Attendance is required***
+  - ***Last day of class***
+  - ***Attendance is required***
 
 <!-- 
 - **Coursework**
