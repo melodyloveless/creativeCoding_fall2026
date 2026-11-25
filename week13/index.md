@@ -7,7 +7,11 @@
 - [Final Project: Round Table Discussion](../finalproject.html)
 
 ### Notes
-- [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
+- [IDM: Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [ml5.js Teachable Machine Reference](https://docs.ml5js.org/#/reference/image-classifier-tm)
+
+--- 
 
 ### Coursework
 - **Assignment**: [Working with Models](assignment.html)
@@ -32,13 +36,14 @@ Length: 7-10 sentences
 
 --- 
 
-Before the end of the day on (Th) 12/3:
-- - Share your weekly reflection via Brightspace (*extension for the holiday*)
+**Before the end of the day on (Th) 12/3:**
+- - Share your weekly reflection via Brightspace.
 
 **Before the beginning of next class (W) 12/9:**
 - Work on this week's assignment: Working with Models.
 - Work on this week's reading/writing/exploration: AI Artists.
-- Continue working on your Final Project. Post your Research and Sketching. Prepare for the related in-class discussion.
+- Continue working on your Final Project. 
+- Post your Research and Sketching. Prepare for the related in-class discussion.
 
 
 <!-- #### Supplemental Materials (Optional):  

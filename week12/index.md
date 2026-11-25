@@ -13,8 +13,8 @@
 - ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
 
-<!-- ### This week's LLM
-- [IDM Creative Coding Week 12]() -->
+### This week's LLM
+- [IDM Creative Coding Week 12](https://notebook.google.com/notebook/6ef9987d-340a-43c7-8e43-c95dfe84ddd8){:target="_blank"}
 
 --- 
 
@@ -30,8 +30,6 @@
 
 Length: 7-10 sentences
 
---- 
-
 ### Final Project
 - [Description is here](../finalproject.html)
 
@@ -42,4 +40,4 @@ Length: 7-10 sentences
 - Work on this week's assignment: Data Visualization.
 - Work on this week's reading/writing/exploration: The Point of Collection.
 - Review the prompt for the Final Project on your own.
-- Prepare for Final Project: Round Table Discussion
+- Prepare for Final Project: Round Table Discussion.
