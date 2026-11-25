@@ -13,6 +13,10 @@
 - ["Extended Animation"](https://docs.google.com/document/d/1EvrCF77K4TGZS6qf25bPoD05q0g2U5nEe09lKgiyh4E/edit?tab=t.0#heading=h.zahhgq7mqtpu){:target="_blank"} (Start at "Updating every X amount of time." Then, go down the page.)
 - [IDM: Loading Data](https://idmp5.github.io/creative-coding/data/){:target="_blank"}
 
+### Code/Templates
+- [Uploading a CSV to your project](https://drive.google.com/file/d/1QhhluE6H_nWUFINFBPr8UwgwC22GRzLN/view?usp=drive_link){:target="_blank"}
+- [Downloading a JSON from an API](https://editor.p5js.org/melodyloveless/sketches/hjpFR2hW6){:target="_blank"}
+
 ### This week's LLM
 - [IDM Creative Coding Week 12](https://notebook.google.com/notebook/6ef9987d-340a-43c7-8e43-c95dfe84ddd8){:target="_blank"}
 
