@@ -16,6 +16,7 @@
 ### Code/Templates
 - [Uploading a CSV to your project](https://drive.google.com/file/d/1QhhluE6H_nWUFINFBPr8UwgwC22GRzLN/view?usp=drive_link){:target="_blank"}
 - [Downloading a JSON from an API](https://editor.p5js.org/melodyloveless/sketches/hjpFR2hW6){:target="_blank"}
+    - Press button to update data
 
 ### This week's LLM
 - [IDM Creative Coding Week 12](https://notebook.google.com/notebook/6ef9987d-340a-43c7-8e43-c95dfe84ddd8){:target="_blank"}
