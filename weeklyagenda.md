@@ -103,7 +103,7 @@
   - Weekly Reflection 
   - Assignment/Code: Data Visualization (con)
   - Reading/Exploration: The Point of Collection (con)
-  - Prepare for Final Project: Round Table Discussion
+  - Final Project: Round Table Discussion
 
 ### [Week 13 (2026/12/02)](week13/)
 - Machine learning systems
@@ -113,18 +113,18 @@
   - Weekly Reflection
   - Assignment/Code: Working with models
   - Reading/Exploration: AI Artists
-  - Continue working on Final Project. Due by next class: Research and Sketching.
+  - Final Project: Research and Sketching
 
 ### Week 14
 - p5 and the DOM
 - Final Project Workshopping
 - **Coursework**:
-  - Continue working on Final Project
+  - Continue working on your Final Project
 
 ### Week 15
 - Final Project Presentations
-***Last day of class***
-***Attendance is required***
+***- Last day of class***
+***- Attendance is required***
 
 <!-- 
 - **Coursework**
