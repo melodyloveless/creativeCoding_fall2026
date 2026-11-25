@@ -3,11 +3,11 @@ In your final project, you will revisit an earlier homework assignment. You will
 
 Revisiting an earlier work can take one of two forms. The first is that you take your exisiting project and continue to build it out. If you go this route, you are working from your existing code base and will be making substantial improvements. If your initial homework was a sketch, this is a beta version of a finished project. It should be more refined technically, conceptually, and aesthetically from your initial work, and demonstrate iterative progress over what you mke previously.
 
-The second option is to look at your earlier work, consider what was interesting to you, and starting fresh on a program that acts as a “response” to the original. This should have some sort of conceptual resonance with the primary work, but can deviate from the form or execution in a more dramtic way than if you were starting from a pre-exisiting sketch. This is an opportunity for you to start over “knowing then what you do now” and approach the response with a deeper teachnical, aesthetic and conceptual framing
+The second option is to look at your earlier work, consider what was interesting to you, and starting fresh on a program that acts as a “response” to the original. This should have some sort of conceptual resonance with the primary work, but can deviate from the form or execution in a more dramtic way than if you were starting from a pre-exisiting sketch. This is an opportunity for you to start over “knowing then what you do now” and approach the response with a deeper technical, aesthetic, and conceptual framing
 
 Some other considerations:
 - This is meant to be fulfilling and challenge you in a good way. That is, you should expect some friction and frustration. A modest amount of this is a positive thing and demonstrates where your current capabilites lie.
-- Leave comments in your code - it does nto need to be overly descriptive or long, but it should demonstrate (using own words in English) what chunks of code are doing what. Identify where you had difficulty or a challenge in your process or knowledge in the comments as well.
+- Leave comments in your code - it does not need to be overly descriptive or long, but it should demonstrate (using own words in English) what chunks of code are doing what. Identify where you had difficulty or a challenge in your process or knowledge in the comments as well.
 - A reminder that LLMs can be useful, but blindly using generated code without any sort of comprehension or deeper understanding of what it is doing is not learning and not appropriate in this course. Do not copy code from an LLM and drop it in your program without 1) acknowledging where you got the code from and 2) describing yourself what this code does and what you learned from implementing it.
 
 #### Round Table Discussion
@@ -19,6 +19,8 @@ Be prepared to 1) share your current plans for the final and 2) to share a link 
 - A recent sketch that you're working on
 - Relevant inspiration and/or research
 Pick materials that would be useful in helping the rest of the class understand what you want to do.
+
+(W) 12/9 is the last day to pivot/change topics for your final. Meaning, you can change your topic between 12/2 and 12/9. Whatever you present to the class for the share out on 12/9 is considered a "commitment." You are expected to complete the prompts below for your final topic.
 
 #### Research and Sketching
 *Due (W) 12/9*<br />

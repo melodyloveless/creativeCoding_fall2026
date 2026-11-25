@@ -9,6 +9,9 @@
 ### Notes
 - [Teachable Machine](https://idmnyu.github.io/p5-fundamentals/ai/teachable-machine/)
 
+### Coursework
+- **Assignment**: [Working with Models](assignment.html)
+
 ### Exploration/Reflection: AI Artists
 - **Explore:** Choose a project from one of the artists listed on AI Artists and analyze it. [https://aiartists.org/](https://aiartists.org/) 
 - **Research:** Do additional research on the artist who's work you decided to explore. 
@@ -23,6 +26,19 @@
 - Share links to your exploration/research about their work.
 
 Length: 7-10 sentences
+
+### Final Project
+- [Description is here](../finalproject.html)
+
+--- 
+
+Before the end of the day on (Th) 12/3:
+- - Share your weekly reflection via Brightspace (*extension for the holiday*)
+
+**Before the beginning of next class (W) 12/9:**
+- Work on this week's assignment: Working with Models.
+- Work on this week's reading/writing/exploration: AI Artists.
+- Continue working on your Final Project. Post your Research and Sketching. Prepare for the related in-class discussion.
 
 
 <!-- #### Supplemental Materials (Optional):  
