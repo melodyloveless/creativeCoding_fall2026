@@ -37,7 +37,7 @@ Length: 7-10 sentences
 --- 
 
 **Before the end of the day on (Th) 12/3:**
-- - Share your weekly reflection via Brightspace.
+- Share your weekly reflection via Brightspace.
 
 **Before the beginning of next class (W) 12/9:**
 - Work on this week's assignment: Working with Models.
